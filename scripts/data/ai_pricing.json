@@ -1,0 +1,607 @@
+{
+  "source": "Hardcoded historical data + public pricing pages",
+  "fetched_at": "2026-02-24T08:14:54.333039Z",
+  "pricing_history": [
+    {
+      "date": "2020-06-11",
+      "provider": "OpenAI",
+      "model": "GPT-3 (davinci)",
+      "input_per_mtok": 60.0,
+      "output_per_mtok": 60.0,
+      "notes": "Original GPT-3 API launch pricing"
+    },
+    {
+      "date": "2022-01-27",
+      "provider": "OpenAI",
+      "model": "GPT-3 (text-davinci-002)",
+      "input_per_mtok": 20.0,
+      "output_per_mtok": 20.0,
+      "notes": "InstructGPT models"
+    },
+    {
+      "date": "2023-03-01",
+      "provider": "OpenAI",
+      "model": "GPT-3.5-turbo",
+      "input_per_mtok": 2.0,
+      "output_per_mtok": 2.0,
+      "notes": "ChatGPT API launch"
+    },
+    {
+      "date": "2023-03-14",
+      "provider": "OpenAI",
+      "model": "GPT-4",
+      "input_per_mtok": 30.0,
+      "output_per_mtok": 60.0,
+      "notes": "GPT-4 launch"
+    },
+    {
+      "date": "2023-03-14",
+      "provider": "Anthropic",
+      "model": "Claude 1",
+      "input_per_mtok": 11.02,
+      "output_per_mtok": 32.68,
+      "notes": "Claude API launch"
+    },
+    {
+      "date": "2023-06-13",
+      "provider": "OpenAI",
+      "model": "GPT-3.5-turbo (June)",
+      "input_per_mtok": 1.5,
+      "output_per_mtok": 2.0,
+      "notes": "Price reduction"
+    },
+    {
+      "date": "2023-07-06",
+      "provider": "OpenAI",
+      "model": "GPT-4 (July)",
+      "input_per_mtok": 30.0,
+      "output_per_mtok": 60.0,
+      "notes": "GPT-4 GA"
+    },
+    {
+      "date": "2023-07-11",
+      "provider": "Anthropic",
+      "model": "Claude 2",
+      "input_per_mtok": 11.02,
+      "output_per_mtok": 32.68,
+      "notes": "Claude 2 launch"
+    },
+    {
+      "date": "2023-11-06",
+      "provider": "OpenAI",
+      "model": "GPT-4-turbo",
+      "input_per_mtok": 10.0,
+      "output_per_mtok": 30.0,
+      "notes": "DevDay announcement"
+    },
+    {
+      "date": "2023-12-13",
+      "provider": "Google",
+      "model": "Gemini Pro",
+      "input_per_mtok": 0.5,
+      "output_per_mtok": 1.5,
+      "notes": "Gemini API launch"
+    },
+    {
+      "date": "2024-01-25",
+      "provider": "OpenAI",
+      "model": "GPT-3.5-turbo-0125",
+      "input_per_mtok": 0.5,
+      "output_per_mtok": 1.5,
+      "notes": "Further price cut"
+    },
+    {
+      "date": "2024-02-15",
+      "provider": "Google",
+      "model": "Gemini 1.0 Ultra",
+      "input_per_mtok": 7.0,
+      "output_per_mtok": 21.0,
+      "notes": "Ultra tier"
+    },
+    {
+      "date": "2024-03-04",
+      "provider": "Anthropic",
+      "model": "Claude 3 Opus",
+      "input_per_mtok": 15.0,
+      "output_per_mtok": 75.0,
+      "notes": "Claude 3 family launch"
+    },
+    {
+      "date": "2024-03-04",
+      "provider": "Anthropic",
+      "model": "Claude 3 Sonnet",
+      "input_per_mtok": 3.0,
+      "output_per_mtok": 15.0,
+      "notes": "Claude 3 family"
+    },
+    {
+      "date": "2024-03-04",
+      "provider": "Anthropic",
+      "model": "Claude 3 Haiku",
+      "input_per_mtok": 0.25,
+      "output_per_mtok": 1.25,
+      "notes": "Claude 3 family"
+    },
+    {
+      "date": "2024-05-13",
+      "provider": "OpenAI",
+      "model": "GPT-4o",
+      "input_per_mtok": 5.0,
+      "output_per_mtok": 15.0,
+      "notes": "GPT-4o launch"
+    },
+    {
+      "date": "2024-05-14",
+      "provider": "Google",
+      "model": "Gemini 1.5 Pro",
+      "input_per_mtok": 3.5,
+      "output_per_mtok": 10.5,
+      "notes": "1.5 Pro launch"
+    },
+    {
+      "date": "2024-05-14",
+      "provider": "Google",
+      "model": "Gemini 1.5 Flash",
+      "input_per_mtok": 0.35,
+      "output_per_mtok": 1.05,
+      "notes": "Flash tier"
+    },
+    {
+      "date": "2024-06-20",
+      "provider": "Anthropic",
+      "model": "Claude 3.5 Sonnet",
+      "input_per_mtok": 3.0,
+      "output_per_mtok": 15.0,
+      "notes": "3.5 Sonnet launch"
+    },
+    {
+      "date": "2024-07-18",
+      "provider": "OpenAI",
+      "model": "GPT-4o-mini",
+      "input_per_mtok": 0.15,
+      "output_per_mtok": 0.6,
+      "notes": "Mini model launch"
+    },
+    {
+      "date": "2024-09-12",
+      "provider": "OpenAI",
+      "model": "o1-preview",
+      "input_per_mtok": 15.0,
+      "output_per_mtok": 60.0,
+      "notes": "Reasoning model"
+    },
+    {
+      "date": "2024-09-12",
+      "provider": "OpenAI",
+      "model": "o1-mini",
+      "input_per_mtok": 3.0,
+      "output_per_mtok": 12.0,
+      "notes": "Reasoning model (mini)"
+    },
+    {
+      "date": "2024-09-24",
+      "provider": "Google",
+      "model": "Gemini 1.5 Pro (Sept price cut)",
+      "input_per_mtok": 1.25,
+      "output_per_mtok": 5.0,
+      "notes": "Price reduction"
+    },
+    {
+      "date": "2024-09-24",
+      "provider": "Google",
+      "model": "Gemini 1.5 Flash (Sept price cut)",
+      "input_per_mtok": 0.075,
+      "output_per_mtok": 0.3,
+      "notes": "Price reduction"
+    },
+    {
+      "date": "2024-12-11",
+      "provider": "Google",
+      "model": "Gemini 2.0 Flash",
+      "input_per_mtok": 0.1,
+      "output_per_mtok": 0.4,
+      "notes": "2.0 Flash launch"
+    },
+    {
+      "date": "2025-01-31",
+      "provider": "OpenAI",
+      "model": "o3-mini",
+      "input_per_mtok": 1.1,
+      "output_per_mtok": 4.4,
+      "notes": "o3-mini launch"
+    },
+    {
+      "date": "2025-02-24",
+      "provider": "Anthropic",
+      "model": "Claude 3.5 Haiku",
+      "input_per_mtok": 0.8,
+      "output_per_mtok": 4.0,
+      "notes": "3.5 Haiku launch"
+    },
+    {
+      "date": "2025-02-24",
+      "provider": "Anthropic",
+      "model": "Claude 3.7 Sonnet",
+      "input_per_mtok": 3.0,
+      "output_per_mtok": 15.0,
+      "notes": "3.7 Sonnet with extended thinking"
+    },
+    {
+      "date": "2025-03-25",
+      "provider": "Google",
+      "model": "Gemini 2.5 Pro",
+      "input_per_mtok": 1.25,
+      "output_per_mtok": 10.0,
+      "notes": "2.5 Pro with thinking"
+    },
+    {
+      "date": "2025-04-16",
+      "provider": "OpenAI",
+      "model": "GPT-4.1",
+      "input_per_mtok": 2.0,
+      "output_per_mtok": 8.0,
+      "notes": "GPT-4.1 launch"
+    },
+    {
+      "date": "2025-04-16",
+      "provider": "OpenAI",
+      "model": "GPT-4.1-mini",
+      "input_per_mtok": 0.4,
+      "output_per_mtok": 1.6,
+      "notes": "GPT-4.1-mini launch"
+    },
+    {
+      "date": "2025-04-16",
+      "provider": "OpenAI",
+      "model": "GPT-4.1-nano",
+      "input_per_mtok": 0.1,
+      "output_per_mtok": 0.4,
+      "notes": "GPT-4.1-nano launch"
+    }
+  ],
+  "trends": {
+    "cheapest_frontier_timeline": [
+      {
+        "date": "2020-06-11",
+        "model": "GPT-3 (davinci)",
+        "provider": "OpenAI",
+        "avg_per_mtok": 60.0
+      },
+      {
+        "date": "2022-01-27",
+        "model": "GPT-3 (text-davinci-002)",
+        "provider": "OpenAI",
+        "avg_per_mtok": 20.0
+      },
+      {
+        "date": "2023-03-01",
+        "model": "GPT-3.5-turbo",
+        "provider": "OpenAI",
+        "avg_per_mtok": 2.0
+      },
+      {
+        "date": "2023-06-13",
+        "model": "GPT-3.5-turbo (June)",
+        "provider": "OpenAI",
+        "avg_per_mtok": 1.75
+      },
+      {
+        "date": "2023-12-13",
+        "model": "Gemini Pro",
+        "provider": "Google",
+        "avg_per_mtok": 1.0
+      },
+      {
+        "date": "2024-03-04",
+        "model": "Claude 3 Haiku",
+        "provider": "Anthropic",
+        "avg_per_mtok": 0.75
+      },
+      {
+        "date": "2024-05-14",
+        "model": "Gemini 1.5 Flash",
+        "provider": "Google",
+        "avg_per_mtok": 0.7
+      },
+      {
+        "date": "2024-07-18",
+        "model": "GPT-4o-mini",
+        "provider": "OpenAI",
+        "avg_per_mtok": 0.375
+      },
+      {
+        "date": "2024-09-24",
+        "model": "Gemini 1.5 Flash (Sept price cut)",
+        "provider": "Google",
+        "avg_per_mtok": 0.188
+      }
+    ],
+    "cheapest_option_timeline": [
+      {
+        "date": "2020-06-11",
+        "model": "GPT-3 (davinci)",
+        "provider": "OpenAI",
+        "input_per_mtok": 60.0,
+        "output_per_mtok": 60.0
+      },
+      {
+        "date": "2022-01-27",
+        "model": "GPT-3 (text-davinci-002)",
+        "provider": "OpenAI",
+        "input_per_mtok": 20.0,
+        "output_per_mtok": 20.0
+      },
+      {
+        "date": "2023-03-01",
+        "model": "GPT-3.5-turbo",
+        "provider": "OpenAI",
+        "input_per_mtok": 2.0,
+        "output_per_mtok": 2.0
+      },
+      {
+        "date": "2023-06-13",
+        "model": "GPT-3.5-turbo (June)",
+        "provider": "OpenAI",
+        "input_per_mtok": 1.5,
+        "output_per_mtok": 2.0
+      },
+      {
+        "date": "2023-12-13",
+        "model": "Gemini Pro",
+        "provider": "Google",
+        "input_per_mtok": 0.5,
+        "output_per_mtok": 1.5
+      },
+      {
+        "date": "2024-03-04",
+        "model": "Claude 3 Haiku",
+        "provider": "Anthropic",
+        "input_per_mtok": 0.25,
+        "output_per_mtok": 1.25
+      },
+      {
+        "date": "2024-07-18",
+        "model": "GPT-4o-mini",
+        "provider": "OpenAI",
+        "input_per_mtok": 0.15,
+        "output_per_mtok": 0.6
+      },
+      {
+        "date": "2024-09-24",
+        "model": "Gemini 1.5 Flash (Sept price cut)",
+        "provider": "Google",
+        "input_per_mtok": 0.075,
+        "output_per_mtok": 0.3
+      }
+    ],
+    "by_provider": {
+      "OpenAI": [
+        {
+          "date": "2020-06-11",
+          "model": "GPT-3 (davinci)",
+          "input_per_mtok": 60.0,
+          "output_per_mtok": 60.0
+        },
+        {
+          "date": "2022-01-27",
+          "model": "GPT-3 (text-davinci-002)",
+          "input_per_mtok": 20.0,
+          "output_per_mtok": 20.0
+        },
+        {
+          "date": "2023-03-01",
+          "model": "GPT-3.5-turbo",
+          "input_per_mtok": 2.0,
+          "output_per_mtok": 2.0
+        },
+        {
+          "date": "2023-03-14",
+          "model": "GPT-4",
+          "input_per_mtok": 30.0,
+          "output_per_mtok": 60.0
+        },
+        {
+          "date": "2023-06-13",
+          "model": "GPT-3.5-turbo (June)",
+          "input_per_mtok": 1.5,
+          "output_per_mtok": 2.0
+        },
+        {
+          "date": "2023-07-06",
+          "model": "GPT-4 (July)",
+          "input_per_mtok": 30.0,
+          "output_per_mtok": 60.0
+        },
+        {
+          "date": "2023-11-06",
+          "model": "GPT-4-turbo",
+          "input_per_mtok": 10.0,
+          "output_per_mtok": 30.0
+        },
+        {
+          "date": "2024-01-25",
+          "model": "GPT-3.5-turbo-0125",
+          "input_per_mtok": 0.5,
+          "output_per_mtok": 1.5
+        },
+        {
+          "date": "2024-05-13",
+          "model": "GPT-4o",
+          "input_per_mtok": 5.0,
+          "output_per_mtok": 15.0
+        },
+        {
+          "date": "2024-07-18",
+          "model": "GPT-4o-mini",
+          "input_per_mtok": 0.15,
+          "output_per_mtok": 0.6
+        },
+        {
+          "date": "2024-09-12",
+          "model": "o1-preview",
+          "input_per_mtok": 15.0,
+          "output_per_mtok": 60.0
+        },
+        {
+          "date": "2024-09-12",
+          "model": "o1-mini",
+          "input_per_mtok": 3.0,
+          "output_per_mtok": 12.0
+        },
+        {
+          "date": "2025-01-31",
+          "model": "o3-mini",
+          "input_per_mtok": 1.1,
+          "output_per_mtok": 4.4
+        },
+        {
+          "date": "2025-04-16",
+          "model": "GPT-4.1",
+          "input_per_mtok": 2.0,
+          "output_per_mtok": 8.0
+        },
+        {
+          "date": "2025-04-16",
+          "model": "GPT-4.1-mini",
+          "input_per_mtok": 0.4,
+          "output_per_mtok": 1.6
+        },
+        {
+          "date": "2025-04-16",
+          "model": "GPT-4.1-nano",
+          "input_per_mtok": 0.1,
+          "output_per_mtok": 0.4
+        }
+      ],
+      "Anthropic": [
+        {
+          "date": "2023-03-14",
+          "model": "Claude 1",
+          "input_per_mtok": 11.02,
+          "output_per_mtok": 32.68
+        },
+        {
+          "date": "2023-07-11",
+          "model": "Claude 2",
+          "input_per_mtok": 11.02,
+          "output_per_mtok": 32.68
+        },
+        {
+          "date": "2024-03-04",
+          "model": "Claude 3 Opus",
+          "input_per_mtok": 15.0,
+          "output_per_mtok": 75.0
+        },
+        {
+          "date": "2024-03-04",
+          "model": "Claude 3 Sonnet",
+          "input_per_mtok": 3.0,
+          "output_per_mtok": 15.0
+        },
+        {
+          "date": "2024-03-04",
+          "model": "Claude 3 Haiku",
+          "input_per_mtok": 0.25,
+          "output_per_mtok": 1.25
+        },
+        {
+          "date": "2024-06-20",
+          "model": "Claude 3.5 Sonnet",
+          "input_per_mtok": 3.0,
+          "output_per_mtok": 15.0
+        },
+        {
+          "date": "2025-02-24",
+          "model": "Claude 3.5 Haiku",
+          "input_per_mtok": 0.8,
+          "output_per_mtok": 4.0
+        },
+        {
+          "date": "2025-02-24",
+          "model": "Claude 3.7 Sonnet",
+          "input_per_mtok": 3.0,
+          "output_per_mtok": 15.0
+        }
+      ],
+      "Google": [
+        {
+          "date": "2023-12-13",
+          "model": "Gemini Pro",
+          "input_per_mtok": 0.5,
+          "output_per_mtok": 1.5
+        },
+        {
+          "date": "2024-02-15",
+          "model": "Gemini 1.0 Ultra",
+          "input_per_mtok": 7.0,
+          "output_per_mtok": 21.0
+        },
+        {
+          "date": "2024-05-14",
+          "model": "Gemini 1.5 Pro",
+          "input_per_mtok": 3.5,
+          "output_per_mtok": 10.5
+        },
+        {
+          "date": "2024-05-14",
+          "model": "Gemini 1.5 Flash",
+          "input_per_mtok": 0.35,
+          "output_per_mtok": 1.05
+        },
+        {
+          "date": "2024-09-24",
+          "model": "Gemini 1.5 Pro (Sept price cut)",
+          "input_per_mtok": 1.25,
+          "output_per_mtok": 5.0
+        },
+        {
+          "date": "2024-09-24",
+          "model": "Gemini 1.5 Flash (Sept price cut)",
+          "input_per_mtok": 0.075,
+          "output_per_mtok": 0.3
+        },
+        {
+          "date": "2024-12-11",
+          "model": "Gemini 2.0 Flash",
+          "input_per_mtok": 0.1,
+          "output_per_mtok": 0.4
+        },
+        {
+          "date": "2025-03-25",
+          "model": "Gemini 2.5 Pro",
+          "input_per_mtok": 1.25,
+          "output_per_mtok": 10.0
+        }
+      ]
+    },
+    "frontier_price_decline": {
+      "first_model": "GPT-3 (davinci)",
+      "first_date": "2020-06-11",
+      "first_input_price": 60.0,
+      "latest_model": "GPT-4.1",
+      "latest_date": "2025-04-16",
+      "latest_input_price": 2.0,
+      "decline_factor": 30.0
+    }
+  },
+  "summary": {
+    "total_data_points": 32,
+    "providers": [
+      "OpenAI",
+      "Google",
+      "Anthropic"
+    ],
+    "date_range": "2020-06-11 to 2025-04-16",
+    "cheapest_current_input": 0.075,
+    "cheapest_current_output": 0.3,
+    "frontier_price_decline": {
+      "first_model": "GPT-3 (davinci)",
+      "first_date": "2020-06-11",
+      "first_input_price": 60.0,
+      "latest_model": "GPT-4.1",
+      "latest_date": "2025-04-16",
+      "latest_input_price": 2.0,
+      "decline_factor": 30.0
+    }
+  }
+}

@@ -1,0 +1,4096 @@
+{
+  "source": "SEC EDGAR XBRL API",
+  "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
+  "fetched_at": "2026-02-24T08:10:39.967154Z",
+  "companies": {
+    "Microsoft": {
+      "cik": "0000789019",
+      "entity_name": "MICROSOFT CORPORATION",
+      "all_filings": [
+        {
+          "end_date": "2008-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3182000000,
+          "capex_usd_billions": 3.18,
+          "frame": "CY2008"
+        },
+        {
+          "end_date": "2008-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 778000000,
+          "capex_usd_billions": 0.78,
+          "frame": "CY2008Q3"
+        },
+        {
+          "end_date": "2008-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1620000000,
+          "capex_usd_billions": 1.62,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2252000000,
+          "capex_usd_billions": 2.25,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3119000000,
+          "capex_usd_billions": 3.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 435000000,
+          "capex_usd_billions": 0.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 811000000,
+          "capex_usd_billions": 0.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1219000000,
+          "capex_usd_billions": 1.22,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1977000000,
+          "capex_usd_billions": 1.98,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-09-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 564000000,
+          "capex_usd_billions": 0.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1055000000,
+          "capex_usd_billions": 1.05,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-03-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1713000000,
+          "capex_usd_billions": 1.71,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2355000000,
+          "capex_usd_billions": 2.35,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 436000000,
+          "capex_usd_billions": 0.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q/A",
+          "capex_usd": 934000000,
+          "capex_usd_billions": 0.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1683000000,
+          "capex_usd_billions": 1.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2305000000,
+          "capex_usd_billions": 2.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 603000000,
+          "capex_usd_billions": 0.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1533000000,
+          "capex_usd_billions": 1.53,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2463000000,
+          "capex_usd_billions": 2.46,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4257000000,
+          "capex_usd_billions": 4.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1231000000,
+          "capex_usd_billions": 1.23,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2963000000,
+          "capex_usd_billions": 2.96,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4155000000,
+          "capex_usd_billions": 4.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 5485000000,
+          "capex_usd_billions": 5.49,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1282000000,
+          "capex_usd_billions": 1.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2772000000,
+          "capex_usd_billions": 2.77,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4163000000,
+          "capex_usd_billions": 4.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 5944000000,
+          "capex_usd_billions": 5.94,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1356000000,
+          "capex_usd_billions": 1.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 3380000000,
+          "capex_usd_billions": 3.38,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 5688000000,
+          "capex_usd_billions": 5.69,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 8343000000,
+          "capex_usd_billions": 8.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2163000000,
+          "capex_usd_billions": 2.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4151000000,
+          "capex_usd_billions": 4.15,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 5846000000,
+          "capex_usd_billions": 5.85,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 8129000000,
+          "capex_usd_billions": 8.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2132000000,
+          "capex_usd_billions": 2.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4718000000,
+          "capex_usd_billions": 4.72,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7652000000,
+          "capex_usd_billions": 7.65,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 11632000000,
+          "capex_usd_billions": 11.63,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3602000000,
+          "capex_usd_billions": 3.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 7309000000,
+          "capex_usd_billions": 7.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 9874000000,
+          "capex_usd_billions": 9.87,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13925000000,
+          "capex_usd_billions": 13.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3385000000,
+          "capex_usd_billions": 3.38,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6930000000,
+          "capex_usd_billions": 6.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 10697000000,
+          "capex_usd_billions": 10.7,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15441000000,
+          "capex_usd_billions": 15.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4907000000,
+          "capex_usd_billions": 4.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 9081000000,
+          "capex_usd_billions": 9.08,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 14170000000,
+          "capex_usd_billions": 14.17,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 20622000000,
+          "capex_usd_billions": 20.62,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5810000000,
+          "capex_usd_billions": 5.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11675000000,
+          "capex_usd_billions": 11.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 17015000000,
+          "capex_usd_billions": 17.02,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 23886000000,
+          "capex_usd_billions": 23.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6283000000,
+          "capex_usd_billions": 6.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 12557000000,
+          "capex_usd_billions": 12.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 19164000000,
+          "capex_usd_billions": 19.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 28107000000,
+          "capex_usd_billions": 28.11,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 9917000000,
+          "capex_usd_billions": 9.92,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 19652000000,
+          "capex_usd_billions": 19.65,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 30604000000,
+          "capex_usd_billions": 30.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 44477000000,
+          "capex_usd_billions": 44.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 14923000000,
+          "capex_usd_billions": 14.92,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 30727000000,
+          "capex_usd_billions": 30.73,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 47472000000,
+          "capex_usd_billions": 47.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 64551000000,
+          "capex_usd_billions": 64.55,
+          "frame": "CY2025"
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 19394000000,
+          "capex_usd_billions": 19.39,
+          "frame": "CY2025Q3"
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 49270000000,
+          "capex_usd_billions": 49.27,
+          "frame": ""
+        }
+      ],
+      "quarterly": [
+        {
+          "end_date": "2008-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 778000000,
+          "capex_usd_billions": 0.78,
+          "frame": "CY2008Q3"
+        },
+        {
+          "end_date": "2008-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1620000000,
+          "capex_usd_billions": 1.62,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2252000000,
+          "capex_usd_billions": 2.25,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 435000000,
+          "capex_usd_billions": 0.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 811000000,
+          "capex_usd_billions": 0.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1219000000,
+          "capex_usd_billions": 1.22,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-09-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 564000000,
+          "capex_usd_billions": 0.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1055000000,
+          "capex_usd_billions": 1.05,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-03-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1713000000,
+          "capex_usd_billions": 1.71,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 436000000,
+          "capex_usd_billions": 0.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q/A",
+          "capex_usd": 934000000,
+          "capex_usd_billions": 0.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1683000000,
+          "capex_usd_billions": 1.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 603000000,
+          "capex_usd_billions": 0.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1533000000,
+          "capex_usd_billions": 1.53,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2463000000,
+          "capex_usd_billions": 2.46,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1231000000,
+          "capex_usd_billions": 1.23,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2963000000,
+          "capex_usd_billions": 2.96,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4155000000,
+          "capex_usd_billions": 4.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1282000000,
+          "capex_usd_billions": 1.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2772000000,
+          "capex_usd_billions": 2.77,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4163000000,
+          "capex_usd_billions": 4.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1356000000,
+          "capex_usd_billions": 1.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 3380000000,
+          "capex_usd_billions": 3.38,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 5688000000,
+          "capex_usd_billions": 5.69,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2163000000,
+          "capex_usd_billions": 2.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4151000000,
+          "capex_usd_billions": 4.15,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 5846000000,
+          "capex_usd_billions": 5.85,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2132000000,
+          "capex_usd_billions": 2.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4718000000,
+          "capex_usd_billions": 4.72,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7652000000,
+          "capex_usd_billions": 7.65,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3602000000,
+          "capex_usd_billions": 3.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 7309000000,
+          "capex_usd_billions": 7.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 9874000000,
+          "capex_usd_billions": 9.87,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3385000000,
+          "capex_usd_billions": 3.38,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6930000000,
+          "capex_usd_billions": 6.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 10697000000,
+          "capex_usd_billions": 10.7,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4907000000,
+          "capex_usd_billions": 4.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 9081000000,
+          "capex_usd_billions": 9.08,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 14170000000,
+          "capex_usd_billions": 14.17,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5810000000,
+          "capex_usd_billions": 5.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11675000000,
+          "capex_usd_billions": 11.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 17015000000,
+          "capex_usd_billions": 17.02,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6283000000,
+          "capex_usd_billions": 6.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 12557000000,
+          "capex_usd_billions": 12.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 19164000000,
+          "capex_usd_billions": 19.16,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 9917000000,
+          "capex_usd_billions": 9.92,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 19652000000,
+          "capex_usd_billions": 19.65,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 30604000000,
+          "capex_usd_billions": 30.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 14923000000,
+          "capex_usd_billions": 14.92,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 30727000000,
+          "capex_usd_billions": 30.73,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 47472000000,
+          "capex_usd_billions": 47.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 19394000000,
+          "capex_usd_billions": 19.39,
+          "frame": "CY2025Q3"
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 49270000000,
+          "capex_usd_billions": 49.27,
+          "frame": ""
+        }
+      ],
+      "annual": [
+        {
+          "end_date": "2008-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3182000000,
+          "capex_usd_billions": 3.18,
+          "frame": "CY2008"
+        },
+        {
+          "end_date": "2009-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3119000000,
+          "capex_usd_billions": 3.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1977000000,
+          "capex_usd_billions": 1.98,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2355000000,
+          "capex_usd_billions": 2.35,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2305000000,
+          "capex_usd_billions": 2.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4257000000,
+          "capex_usd_billions": 4.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 5485000000,
+          "capex_usd_billions": 5.49,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 5944000000,
+          "capex_usd_billions": 5.94,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 8343000000,
+          "capex_usd_billions": 8.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 8129000000,
+          "capex_usd_billions": 8.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 11632000000,
+          "capex_usd_billions": 11.63,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13925000000,
+          "capex_usd_billions": 13.93,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15441000000,
+          "capex_usd_billions": 15.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 20622000000,
+          "capex_usd_billions": 20.62,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 23886000000,
+          "capex_usd_billions": 23.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 28107000000,
+          "capex_usd_billions": 28.11,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 44477000000,
+          "capex_usd_billions": 44.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 64551000000,
+          "capex_usd_billions": 64.55,
+          "frame": "CY2025"
+        }
+      ],
+      "latest_quarterly": {
+        "end_date": "2025-12-31",
+        "fiscal_year": 2026,
+        "fiscal_period": "Q2",
+        "form": "10-Q",
+        "capex_usd": 49270000000,
+        "capex_usd_billions": 49.27,
+        "frame": ""
+      },
+      "latest_annual": {
+        "end_date": "2025-06-30",
+        "fiscal_year": 2025,
+        "fiscal_period": "FY",
+        "form": "10-K",
+        "capex_usd": 64551000000,
+        "capex_usd_billions": 64.55,
+        "frame": "CY2025"
+      }
+    },
+    "Alphabet": {
+      "cik": "0001652044",
+      "entity_name": "ALPHABET INC.",
+      "all_filings": [
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 7358000000,
+          "capex_usd_billions": 7.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7408000000,
+          "capex_usd_billions": 7.41,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 10959000000,
+          "capex_usd_billions": 10.96,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2927000000,
+          "capex_usd_billions": 2.93,
+          "frame": "CY2015Q1"
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5442000000,
+          "capex_usd_billions": 5.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7815000000,
+          "capex_usd_billions": 7.82,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 9915000000,
+          "capex_usd_billions": 9.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2428000000,
+          "capex_usd_billions": 2.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4551000000,
+          "capex_usd_billions": 4.55,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7134000000,
+          "capex_usd_billions": 7.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 10212000000,
+          "capex_usd_billions": 10.21,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2508000000,
+          "capex_usd_billions": 2.51,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5339000000,
+          "capex_usd_billions": 5.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 8877000000,
+          "capex_usd_billions": 8.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13184000000,
+          "capex_usd_billions": 13.18,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 7299000000,
+          "capex_usd_billions": 7.3,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 12776000000,
+          "capex_usd_billions": 12.78,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 18058000000,
+          "capex_usd_billions": 18.06,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 25139000000,
+          "capex_usd_billions": 25.14,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4638000000,
+          "capex_usd_billions": 4.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 10764000000,
+          "capex_usd_billions": 10.76,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 17496000000,
+          "capex_usd_billions": 17.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 23548000000,
+          "capex_usd_billions": 23.55,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6005000000,
+          "capex_usd_billions": 6.0,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11396000000,
+          "capex_usd_billions": 11.4,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 16802000000,
+          "capex_usd_billions": 16.8,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 22281000000,
+          "capex_usd_billions": 22.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5942000000,
+          "capex_usd_billions": 5.94,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11438000000,
+          "capex_usd_billions": 11.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 18257000000,
+          "capex_usd_billions": 18.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 24640000000,
+          "capex_usd_billions": 24.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 9786000000,
+          "capex_usd_billions": 9.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 16614000000,
+          "capex_usd_billions": 16.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 23890000000,
+          "capex_usd_billions": 23.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 31485000000,
+          "capex_usd_billions": 31.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6289000000,
+          "capex_usd_billions": 6.29,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13177000000,
+          "capex_usd_billions": 13.18,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 21232000000,
+          "capex_usd_billions": 21.23,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 32251000000,
+          "capex_usd_billions": 32.25,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 12012000000,
+          "capex_usd_billions": 12.01,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 25198000000,
+          "capex_usd_billions": 25.2,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 38259000000,
+          "capex_usd_billions": 38.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 52535000000,
+          "capex_usd_billions": 52.53,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 17197000000,
+          "capex_usd_billions": 17.2,
+          "frame": "CY2025Q1"
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 39643000000,
+          "capex_usd_billions": 39.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 63596000000,
+          "capex_usd_billions": 63.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 91447000000,
+          "capex_usd_billions": 91.45,
+          "frame": "CY2025"
+        }
+      ],
+      "quarterly": [
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7408000000,
+          "capex_usd_billions": 7.41,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2927000000,
+          "capex_usd_billions": 2.93,
+          "frame": "CY2015Q1"
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5442000000,
+          "capex_usd_billions": 5.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7815000000,
+          "capex_usd_billions": 7.82,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2428000000,
+          "capex_usd_billions": 2.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4551000000,
+          "capex_usd_billions": 4.55,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 7134000000,
+          "capex_usd_billions": 7.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2508000000,
+          "capex_usd_billions": 2.51,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5339000000,
+          "capex_usd_billions": 5.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 8877000000,
+          "capex_usd_billions": 8.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 7299000000,
+          "capex_usd_billions": 7.3,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 12776000000,
+          "capex_usd_billions": 12.78,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 18058000000,
+          "capex_usd_billions": 18.06,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4638000000,
+          "capex_usd_billions": 4.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 10764000000,
+          "capex_usd_billions": 10.76,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 17496000000,
+          "capex_usd_billions": 17.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6005000000,
+          "capex_usd_billions": 6.0,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11396000000,
+          "capex_usd_billions": 11.4,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 16802000000,
+          "capex_usd_billions": 16.8,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5942000000,
+          "capex_usd_billions": 5.94,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 11438000000,
+          "capex_usd_billions": 11.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 18257000000,
+          "capex_usd_billions": 18.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 9786000000,
+          "capex_usd_billions": 9.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 16614000000,
+          "capex_usd_billions": 16.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 23890000000,
+          "capex_usd_billions": 23.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6289000000,
+          "capex_usd_billions": 6.29,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13177000000,
+          "capex_usd_billions": 13.18,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 21232000000,
+          "capex_usd_billions": 21.23,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 12012000000,
+          "capex_usd_billions": 12.01,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 25198000000,
+          "capex_usd_billions": 25.2,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 38259000000,
+          "capex_usd_billions": 38.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 17197000000,
+          "capex_usd_billions": 17.2,
+          "frame": "CY2025Q1"
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 39643000000,
+          "capex_usd_billions": 39.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 63596000000,
+          "capex_usd_billions": 63.6,
+          "frame": ""
+        }
+      ],
+      "annual": [
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 7358000000,
+          "capex_usd_billions": 7.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 10959000000,
+          "capex_usd_billions": 10.96,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 9915000000,
+          "capex_usd_billions": 9.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 10212000000,
+          "capex_usd_billions": 10.21,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13184000000,
+          "capex_usd_billions": 13.18,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 25139000000,
+          "capex_usd_billions": 25.14,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 23548000000,
+          "capex_usd_billions": 23.55,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 22281000000,
+          "capex_usd_billions": 22.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 24640000000,
+          "capex_usd_billions": 24.64,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 31485000000,
+          "capex_usd_billions": 31.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 32251000000,
+          "capex_usd_billions": 32.25,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 52535000000,
+          "capex_usd_billions": 52.53,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 91447000000,
+          "capex_usd_billions": 91.45,
+          "frame": "CY2025"
+        }
+      ],
+      "latest_quarterly": {
+        "end_date": "2025-09-30",
+        "fiscal_year": 2025,
+        "fiscal_period": "Q3",
+        "form": "10-Q",
+        "capex_usd": 63596000000,
+        "capex_usd_billions": 63.6,
+        "frame": ""
+      },
+      "latest_annual": {
+        "end_date": "2025-12-31",
+        "fiscal_year": 2025,
+        "fiscal_period": "FY",
+        "form": "10-K",
+        "capex_usd": 91447000000,
+        "capex_usd_billions": 91.45,
+        "frame": "CY2025"
+      }
+    },
+    "Amazon": {
+      "cik": "0001018724",
+      "entity_name": "AMAZON.COM, INC.",
+      "all_filings": [
+        {
+          "end_date": "2007-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 224000000,
+          "capex_usd_billions": 0.22,
+          "frame": "CY2007"
+        },
+        {
+          "end_date": "2008-06-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 272000000,
+          "capex_usd_billions": 0.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2008-09-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 305000000,
+          "capex_usd_billions": 0.3,
+          "frame": ""
+        },
+        {
+          "end_date": "2008-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 333000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 326000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-06-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 336000000,
+          "capex_usd_billions": 0.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-09-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 337000000,
+          "capex_usd_billions": 0.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 373000000,
+          "capex_usd_billions": 0.37,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 458000000,
+          "capex_usd_billions": 0.46,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 575000000,
+          "capex_usd_billions": 0.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 788000000,
+          "capex_usd_billions": 0.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 979000000,
+          "capex_usd_billions": 0.98,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-03-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1138000000,
+          "capex_usd_billions": 1.14,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1374000000,
+          "capex_usd_billions": 1.37,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1589000000,
+          "capex_usd_billions": 1.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1811000000,
+          "capex_usd_billions": 1.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1899000000,
+          "capex_usd_billions": 1.9,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2123000000,
+          "capex_usd_billions": 2.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2310000000,
+          "capex_usd_billions": 2.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3785000000,
+          "capex_usd_billions": 3.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4068000000,
+          "capex_usd_billions": 4.07,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4267000000,
+          "capex_usd_billions": 4.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4589000000,
+          "capex_usd_billions": 4.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3444000000,
+          "capex_usd_billions": 3.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3854000000,
+          "capex_usd_billions": 3.85,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4288000000,
+          "capex_usd_billions": 4.29,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4628000000,
+          "capex_usd_billions": 4.63,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4893000000,
+          "capex_usd_billions": 4.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4684000000,
+          "capex_usd_billions": 4.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4607000000,
+          "capex_usd_billions": 4.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4424000000,
+          "capex_usd_billions": 4.42,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4589000000,
+          "capex_usd_billions": 4.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4897000000,
+          "capex_usd_billions": 4.9,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5395000000,
+          "capex_usd_billions": 5.39,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 6040000000,
+          "capex_usd_billions": 6.04,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 6737000000,
+          "capex_usd_billions": 6.74,
+          "frame": "CY2016"
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 7417000000,
+          "capex_usd_billions": 7.42,
+          "frame": ""
+        }
+      ],
+      "quarterly": [
+        {
+          "end_date": "2008-06-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 272000000,
+          "capex_usd_billions": 0.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2008-09-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 305000000,
+          "capex_usd_billions": 0.3,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 326000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-06-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 336000000,
+          "capex_usd_billions": 0.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-09-30",
+          "fiscal_year": 2009,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 337000000,
+          "capex_usd_billions": 0.34,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-03-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 458000000,
+          "capex_usd_billions": 0.46,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-06-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 575000000,
+          "capex_usd_billions": 0.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-09-30",
+          "fiscal_year": 2010,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 788000000,
+          "capex_usd_billions": 0.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-03-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1138000000,
+          "capex_usd_billions": 1.14,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1374000000,
+          "capex_usd_billions": 1.37,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2011,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1589000000,
+          "capex_usd_billions": 1.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1899000000,
+          "capex_usd_billions": 1.9,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2123000000,
+          "capex_usd_billions": 2.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 2310000000,
+          "capex_usd_billions": 2.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4068000000,
+          "capex_usd_billions": 4.07,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4267000000,
+          "capex_usd_billions": 4.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4589000000,
+          "capex_usd_billions": 4.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3854000000,
+          "capex_usd_billions": 3.85,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4288000000,
+          "capex_usd_billions": 4.29,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4628000000,
+          "capex_usd_billions": 4.63,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4684000000,
+          "capex_usd_billions": 4.68,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 4607000000,
+          "capex_usd_billions": 4.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4424000000,
+          "capex_usd_billions": 4.42,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4897000000,
+          "capex_usd_billions": 4.9,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 5395000000,
+          "capex_usd_billions": 5.39,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 6040000000,
+          "capex_usd_billions": 6.04,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 7417000000,
+          "capex_usd_billions": 7.42,
+          "frame": ""
+        }
+      ],
+      "annual": [
+        {
+          "end_date": "2007-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 224000000,
+          "capex_usd_billions": 0.22,
+          "frame": "CY2007"
+        },
+        {
+          "end_date": "2008-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 333000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2009-12-31",
+          "fiscal_year": 2009,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 373000000,
+          "capex_usd_billions": 0.37,
+          "frame": ""
+        },
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2010,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 979000000,
+          "capex_usd_billions": 0.98,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2011,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1811000000,
+          "capex_usd_billions": 1.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3785000000,
+          "capex_usd_billions": 3.79,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 3444000000,
+          "capex_usd_billions": 3.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4893000000,
+          "capex_usd_billions": 4.89,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4589000000,
+          "capex_usd_billions": 4.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 6737000000,
+          "capex_usd_billions": 6.74,
+          "frame": "CY2016"
+        }
+      ],
+      "latest_quarterly": {
+        "end_date": "2017-03-31",
+        "fiscal_year": 2017,
+        "fiscal_period": "Q1",
+        "form": "10-Q",
+        "capex_usd": 7417000000,
+        "capex_usd_billions": 7.42,
+        "frame": ""
+      },
+      "latest_annual": {
+        "end_date": "2016-12-31",
+        "fiscal_year": 2016,
+        "fiscal_period": "FY",
+        "form": "10-K",
+        "capex_usd": 6737000000,
+        "capex_usd_billions": 6.74,
+        "frame": "CY2016"
+      }
+    },
+    "Meta": {
+      "cik": "0001326801",
+      "entity_name": "Meta Platforms, Inc.",
+      "all_filings": [
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 293000000,
+          "capex_usd_billions": 0.29,
+          "frame": "CY2010"
+        },
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 285000000,
+          "capex_usd_billions": 0.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 421000000,
+          "capex_usd_billions": 0.42,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 606000000,
+          "capex_usd_billions": 0.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 453000000,
+          "capex_usd_billions": 0.45,
+          "frame": "CY2012Q1"
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 866000000,
+          "capex_usd_billions": 0.87,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1037000000,
+          "capex_usd_billions": 1.04,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1235000000,
+          "capex_usd_billions": 1.24,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 327000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 595000000,
+          "capex_usd_billions": 0.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 879000000,
+          "capex_usd_billions": 0.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1362000000,
+          "capex_usd_billions": 1.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 363000000,
+          "capex_usd_billions": 0.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 832000000,
+          "capex_usd_billions": 0.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1314000000,
+          "capex_usd_billions": 1.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1831000000,
+          "capex_usd_billions": 1.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 502000000,
+          "capex_usd_billions": 0.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1051000000,
+          "capex_usd_billions": 1.05,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1831000000,
+          "capex_usd_billions": 1.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2523000000,
+          "capex_usd_billions": 2.52,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1132000000,
+          "capex_usd_billions": 1.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2127000000,
+          "capex_usd_billions": 2.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 3222000000,
+          "capex_usd_billions": 3.22,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4491000000,
+          "capex_usd_billions": 4.49,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1271000000,
+          "capex_usd_billions": 1.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2715000000,
+          "capex_usd_billions": 2.71,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4470000000,
+          "capex_usd_billions": 4.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 6733000000,
+          "capex_usd_billions": 6.73,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2812000000,
+          "capex_usd_billions": 2.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6272000000,
+          "capex_usd_billions": 6.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 9614000000,
+          "capex_usd_billions": 9.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13915000000,
+          "capex_usd_billions": 13.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3837000000,
+          "capex_usd_billions": 3.84,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 7470000000,
+          "capex_usd_billions": 7.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 11002000000,
+          "capex_usd_billions": 11.0,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15102000000,
+          "capex_usd_billions": 15.1,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3558000000,
+          "capex_usd_billions": 3.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6813000000,
+          "capex_usd_billions": 6.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 10502000000,
+          "capex_usd_billions": 10.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15115000000,
+          "capex_usd_billions": 15.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4272000000,
+          "capex_usd_billions": 4.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 8884000000,
+          "capex_usd_billions": 8.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 13198000000,
+          "capex_usd_billions": 13.2,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 18567000000,
+          "capex_usd_billions": 18.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5441000000,
+          "capex_usd_billions": 5.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13013000000,
+          "capex_usd_billions": 13.01,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 22388000000,
+          "capex_usd_billions": 22.39,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 31431000000,
+          "capex_usd_billions": 31.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6842000000,
+          "capex_usd_billions": 6.84,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13058000000,
+          "capex_usd_billions": 13.06,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 19601000000,
+          "capex_usd_billions": 19.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 27266000000,
+          "capex_usd_billions": 27.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6400000000,
+          "capex_usd_billions": 6.4,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 14573000000,
+          "capex_usd_billions": 14.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 22831000000,
+          "capex_usd_billions": 22.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 37256000000,
+          "capex_usd_billions": 37.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 12941000000,
+          "capex_usd_billions": 12.94,
+          "frame": "CY2025Q1"
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 29479000000,
+          "capex_usd_billions": 29.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 48308000000,
+          "capex_usd_billions": 48.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 69691000000,
+          "capex_usd_billions": 69.69,
+          "frame": "CY2025"
+        }
+      ],
+      "quarterly": [
+        {
+          "end_date": "2011-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 285000000,
+          "capex_usd_billions": 0.28,
+          "frame": ""
+        },
+        {
+          "end_date": "2011-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 421000000,
+          "capex_usd_billions": 0.42,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 453000000,
+          "capex_usd_billions": 0.45,
+          "frame": "CY2012Q1"
+        },
+        {
+          "end_date": "2012-06-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 866000000,
+          "capex_usd_billions": 0.87,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-09-30",
+          "fiscal_year": 2012,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1037000000,
+          "capex_usd_billions": 1.04,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-03-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 327000000,
+          "capex_usd_billions": 0.33,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-06-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 595000000,
+          "capex_usd_billions": 0.59,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-09-30",
+          "fiscal_year": 2013,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 879000000,
+          "capex_usd_billions": 0.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-03-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 363000000,
+          "capex_usd_billions": 0.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-06-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 832000000,
+          "capex_usd_billions": 0.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-09-30",
+          "fiscal_year": 2014,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1314000000,
+          "capex_usd_billions": 1.31,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-03-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 502000000,
+          "capex_usd_billions": 0.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-06-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 1051000000,
+          "capex_usd_billions": 1.05,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-09-30",
+          "fiscal_year": 2015,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 1831000000,
+          "capex_usd_billions": 1.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-03-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1132000000,
+          "capex_usd_billions": 1.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-06-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2127000000,
+          "capex_usd_billions": 2.13,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-09-30",
+          "fiscal_year": 2016,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 3222000000,
+          "capex_usd_billions": 3.22,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-03-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 1271000000,
+          "capex_usd_billions": 1.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-06-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 2715000000,
+          "capex_usd_billions": 2.71,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-09-30",
+          "fiscal_year": 2017,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 4470000000,
+          "capex_usd_billions": 4.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-03-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 2812000000,
+          "capex_usd_billions": 2.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-06-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6272000000,
+          "capex_usd_billions": 6.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-09-30",
+          "fiscal_year": 2018,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 9614000000,
+          "capex_usd_billions": 9.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-03-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3837000000,
+          "capex_usd_billions": 3.84,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-06-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 7470000000,
+          "capex_usd_billions": 7.47,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-09-30",
+          "fiscal_year": 2019,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 11002000000,
+          "capex_usd_billions": 11.0,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-03-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 3558000000,
+          "capex_usd_billions": 3.56,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-06-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 6813000000,
+          "capex_usd_billions": 6.81,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-09-30",
+          "fiscal_year": 2020,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 10502000000,
+          "capex_usd_billions": 10.5,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-03-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 4272000000,
+          "capex_usd_billions": 4.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-06-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 8884000000,
+          "capex_usd_billions": 8.88,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-09-30",
+          "fiscal_year": 2021,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 13198000000,
+          "capex_usd_billions": 13.2,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-03-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 5441000000,
+          "capex_usd_billions": 5.44,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-06-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13013000000,
+          "capex_usd_billions": 13.01,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-09-30",
+          "fiscal_year": 2022,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 22388000000,
+          "capex_usd_billions": 22.39,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-03-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6842000000,
+          "capex_usd_billions": 6.84,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-06-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 13058000000,
+          "capex_usd_billions": 13.06,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-09-30",
+          "fiscal_year": 2023,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 19601000000,
+          "capex_usd_billions": 19.6,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-03-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 6400000000,
+          "capex_usd_billions": 6.4,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-06-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 14573000000,
+          "capex_usd_billions": 14.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-09-30",
+          "fiscal_year": 2024,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 22831000000,
+          "capex_usd_billions": 22.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-03-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 12941000000,
+          "capex_usd_billions": 12.94,
+          "frame": "CY2025Q1"
+        },
+        {
+          "end_date": "2025-06-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 29479000000,
+          "capex_usd_billions": 29.48,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-09-30",
+          "fiscal_year": 2025,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 48308000000,
+          "capex_usd_billions": 48.31,
+          "frame": ""
+        }
+      ],
+      "annual": [
+        {
+          "end_date": "2010-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 293000000,
+          "capex_usd_billions": 0.29,
+          "frame": "CY2010"
+        },
+        {
+          "end_date": "2011-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 606000000,
+          "capex_usd_billions": 0.61,
+          "frame": ""
+        },
+        {
+          "end_date": "2012-12-31",
+          "fiscal_year": 2012,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1235000000,
+          "capex_usd_billions": 1.24,
+          "frame": ""
+        },
+        {
+          "end_date": "2013-12-31",
+          "fiscal_year": 2013,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1362000000,
+          "capex_usd_billions": 1.36,
+          "frame": ""
+        },
+        {
+          "end_date": "2014-12-31",
+          "fiscal_year": 2014,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 1831000000,
+          "capex_usd_billions": 1.83,
+          "frame": ""
+        },
+        {
+          "end_date": "2015-12-31",
+          "fiscal_year": 2015,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 2523000000,
+          "capex_usd_billions": 2.52,
+          "frame": ""
+        },
+        {
+          "end_date": "2016-12-31",
+          "fiscal_year": 2016,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 4491000000,
+          "capex_usd_billions": 4.49,
+          "frame": ""
+        },
+        {
+          "end_date": "2017-12-31",
+          "fiscal_year": 2017,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 6733000000,
+          "capex_usd_billions": 6.73,
+          "frame": ""
+        },
+        {
+          "end_date": "2018-12-31",
+          "fiscal_year": 2018,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 13915000000,
+          "capex_usd_billions": 13.91,
+          "frame": ""
+        },
+        {
+          "end_date": "2019-12-31",
+          "fiscal_year": 2019,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15102000000,
+          "capex_usd_billions": 15.1,
+          "frame": ""
+        },
+        {
+          "end_date": "2020-12-31",
+          "fiscal_year": 2020,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 15115000000,
+          "capex_usd_billions": 15.12,
+          "frame": ""
+        },
+        {
+          "end_date": "2021-12-31",
+          "fiscal_year": 2021,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 18567000000,
+          "capex_usd_billions": 18.57,
+          "frame": ""
+        },
+        {
+          "end_date": "2022-12-31",
+          "fiscal_year": 2022,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 31431000000,
+          "capex_usd_billions": 31.43,
+          "frame": ""
+        },
+        {
+          "end_date": "2023-12-31",
+          "fiscal_year": 2023,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 27266000000,
+          "capex_usd_billions": 27.27,
+          "frame": ""
+        },
+        {
+          "end_date": "2024-12-31",
+          "fiscal_year": 2024,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 37256000000,
+          "capex_usd_billions": 37.26,
+          "frame": ""
+        },
+        {
+          "end_date": "2025-12-31",
+          "fiscal_year": 2025,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 69691000000,
+          "capex_usd_billions": 69.69,
+          "frame": "CY2025"
+        }
+      ],
+      "latest_quarterly": {
+        "end_date": "2025-09-30",
+        "fiscal_year": 2025,
+        "fiscal_period": "Q3",
+        "form": "10-Q",
+        "capex_usd": 48308000000,
+        "capex_usd_billions": 48.31,
+        "frame": ""
+      },
+      "latest_annual": {
+        "end_date": "2025-12-31",
+        "fiscal_year": 2025,
+        "fiscal_period": "FY",
+        "form": "10-K",
+        "capex_usd": 69691000000,
+        "capex_usd_billions": 69.69,
+        "frame": "CY2025"
+      }
+    }
+  },
+  "summary": {
+    "combined_annual_capex": [
+      {
+        "year": 2009,
+        "total_capex_usd": 930000000,
+        "total_capex_usd_billions": 0.93
+      },
+      {
+        "year": 2010,
+        "total_capex_usd": 9257000000,
+        "total_capex_usd_billions": 9.26
+      },
+      {
+        "year": 2011,
+        "total_capex_usd": 4166000000,
+        "total_capex_usd_billions": 4.17
+      },
+      {
+        "year": 2012,
+        "total_capex_usd": 8224000000,
+        "total_capex_usd_billions": 8.22
+      },
+      {
+        "year": 2013,
+        "total_capex_usd": 9063000000,
+        "total_capex_usd_billions": 9.06
+      },
+      {
+        "year": 2014,
+        "total_capex_usd": 12209000000,
+        "total_capex_usd_billions": 12.21
+      },
+      {
+        "year": 2015,
+        "total_capex_usd": 41288000000,
+        "total_capex_usd_billions": 41.29
+      },
+      {
+        "year": 2016,
+        "total_capex_usd": 29783000000,
+        "total_capex_usd_billions": 29.78
+      },
+      {
+        "year": 2017,
+        "total_capex_usd": 28046000000,
+        "total_capex_usd_billions": 28.05
+      },
+      {
+        "year": 2018,
+        "total_capex_usd": 50686000000,
+        "total_capex_usd_billions": 50.69
+      },
+      {
+        "year": 2019,
+        "total_capex_usd": 52575000000,
+        "total_capex_usd_billions": 52.58
+      },
+      {
+        "year": 2020,
+        "total_capex_usd": 52837000000,
+        "total_capex_usd_billions": 52.84
+      },
+      {
+        "year": 2021,
+        "total_capex_usd": 63829000000,
+        "total_capex_usd_billions": 63.83
+      },
+      {
+        "year": 2022,
+        "total_capex_usd": 86802000000,
+        "total_capex_usd_billions": 86.8
+      },
+      {
+        "year": 2023,
+        "total_capex_usd": 87624000000,
+        "total_capex_usd_billions": 87.62
+      },
+      {
+        "year": 2024,
+        "total_capex_usd": 134268000000,
+        "total_capex_usd_billions": 134.27
+      },
+      {
+        "year": 2025,
+        "total_capex_usd": 225689000000,
+        "total_capex_usd_billions": 225.69
+      }
+    ],
+    "latest_quarterly_by_company": {
+      "Microsoft": {
+        "period": "2026 Q2",
+        "capex_usd_billions": 49.27
+      },
+      "Alphabet": {
+        "period": "2025 Q3",
+        "capex_usd_billions": 63.6
+      },
+      "Amazon": {
+        "period": "2017 Q1",
+        "capex_usd_billions": 7.42
+      },
+      "Meta": {
+        "period": "2025 Q3",
+        "capex_usd_billions": 48.31
+      }
+    }
+  }
+}

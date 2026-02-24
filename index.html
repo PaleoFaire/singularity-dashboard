@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Singularity Dashboard | Rational Optimist Society</title>
+    <meta name="description" content="20 technologies bending toward vertical — tracked, measured, and explained. The live scoreboard for the greatest technological transformation in human history.">
+    <meta property="og:title" content="The Singularity Dashboard | Rational Optimist Society">
+    <meta property="og:description" content="20 technologies bending toward vertical. The live scoreboard for civilizational progress.">
+    <meta property="og:type" content="website">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="nav">
+    <div class="nav-brand">
+        <div class="nav-logo">ROS</div>
+        <span class="nav-title">THE SINGULARITY DASHBOARD</span>
+    </div>
+    <div class="nav-links">
+        <a href="#scoreboard" class="nav-link">Scoreboard</a>
+        <a href="#deep-dives" class="nav-link">Deep Dives</a>
+        <a href="https://www.rationaloptimistsociety.com" target="_blank" rel="noopener" class="nav-cta">Join ROS</a>
+    </div>
+    <button class="mobile-menu-btn" aria-label="Menu">
+        <span></span><span></span><span></span>
+    </button>
+</nav>
+
+<!-- Hero -->
+<header class="hero">
+    <div class="hero-particles" id="hero-particles"></div>
+    <div class="hero-content">
+        <p class="hero-eyebrow">RATIONAL OPTIMIST SOCIETY</p>
+        <h1 class="hero-title">The Singularity Dashboard</h1>
+        <p class="hero-subtitle">Twenty technologies bending toward vertical — tracked, measured, and explained.<br>The live scoreboard for the greatest technological transformation in human history.</p>
+        <div class="hero-quote">
+            <span class="quote-mark">"</span>We are in the singularity.<span class="quote-mark">"</span>
+            <span class="quote-attr">— Elon Musk, 2026</span>
+        </div>
+        <div class="hero-stats">
+            <div class="stat">
+                <span class="stat-number" id="stat-techs">20</span>
+                <span class="stat-label">Technologies</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat">
+                <span class="stat-number" id="stat-avg-progress">0%</span>
+                <span class="stat-label">Avg. Progress</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat">
+                <span class="stat-number" id="stat-acceleration">0</span>
+                <span class="stat-label">Accelerating</span>
+            </div>
+            <div class="stat-divider"></div>
+            <div class="stat">
+                <span class="stat-number counter-up" id="stat-counter">
+                    <span class="doomsday-label">Not a Doomsday Clock</span>
+                </span>
+                <span class="stat-label">Abundance Clock</span>
+            </div>
+        </div>
+        <div class="hero-actions">
+            <a href="#scoreboard" class="hero-btn primary">↓ View the Scoreboard</a>
+            <a href="#methodology" class="hero-btn secondary">How We Track This</a>
+        </div>
+    </div>
+</header>
+
+<!-- The Big Thesis -->
+<section class="thesis-section">
+    <div class="container">
+        <div class="thesis-card">
+            <div class="thesis-icon">⚡</div>
+            <h2>The Great Stagnation Is Over</h2>
+            <p>Tyler Cowen pinpoints 2020 — the year of mRNA vaccines — as the end of the technological plateau. Since then: GLP-1 drugs rewriting obesity medicine, large language models rewriting knowledge work, fusion experiments hitting ignition, and nuclear energy making its comeback. The charts below don't just show progress. They show <strong>exponential</strong> progress. Technologies that took decades to improve by 2x are now improving by 10x in years. We're not approaching the singularity. We're in it.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Category Filter Tabs -->
+<section id="scoreboard" class="scoreboard-section">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-eyebrow">LIVE SCOREBOARD</p>
+            <h2>Twenty Technologies Going Vertical</h2>
+            <p class="section-subtitle">Click any technology to explore what it is, why it matters, and who's pushing the frontier.</p>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-bar">
+            <div class="search-input-wrap">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="tech-search" class="search-input" placeholder="Search technologies, companies, metrics..." autocomplete="off">
+                <button class="search-clear" id="search-clear" aria-label="Clear search">&times;</button>
+            </div>
+        </div>
+
+        <!-- Filter Pills -->
+        <div class="filter-bar">
+            <button class="filter-pill active" data-filter="all">All Technologies</button>
+            <button class="filter-pill" data-filter="ai">AI & Compute</button>
+            <button class="filter-pill" data-filter="energy">Energy</button>
+            <button class="filter-pill" data-filter="bio">Biology & Health</button>
+            <button class="filter-pill" data-filter="space">Space & Robotics</button>
+        </div>
+
+        <!-- Sort & Compare Controls -->
+        <div class="sort-bar">
+            <span class="sort-label">Sort by:</span>
+            <button class="sort-btn active" data-sort="progress">Progress</button>
+            <button class="sort-btn" data-sort="acceleration">Acceleration</button>
+            <button class="sort-btn" data-sort="name">Name</button>
+            <div class="sort-divider"></div>
+            <button class="compare-btn" id="compare-toggle">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg>
+                Compare Mode
+            </button>
+        </div>
+
+        <!-- Technology Cards Grid -->
+        <div class="tech-grid" id="tech-grid">
+            <!-- Cards injected by JS -->
+        </div>
+
+        <!-- Comparison Chart (hidden by default) -->
+        <div class="compare-panel" id="compare-panel" style="display:none;">
+            <div class="compare-header">
+                <h3>📊 Comparison Chart</h3>
+                <div class="compare-controls">
+                    <button class="chart-toggle" id="compare-log-toggle" title="Toggle logarithmic scale">Log Scale</button>
+                    <button class="chart-toggle" id="compare-clear" title="Clear comparison">Clear All</button>
+                </div>
+            </div>
+            <div class="compare-selected" id="compare-selected">
+                <!-- Selected tech pills injected by JS -->
+            </div>
+            <div class="compare-chart-wrap">
+                <canvas id="compare-chart"></canvas>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Deep Dives Section -->
+<section id="deep-dives" class="deep-dives-section">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-eyebrow">DEEP DIVES</p>
+            <h2>Inside Each Technology</h2>
+            <p class="section-subtitle">What it is. Why it's accelerating. What it unlocks. Who's building it.</p>
+        </div>
+        <div id="deep-dive-panels">
+            <!-- Injected by JS -->
+        </div>
+    </div>
+</section>
+
+<!-- The Abundance Clock (Counter to Doomsday Clock) -->
+<section class="abundance-section">
+    <div class="container">
+        <div class="abundance-card">
+            <div class="abundance-header">
+                <div class="abundance-icon">☀️</div>
+                <h2>The Abundance Clock</h2>
+                <p class="abundance-subtitle">A counter to the Doomsday Clock</p>
+            </div>
+            <div class="abundance-body">
+                <p>Since 1947, the Bulletin of the Atomic Scientists has told us how close we are to midnight — to destruction. Their clock currently reads 89 seconds to midnight. But the world hasn't ended. What <em>has</em> happened is the greatest explosion of prosperity, health, and technological capability in human history.</p>
+                <p>So we built a different clock. <strong>The Abundance Clock</strong> measures how far we've come from midnight — how far into the dawn we are. Each technology on this dashboard pushes the clock further from darkness and deeper into light.</p>
+                <div class="abundance-meter">
+                    <div class="meter-track">
+                        <div class="meter-fill" id="abundance-fill"></div>
+                        <div class="meter-labels">
+                            <span>🌑 Midnight</span>
+                            <span>☀️ Abundance</span>
+                        </div>
+                    </div>
+                    <div class="meter-value" id="abundance-value">Loading...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Methodology -->
+<section id="methodology" class="methodology-section">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-eyebrow">METHODOLOGY</p>
+            <h2>How We Track Progress</h2>
+        </div>
+        <div class="method-grid">
+            <div class="method-card">
+                <div class="method-icon">📊</div>
+                <h3>Real Data, Not Hype</h3>
+                <p>Every metric on this dashboard is backed by a measurable time series — costs, deployments, performance benchmarks, or production volumes. We track what can be plotted on a log scale.</p>
+            </div>
+            <div class="method-card">
+                <div class="method-icon">🎯</div>
+                <h3>Tipping Points</h3>
+                <p>For each technology, we define a "tipping point" — the threshold where adoption goes from linear to exponential. Progress bars show how far each technology has traveled toward this threshold.</p>
+            </div>
+            <div class="method-card">
+                <div class="method-icon">🚀</div>
+                <h3>Acceleration Score</h3>
+                <p>A 1-5 score measuring whether progress is decelerating, steady, or accelerating. Based on the rate of change of the rate of change — the second derivative. A score of 5 means the curve is bending vertical.</p>
+            </div>
+            <div class="method-card">
+                <div class="method-icon">🔗</div>
+                <h3>Compound Effects</h3>
+                <p>Technologies don't exist in isolation. Cheaper AI makes drug discovery faster. Cheaper energy makes compute cheaper. Cheaper compute makes AI better. We track these compounding loops.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Footer -->
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-card">
+            <h2>The question isn't whether this is happening.<br>It's: what are you going to do about it?</h2>
+            <p>Join 24,000+ rational optimists tracking the most consequential transformation in human history.</p>
+            <div class="cta-actions">
+                <a href="https://rationaloptimistsociety.substack.com" target="_blank" rel="noopener" class="hero-btn primary">Subscribe Free →</a>
+                <a href="https://www.rationaloptimistsociety.com" target="_blank" rel="noopener" class="hero-btn secondary">Join the Society</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <div class="nav-logo">ROS</div>
+                <span>Rational Optimist Society © 2026</span>
+            </div>
+            <div class="footer-links">
+                <a href="https://www.rationaloptimistsociety.com" target="_blank">Home</a>
+                <a href="https://rationaloptimistsociety.substack.com" target="_blank">Substack</a>
+                <a href="https://x.com/disruptionhedge" target="_blank">𝕏</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Modal for expanded tech deep dives -->
+<div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+        <button class="modal-close" id="modal-close">&times;</button>
+        <div class="modal-body" id="modal-body"></div>
+    </div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

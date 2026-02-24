@@ -1,0 +1,1887 @@
+{
+  "source": "Karl Rupp - Microprocessor Trend Data (GitHub)",
+  "urls": [
+    "https://raw.githubusercontent.com/karlrupp/microprocessor-trend-data/master/50yrs/transistors.dat"
+  ],
+  "fetched_at": "2026-02-24T08:10:17.496222Z",
+  "transistors": [
+    {
+      "year": 1971.9,
+      "transistor_count": 2.30824152676,
+      "transistor_count_log10": 0.36
+    },
+    {
+      "year": 1972.3,
+      "transistor_count": 3.55452235561,
+      "transistor_count_log10": 0.55
+    },
+    {
+      "year": 1974.3,
+      "transistor_count": 6.09756235221,
+      "transistor_count_log10": 0.79
+    },
+    {
+      "year": 1979.6,
+      "transistor_count": 29.1637757405,
+      "transistor_count_log10": 1.46
+    },
+    {
+      "year": 1982.3,
+      "transistor_count": 135.772714211,
+      "transistor_count_log10": 2.13
+    },
+    {
+      "year": 1985.9,
+      "transistor_count": 273.841963426,
+      "transistor_count_log10": 2.44
+    },
+    {
+      "year": 1986.2,
+      "transistor_count": 109.411381058,
+      "transistor_count_log10": 2.04
+    },
+    {
+      "year": 1988.7,
+      "transistor_count": 121.881418484,
+      "transistor_count_log10": 2.09
+    },
+    {
+      "year": 1989.5,
+      "transistor_count": 1207.90074743,
+      "transistor_count_log10": 3.08
+    },
+    {
+      "year": 1990.6,
+      "transistor_count": 1207.90074743,
+      "transistor_count_log10": 3.08
+    },
+    {
+      "year": 1992.4,
+      "transistor_count": 1207.90074743,
+      "transistor_count_log10": 3.08
+    },
+    {
+      "year": 1992.7,
+      "transistor_count": 3105.90022362,
+      "transistor_count_log10": 3.49
+    },
+    {
+      "year": 1992.7,
+      "transistor_count": 1113.97385999,
+      "transistor_count_log10": 3.05
+    },
+    {
+      "year": 1993.0,
+      "transistor_count": 1715.43789634,
+      "transistor_count_log10": 3.23
+    },
+    {
+      "year": 1993.4,
+      "transistor_count": 3105.90022362,
+      "transistor_count_log10": 3.49
+    },
+    {
+      "year": 1993.4,
+      "transistor_count": 922.239565104,
+      "transistor_count_log10": 2.96
+    },
+    {
+      "year": 1994.7,
+      "transistor_count": 1910.95297497,
+      "transistor_count_log10": 3.28
+    },
+    {
+      "year": 1994.7,
+      "transistor_count": 2788.12666541,
+      "transistor_count_log10": 3.45
+    },
+    {
+      "year": 1995.4,
+      "transistor_count": 9646.61619911,
+      "transistor_count_log10": 3.98
+    },
+    {
+      "year": 1995.7,
+      "transistor_count": 3105.90022362,
+      "transistor_count_log10": 3.49
+    },
+    {
+      "year": 1996.2,
+      "transistor_count": 5473.70326288,
+      "transistor_count_log10": 3.74
+    },
+    {
+      "year": 1996.3,
+      "transistor_count": 6792.52507006,
+      "transistor_count_log10": 3.83
+    },
+    {
+      "year": 1996.3,
+      "transistor_count": 3651.74127255,
+      "transistor_count_log10": 3.56
+    },
+    {
+      "year": 1996.4,
+      "transistor_count": 4293.51021008,
+      "transistor_count_log10": 3.63
+    },
+    {
+      "year": 1996.8,
+      "transistor_count": 9646.61619911,
+      "transistor_count_log10": 3.98
+    },
+    {
+      "year": 1997.4,
+      "transistor_count": 5473.70326288,
+      "transistor_count_log10": 3.74
+    },
+    {
+      "year": 1997.5,
+      "transistor_count": 3554.52235561,
+      "transistor_count_log10": 3.55
+    },
+    {
+      "year": 1997.5,
+      "transistor_count": 8896.4911282,
+      "transistor_count_log10": 3.95
+    },
+    {
+      "year": 1997.6,
+      "transistor_count": 7566.6953714,
+      "transistor_count_log10": 3.88
+    },
+    {
+      "year": 1998.9,
+      "transistor_count": 15261.3780258,
+      "transistor_count_log10": 4.18
+    },
+    {
+      "year": 1999.1,
+      "transistor_count": 9389.79801048,
+      "transistor_count_log10": 3.97
+    },
+    {
+      "year": 1999.2,
+      "transistor_count": 6978.3058486,
+      "transistor_count_log10": 3.84
+    },
+    {
+      "year": 1999.5,
+      "transistor_count": 9389.79801048,
+      "transistor_count_log10": 3.97
+    },
+    {
+      "year": 1999.5,
+      "transistor_count": 21673.9216957,
+      "transistor_count_log10": 4.34
+    },
+    {
+      "year": 2000.2,
+      "transistor_count": 22266.7201035,
+      "transistor_count_log10": 4.35
+    },
+    {
+      "year": 2000.7,
+      "transistor_count": 28387.3596476,
+      "transistor_count_log10": 4.45
+    },
+    {
+      "year": 2000.7,
+      "transistor_count": 37180.2666391,
+      "transistor_count_log10": 4.57
+    },
+    {
+      "year": 2001.1,
+      "transistor_count": 29163.7757405,
+      "transistor_count_log10": 4.46
+    },
+    {
+      "year": 2001.2,
+      "transistor_count": 42550.6550247,
+      "transistor_count_log10": 4.63
+    },
+    {
+      "year": 2001.7,
+      "transistor_count": 25482.9674798,
+      "transistor_count_log10": 4.41
+    },
+    {
+      "year": 2001.8,
+      "transistor_count": 37180.2666391,
+      "transistor_count_log10": 4.57
+    },
+    {
+      "year": 2002.4,
+      "transistor_count": 55730.6040127,
+      "transistor_count_log10": 4.75
+    },
+    {
+      "year": 2002.8,
+      "transistor_count": 38197.1754928,
+      "transistor_count_log10": 4.58
+    },
+    {
+      "year": 2002.9,
+      "transistor_count": 220673.406908,
+      "transistor_count_log10": 5.34
+    },
+    {
+      "year": 2003.4,
+      "transistor_count": 151247.254531,
+      "transistor_count_log10": 5.18
+    },
+    {
+      "year": 2003.5,
+      "transistor_count": 54246.9093701,
+      "transistor_count_log10": 4.73
+    },
+    {
+      "year": 2003.7,
+      "transistor_count": 106498.563535,
+      "transistor_count_log10": 5.03
+    },
+    {
+      "year": 2004.8,
+      "transistor_count": 125214.968907,
+      "transistor_count_log10": 5.1
+    },
+    {
+      "year": 2004.8,
+      "transistor_count": 106498.563535,
+      "transistor_count_log10": 5.03
+    },
+    {
+      "year": 2004.8,
+      "transistor_count": 273841.963426,
+      "transistor_count_log10": 5.44
+    },
+    {
+      "year": 2005.7,
+      "transistor_count": 232909.659246,
+      "transistor_count_log10": 5.37
+    },
+    {
+      "year": 2005.8,
+      "transistor_count": 112403.866377,
+      "transistor_count_log10": 5.05
+    },
+    {
+      "year": 2006.0,
+      "transistor_count": 305052.789027,
+      "transistor_count_log10": 5.48
+    },
+    {
+      "year": 2006.1,
+      "transistor_count": 115478.198469,
+      "transistor_count_log10": 5.06
+    },
+    {
+      "year": 2006.9,
+      "transistor_count": 378551.524926,
+      "transistor_count_log10": 5.58
+    },
+    {
+      "year": 2006.9,
+      "transistor_count": 155383.983127,
+      "transistor_count_log10": 5.19
+    },
+    {
+      "year": 2006.9,
+      "transistor_count": 245824.406892,
+      "transistor_count_log10": 5.39
+    },
+    {
+      "year": 2007.0,
+      "transistor_count": 296931.48482,
+      "transistor_count_log10": 5.47
+    },
+    {
+      "year": 2007.0,
+      "transistor_count": 582941.534714,
+      "transistor_count_log10": 5.77
+    },
+    {
+      "year": 2007.1,
+      "transistor_count": 151247.254531,
+      "transistor_count_log10": 5.18
+    },
+    {
+      "year": 2007.6,
+      "transistor_count": 582941.534714,
+      "transistor_count_log10": 5.77
+    },
+    {
+      "year": 2007.7,
+      "transistor_count": 232909.659246,
+      "transistor_count_log10": 5.37
+    },
+    {
+      "year": 2007.8,
+      "transistor_count": 805842.187761,
+      "transistor_count_log10": 5.91
+    },
+    {
+      "year": 2007.8,
+      "transistor_count": 115478.198469,
+      "transistor_count_log10": 5.06
+    },
+    {
+      "year": 2008.0,
+      "transistor_count": 509367.521678,
+      "transistor_count_log10": 5.71
+    },
+    {
+      "year": 2008.2,
+      "transistor_count": 445079.406236,
+      "transistor_count_log10": 5.65
+    },
+    {
+      "year": 2008.5,
+      "transistor_count": 410469.838044,
+      "transistor_count_log10": 5.61
+    },
+    {
+      "year": 2009.2,
+      "transistor_count": 457252.669897,
+      "transistor_count_log10": 5.66
+    },
+    {
+      "year": 2009.3,
+      "transistor_count": 784388.558145,
+      "transistor_count_log10": 5.89
+    },
+    {
+      "year": 2009.7,
+      "transistor_count": 2308241.52676,
+      "transistor_count_log10": 6.36
+    },
+    {
+      "year": 2009.7,
+      "transistor_count": 1910952.97497,
+      "transistor_count_log10": 6.28
+    },
+    {
+      "year": 2010.2,
+      "transistor_count": 410469.838044,
+      "transistor_count_log10": 5.61
+    },
+    {
+      "year": 2010.4,
+      "transistor_count": 1309747.2643,
+      "transistor_count_log10": 6.12
+    },
+    {
+      "year": 2011.2,
+      "transistor_count": 1170000.0,
+      "transistor_count_log10": 6.07
+    },
+    {
+      "year": 2011.3,
+      "transistor_count": 2600000.0,
+      "transistor_count_log10": 6.41
+    },
+    {
+      "year": 2011.9,
+      "transistor_count": 1200000.0,
+      "transistor_count_log10": 6.08
+    },
+    {
+      "year": 2012.4,
+      "transistor_count": 2400000.0,
+      "transistor_count_log10": 6.38
+    },
+    {
+      "year": 2012.4,
+      "transistor_count": 2300000.0,
+      "transistor_count_log10": 6.36
+    },
+    {
+      "year": 2012.7,
+      "transistor_count": 2100000.0,
+      "transistor_count_log10": 6.32
+    },
+    {
+      "year": 2012.9,
+      "transistor_count": 1200000.0,
+      "transistor_count_log10": 6.08
+    },
+    {
+      "year": 2013.4,
+      "transistor_count": 5000000.0,
+      "transistor_count_log10": 6.7
+    },
+    {
+      "year": 2013.8,
+      "transistor_count": 4300000.0,
+      "transistor_count_log10": 6.63
+    },
+    {
+      "year": 2014.2,
+      "transistor_count": 4300000.0,
+      "transistor_count_log10": 6.63
+    },
+    {
+      "year": 2014.5,
+      "transistor_count": 4200000.0,
+      "transistor_count_log10": 6.62
+    },
+    {
+      "year": 2014.8,
+      "transistor_count": 2600000.0,
+      "transistor_count_log10": 6.41
+    },
+    {
+      "year": 2014.8,
+      "transistor_count": 3800000.0,
+      "transistor_count_log10": 6.58
+    },
+    {
+      "year": 2014.8,
+      "transistor_count": 5700000.0,
+      "transistor_count_log10": 6.76
+    },
+    {
+      "year": 2016.3,
+      "transistor_count": 7200000.0,
+      "transistor_count_log10": 6.86
+    },
+    {
+      "year": 2016.7,
+      "transistor_count": 8000000.0,
+      "transistor_count_log10": 6.9
+    },
+    {
+      "year": 2017.5,
+      "transistor_count": 19200000.0,
+      "transistor_count_log10": 7.28
+    },
+    {
+      "year": 2018.4,
+      "transistor_count": 8000000.0,
+      "transistor_count_log10": 6.9
+    },
+    {
+      "year": 2018.5,
+      "transistor_count": 21100000.0,
+      "transistor_count_log10": 7.32
+    },
+    {
+      "year": 2019.3,
+      "transistor_count": 8000000.0,
+      "transistor_count_log10": 6.9
+    },
+    {
+      "year": 2019.8,
+      "transistor_count": 39500000.0,
+      "transistor_count_log10": 7.6
+    },
+    {
+      "year": 2020.1,
+      "transistor_count": 30400000.0,
+      "transistor_count_log10": 7.48
+    },
+    {
+      "year": 2020.9,
+      "transistor_count": 16000000.0,
+      "transistor_count_log10": 7.2
+    },
+    {
+      "year": 2021.8,
+      "transistor_count": 57000000.0,
+      "transistor_count_log10": 7.76
+    },
+    {
+      "year": 2021.9,
+      "transistor_count": 58200000.0,
+      "transistor_count_log10": 7.76
+    },
+    {
+      "year": 2021.9,
+      "transistor_count": 55000000.0,
+      "transistor_count_log10": 7.74
+    }
+  ],
+  "moores_law_comparison": [
+    {
+      "year": 1971.9,
+      "actual": 2.30824152676,
+      "moores_law_predicted": 3142.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1972.3,
+      "actual": 3.55452235561,
+      "moores_law_predicted": 3609.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1974.3,
+      "actual": 6.09756235221,
+      "moores_law_predicted": 7218.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1979.6,
+      "actual": 29.1637757405,
+      "moores_law_predicted": 45306.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1982.3,
+      "actual": 135.772714211,
+      "moores_law_predicted": 115491.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1985.9,
+      "actual": 273.841963426,
+      "moores_law_predicted": 402162.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1986.2,
+      "actual": 109.411381058,
+      "moores_law_predicted": 446227.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1988.7,
+      "actual": 121.881418484,
+      "moores_law_predicted": 1061313.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1989.5,
+      "actual": 1207.90074743,
+      "moores_law_predicted": 1400410.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1990.6,
+      "actual": 1207.90074743,
+      "moores_law_predicted": 2050321.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1992.4,
+      "actual": 1207.90074743,
+      "moores_law_predicted": 3826034.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1992.7,
+      "actual": 3105.90022362,
+      "moores_law_predicted": 4245250.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1992.7,
+      "actual": 1113.97385999,
+      "moores_law_predicted": 4245250.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1993.0,
+      "actual": 1715.43789634,
+      "moores_law_predicted": 4710400.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1993.4,
+      "actual": 3105.90022362,
+      "moores_law_predicted": 5410829.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1993.4,
+      "actual": 922.239565104,
+      "moores_law_predicted": 5410829.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1994.7,
+      "actual": 1910.95297497,
+      "moores_law_predicted": 8490500.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1994.7,
+      "actual": 2788.12666541,
+      "moores_law_predicted": 8490500.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1995.4,
+      "actual": 9646.61619911,
+      "moores_law_predicted": 10821657.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1995.7,
+      "actual": 3105.90022362,
+      "moores_law_predicted": 12007381.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1996.2,
+      "actual": 5473.70326288,
+      "moores_law_predicted": 14279263.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1996.3,
+      "actual": 6792.52507006,
+      "moores_law_predicted": 14782820.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1996.3,
+      "actual": 3651.74127255,
+      "moores_law_predicted": 14782820.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1996.4,
+      "actual": 4293.51021008,
+      "moores_law_predicted": 15304135.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1996.8,
+      "actual": 9646.61619911,
+      "moores_law_predicted": 17579834.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1997.4,
+      "actual": 5473.70326288,
+      "moores_law_predicted": 21643315.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1997.5,
+      "actual": 3554.52235561,
+      "moores_law_predicted": 22406565.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1997.5,
+      "actual": 8896.4911282,
+      "moores_law_predicted": 22406565.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1997.6,
+      "actual": 7566.6953714,
+      "moores_law_predicted": 23196731.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1998.9,
+      "actual": 15261.3780258,
+      "moores_law_predicted": 36399572.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1999.1,
+      "actual": 9389.79801048,
+      "moores_law_predicted": 39012095.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1999.2,
+      "actual": 6978.3058486,
+      "moores_law_predicted": 40387854.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1999.5,
+      "actual": 9389.79801048,
+      "moores_law_predicted": 44813130.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 1999.5,
+      "actual": 21673.9216957,
+      "moores_law_predicted": 44813130.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2000.2,
+      "actual": 22266.7201035,
+      "moores_law_predicted": 57117051.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2000.7,
+      "actual": 28387.3596476,
+      "moores_law_predicted": 67924003.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2000.7,
+      "actual": 37180.2666391,
+      "moores_law_predicted": 67924003.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2001.1,
+      "actual": 29163.7757405,
+      "moores_law_predicted": 78024190.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2001.2,
+      "actual": 42550.6550247,
+      "moores_law_predicted": 80775707.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2001.7,
+      "actual": 25482.9674798,
+      "moores_law_predicted": 96059046.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2001.8,
+      "actual": 37180.2666391,
+      "moores_law_predicted": 99446561.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2002.4,
+      "actual": 55730.6040127,
+      "moores_law_predicted": 122433078.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2002.8,
+      "actual": 38197.1754928,
+      "moores_law_predicted": 140638675.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2002.9,
+      "actual": 220673.406908,
+      "moores_law_predicted": 145598287.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2003.4,
+      "actual": 151247.254531,
+      "moores_law_predicted": 173146519.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2003.5,
+      "actual": 54246.9093701,
+      "moores_law_predicted": 179252518.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2003.7,
+      "actual": 106498.563535,
+      "moores_law_predicted": 192118092.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2004.8,
+      "actual": 125214.968907,
+      "moores_law_predicted": 281277351.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2004.8,
+      "actual": 106498.563535,
+      "moores_law_predicted": 281277351.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2004.8,
+      "actual": 273841.963426,
+      "moores_law_predicted": 281277351.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2005.7,
+      "actual": 232909.659246,
+      "moores_law_predicted": 384236184.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2005.8,
+      "actual": 112403.866377,
+      "moores_law_predicted": 397786244.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2006.0,
+      "actual": 305052.789027,
+      "moores_law_predicted": 426336740.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2006.1,
+      "actual": 115478.198469,
+      "moores_law_predicted": 441371473.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2006.9,
+      "actual": 378551.524926,
+      "moores_law_predicted": 582393150.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2006.9,
+      "actual": 155383.983127,
+      "moores_law_predicted": 582393150.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2006.9,
+      "actual": 245824.406892,
+      "moores_law_predicted": 582393150.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.0,
+      "actual": 296931.48482,
+      "moores_law_predicted": 602931200.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.0,
+      "actual": 582941.534714,
+      "moores_law_predicted": 602931200.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.1,
+      "actual": 151247.254531,
+      "moores_law_predicted": 624193523.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.6,
+      "actual": 582941.534714,
+      "moores_law_predicted": 742295379.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.7,
+      "actual": 232909.659246,
+      "moores_law_predicted": 768472369.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.8,
+      "actual": 805842.187761,
+      "moores_law_predicted": 795572488.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2007.8,
+      "actual": 115478.198469,
+      "moores_law_predicted": 795572488.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2008.0,
+      "actual": 509367.521678,
+      "moores_law_predicted": 852673480.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2008.2,
+      "actual": 445079.406236,
+      "moores_law_predicted": 913872808.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2008.5,
+      "actual": 410469.838044,
+      "moores_law_predicted": 1014005369.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2009.2,
+      "actual": 457252.669897,
+      "moores_law_predicted": 1292411320.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2009.3,
+      "actual": 784388.558145,
+      "moores_law_predicted": 1337988107.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2009.7,
+      "actual": 2308241.52676,
+      "moores_law_predicted": 1536944737.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2009.7,
+      "actual": 1910952.97497,
+      "moores_law_predicted": 1536944737.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2010.2,
+      "actual": 410469.838044,
+      "moores_law_predicted": 1827745617.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2010.4,
+      "actual": 1309747.2643,
+      "moores_law_predicted": 1958929248.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2011.2,
+      "actual": 1170000.0,
+      "moores_law_predicted": 2584822640.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2011.3,
+      "actual": 2600000.0,
+      "moores_law_predicted": 2675976213.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2011.9,
+      "actual": 1200000.0,
+      "moores_law_predicted": 3294513165.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2012.4,
+      "actual": 2400000.0,
+      "moores_law_predicted": 3917858496.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2012.4,
+      "actual": 2300000.0,
+      "moores_law_predicted": 3917858496.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2012.7,
+      "actual": 2100000.0,
+      "moores_law_predicted": 4347136183.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2012.9,
+      "actual": 1200000.0,
+      "moores_law_predicted": 4659145199.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2013.4,
+      "actual": 5000000.0,
+      "moores_law_predicted": 5540688621.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2013.8,
+      "actual": 4300000.0,
+      "moores_law_predicted": 6364579904.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2014.2,
+      "actual": 4300000.0,
+      "moores_law_predicted": 7310982466.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2014.5,
+      "actual": 4200000.0,
+      "moores_law_predicted": 8112042956.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2014.8,
+      "actual": 2600000.0,
+      "moores_law_predicted": 9000875220.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2014.8,
+      "actual": 3800000.0,
+      "moores_law_predicted": 9000875220.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2014.8,
+      "actual": 5700000.0,
+      "moores_law_predicted": 9000875220.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2016.3,
+      "actual": 7200000.0,
+      "moores_law_predicted": 15137607413.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2016.7,
+      "actual": 8000000.0,
+      "moores_law_predicted": 17388544734.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2017.5,
+      "actual": 19200000.0,
+      "moores_law_predicted": 22944322333.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2018.4,
+      "actual": 8000000.0,
+      "moores_law_predicted": 31342867970.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2018.5,
+      "actual": 21100000.0,
+      "moores_law_predicted": 32448171822.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2019.3,
+      "actual": 8000000.0,
+      "moores_law_predicted": 42815619410.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2019.8,
+      "actual": 39500000.0,
+      "moores_law_predicted": 50916639235.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2020.1,
+      "actual": 30400000.0,
+      "moores_law_predicted": 56495548516.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2020.9,
+      "actual": 16000000.0,
+      "moores_law_predicted": 74546323190.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2021.8,
+      "actual": 57000000.0,
+      "moores_law_predicted": 101833278471.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2021.9,
+      "actual": 58200000.0,
+      "moores_law_predicted": 105424421280.0,
+      "ratio_actual_to_predicted": 0.0
+    },
+    {
+      "year": 2021.9,
+      "actual": 55000000.0,
+      "moores_law_predicted": 105424421280.0,
+      "ratio_actual_to_predicted": 0.0
+    }
+  ],
+  "supplementary": {
+    "clock_frequency_mhz": [
+      {
+        "year": 1971.9,
+        "value": 0.704135515486
+      },
+      {
+        "year": 1972.3,
+        "value": 0.509367521678
+      },
+      {
+        "year": 1974.3,
+        "value": 2.01691455473
+      },
+      {
+        "year": 1979.6,
+        "value": 5.04806571667
+      },
+      {
+        "year": 1982.3,
+        "value": 6.09756235221
+      },
+      {
+        "year": 1985.9,
+        "value": 16.1076153462
+      },
+      {
+        "year": 1986.2,
+        "value": 16.1076153462
+      },
+      {
+        "year": 1988.7,
+        "value": 40.3151936286
+      },
+      {
+        "year": 1989.5,
+        "value": 24.8045441431
+      },
+      {
+        "year": 1990.6,
+        "value": 33.3762469429
+      },
+      {
+        "year": 1992.4,
+        "value": 65.5248823737
+      },
+      {
+        "year": 1992.7,
+        "value": 60.4296390238
+      },
+      {
+        "year": 1992.7,
+        "value": 100.903504484
+      },
+      {
+        "year": 1993.0,
+        "value": 198.095677855
+      },
+      {
+        "year": 1993.4,
+        "value": 67.3170382414
+      },
+      {
+        "year": 1993.4,
+        "value": 40.3151936286
+      },
+      {
+        "year": 1994.7,
+        "value": 151.247254531
+      },
+      {
+        "year": 1994.7,
+        "value": 296.93148482
+      },
+      {
+        "year": 1995.4,
+        "value": 296.93148482
+      },
+      {
+        "year": 1995.7,
+        "value": 90.5797775943
+      },
+      {
+        "year": 1996.1,
+        "value": 198.095677855
+      },
+      {
+        "year": 1996.3,
+        "value": 198.095677855
+      },
+      {
+        "year": 1996.4,
+        "value": 90.5797775943
+      },
+      {
+        "year": 1996.8,
+        "value": 509.367521678
+      },
+      {
+        "year": 1997.4,
+        "value": 252.547893258
+      },
+      {
+        "year": 1997.5,
+        "value": 537.611747456
+      },
+      {
+        "year": 1997.5,
+        "value": 232.909659246
+      },
+      {
+        "year": 1997.6,
+        "value": 296.93148482
+      },
+      {
+        "year": 1998.8,
+        "value": 495.806824168
+      },
+      {
+        "year": 1999.1,
+        "value": 296.93148482
+      },
+      {
+        "year": 1999.2,
+        "value": 399.542055895
+      },
+      {
+        "year": 1999.5,
+        "value": 457.252669897
+      },
+      {
+        "year": 1999.5,
+        "value": 509.367521678
+      },
+      {
+        "year": 2000.2,
+        "value": 743.179548784
+      },
+      {
+        "year": 2000.7,
+        "value": 1000.0
+      },
+      {
+        "year": 2001.1,
+        "value": 897.687132447
+      },
+      {
+        "year": 2001.2,
+        "value": 2016.91455473
+      },
+      {
+        "year": 2001.7,
+        "value": 805.842187761
+      },
+      {
+        "year": 2001.8,
+        "value": 1420.18116969
+      },
+      {
+        "year": 2002.4,
+        "value": 2246.79009181
+      },
+      {
+        "year": 2002.8,
+        "value": 1810.55824303
+      },
+      {
+        "year": 2002.9,
+        "value": 1000.0
+      },
+      {
+        "year": 2003.4,
+        "value": 1175.74326592
+      },
+      {
+        "year": 2003.5,
+        "value": 2186.97465501
+      },
+      {
+        "year": 2003.6,
+        "value": 1810.55824303
+      },
+      {
+        "year": 2004.8,
+        "value": 2641.64832039
+      },
+      {
+        "year": 2004.8,
+        "value": 1910.95297497
+      },
+      {
+        "year": 2004.9,
+        "value": 3651.74127255
+      },
+      {
+        "year": 2005.7,
+        "value": 3190.84898063
+      },
+      {
+        "year": 2005.9,
+        "value": 2788.12666541
+      },
+      {
+        "year": 2006.0,
+        "value": 1207.90074743
+      },
+      {
+        "year": 2006.0,
+        "value": 2246.79009181
+      },
+      {
+        "year": 2006.9,
+        "value": 3651.74127255
+      },
+      {
+        "year": 2006.9,
+        "value": 2641.64832039
+      },
+      {
+        "year": 2007.0,
+        "value": 2713.89943121
+      },
+      {
+        "year": 2007.1,
+        "value": 2308.24152676
+      },
+      {
+        "year": 2007.6,
+        "value": 2942.72717621
+      },
+      {
+        "year": 2007.7,
+        "value": 4655.52593116
+      },
+      {
+        "year": 2007.7,
+        "value": 4067.94432108
+      },
+      {
+        "year": 2007.8,
+        "value": 2016.91455473
+      },
+      {
+        "year": 2008.0,
+        "value": 1420.18116969
+      },
+      {
+        "year": 2008.2,
+        "value": 2016.91455473
+      },
+      {
+        "year": 2008.2,
+        "value": 2308.24152676
+      },
+      {
+        "year": 2008.5,
+        "value": 3023.21302502
+      },
+      {
+        "year": 2009.2,
+        "value": 2502.86543117
+      },
+      {
+        "year": 2009.3,
+        "value": 3278.12115139
+      },
+      {
+        "year": 2009.4,
+        "value": 2641.64832039
+      },
+      {
+        "year": 2009.7,
+        "value": 2641.64832039
+      },
+      {
+        "year": 2009.7,
+        "value": 3278.12115139
+      },
+      {
+        "year": 2010.2,
+        "value": 2308.24152676
+      },
+      {
+        "year": 2011.2,
+        "value": 3470.0
+      },
+      {
+        "year": 2011.3,
+        "value": 2400.0
+      },
+      {
+        "year": 2011.9,
+        "value": 3000.0
+      },
+      {
+        "year": 2012.4,
+        "value": 3100.0
+      },
+      {
+        "year": 2012.4,
+        "value": 2900.0
+      },
+      {
+        "year": 2012.7,
+        "value": 3700.0
+      },
+      {
+        "year": 2012.9,
+        "value": 2500.0
+      },
+      {
+        "year": 2013.4,
+        "value": 1200.0
+      },
+      {
+        "year": 2013.8,
+        "value": 2700.0
+      },
+      {
+        "year": 2014.2,
+        "value": 2800.0
+      },
+      {
+        "year": 2014.5,
+        "value": 3700.0
+      },
+      {
+        "year": 2014.8,
+        "value": 3200.0
+      },
+      {
+        "year": 2014.8,
+        "value": 2600.0
+      },
+      {
+        "year": 2014.8,
+        "value": 2300.0
+      },
+      {
+        "year": 2016.3,
+        "value": 2200.0
+      },
+      {
+        "year": 2016.5,
+        "value": 1500.0
+      },
+      {
+        "year": 2016.7,
+        "value": 4000.0
+      },
+      {
+        "year": 2017.5,
+        "value": 2200.0
+      },
+      {
+        "year": 2017.6,
+        "value": 2100.0
+      },
+      {
+        "year": 2017.6,
+        "value": 2500.0
+      },
+      {
+        "year": 2018.4,
+        "value": 3400.0
+      },
+      {
+        "year": 2018.5,
+        "value": 1200.0
+      },
+      {
+        "year": 2019.3,
+        "value": 2700.0
+      },
+      {
+        "year": 2019.8,
+        "value": 2250.0
+      },
+      {
+        "year": 2020.1,
+        "value": 2900.0
+      },
+      {
+        "year": 2020.2,
+        "value": 2700.0
+      },
+      {
+        "year": 2020.9,
+        "value": 3200.0
+      },
+      {
+        "year": 2021.3,
+        "value": 2300.0
+      },
+      {
+        "year": 2021.8,
+        "value": 3200.0
+      },
+      {
+        "year": 2021.9,
+        "value": 1000.0
+      },
+      {
+        "year": 2021.9,
+        "value": 2600.0
+      }
+    ],
+    "single_thread_performance": [],
+    "core_count": [
+      {
+        "year": 1971.9,
+        "value": 1.0
+      },
+      {
+        "year": 1972.3,
+        "value": 1.0
+      },
+      {
+        "year": 1974.3,
+        "value": 1.0
+      },
+      {
+        "year": 1979.6,
+        "value": 1.0
+      },
+      {
+        "year": 1982.3,
+        "value": 1.0
+      },
+      {
+        "year": 1985.9,
+        "value": 1.0
+      },
+      {
+        "year": 1986.2,
+        "value": 1.0
+      },
+      {
+        "year": 1988.7,
+        "value": 1.0
+      },
+      {
+        "year": 1989.5,
+        "value": 1.0
+      },
+      {
+        "year": 1990.6,
+        "value": 1.0
+      },
+      {
+        "year": 1992.4,
+        "value": 1.0
+      },
+      {
+        "year": 1992.7,
+        "value": 1.0
+      },
+      {
+        "year": 1993.0,
+        "value": 1.0
+      },
+      {
+        "year": 1993.4,
+        "value": 1.0
+      },
+      {
+        "year": 1994.7,
+        "value": 1.0
+      },
+      {
+        "year": 1995.4,
+        "value": 1.0
+      },
+      {
+        "year": 1995.8,
+        "value": 1.0
+      },
+      {
+        "year": 1996.1,
+        "value": 1.0
+      },
+      {
+        "year": 1996.5,
+        "value": 1.0
+      },
+      {
+        "year": 1996.9,
+        "value": 1.0
+      },
+      {
+        "year": 1997.3,
+        "value": 1.0
+      },
+      {
+        "year": 1997.5,
+        "value": 1.0
+      },
+      {
+        "year": 1997.7,
+        "value": 1.0
+      },
+      {
+        "year": 1998.8,
+        "value": 1.0
+      },
+      {
+        "year": 1999.2,
+        "value": 1.0
+      },
+      {
+        "year": 1999.5,
+        "value": 1.0
+      },
+      {
+        "year": 2000.2,
+        "value": 1.0
+      },
+      {
+        "year": 2000.7,
+        "value": 1.0
+      },
+      {
+        "year": 2001.1,
+        "value": 1.0
+      },
+      {
+        "year": 2001.6,
+        "value": 1.0
+      },
+      {
+        "year": 2001.8,
+        "value": 1.0
+      },
+      {
+        "year": 2002.4,
+        "value": 1.0
+      },
+      {
+        "year": 2002.7,
+        "value": 1.0
+      },
+      {
+        "year": 2002.9,
+        "value": 1.0
+      },
+      {
+        "year": 2003.3,
+        "value": 1.0
+      },
+      {
+        "year": 2003.5,
+        "value": 1.0
+      },
+      {
+        "year": 2003.7,
+        "value": 1.0
+      },
+      {
+        "year": 2004.8,
+        "value": 2.0
+      },
+      {
+        "year": 2004.9,
+        "value": 1.0
+      },
+      {
+        "year": 2005.7,
+        "value": 2.0
+      },
+      {
+        "year": 2005.8,
+        "value": 1.0
+      },
+      {
+        "year": 2006.0,
+        "value": 8.0
+      },
+      {
+        "year": 2006.1,
+        "value": 2.0
+      },
+      {
+        "year": 2006.8,
+        "value": 2.0
+      },
+      {
+        "year": 2007.1,
+        "value": 2.0
+      },
+      {
+        "year": 2007.6,
+        "value": 4.0
+      },
+      {
+        "year": 2007.7,
+        "value": 9.0
+      },
+      {
+        "year": 2007.7,
+        "value": 2.0
+      },
+      {
+        "year": 2007.9,
+        "value": 2.0
+      },
+      {
+        "year": 2008.0,
+        "value": 8.0
+      },
+      {
+        "year": 2008.2,
+        "value": 4.0
+      },
+      {
+        "year": 2008.5,
+        "value": 2.0
+      },
+      {
+        "year": 2009.2,
+        "value": 3.0
+      },
+      {
+        "year": 2009.2,
+        "value": 4.0
+      },
+      {
+        "year": 2009.5,
+        "value": 4.0
+      },
+      {
+        "year": 2009.6,
+        "value": 3.0
+      },
+      {
+        "year": 2009.7,
+        "value": 8.0
+      },
+      {
+        "year": 2009.7,
+        "value": 6.0
+      },
+      {
+        "year": 2010.2,
+        "value": 16.0
+      },
+      {
+        "year": 2011.2,
+        "value": 12.0
+      },
+      {
+        "year": 2011.3,
+        "value": 20.0
+      },
+      {
+        "year": 2011.9,
+        "value": 8.0
+      },
+      {
+        "year": 2012.4,
+        "value": 16.0
+      },
+      {
+        "year": 2012.4,
+        "value": 16.0
+      },
+      {
+        "year": 2012.7,
+        "value": 32.0
+      },
+      {
+        "year": 2012.9,
+        "value": 16.0
+      },
+      {
+        "year": 2013.4,
+        "value": 240.0
+      },
+      {
+        "year": 2013.8,
+        "value": 24.0
+      },
+      {
+        "year": 2014.2,
+        "value": 30.0
+      },
+      {
+        "year": 2014.5,
+        "value": 64.0
+      },
+      {
+        "year": 2014.8,
+        "value": 16.0
+      },
+      {
+        "year": 2014.8,
+        "value": 24.0
+      },
+      {
+        "year": 2014.8,
+        "value": 36.0
+      },
+      {
+        "year": 2016.3,
+        "value": 44.0
+      },
+      {
+        "year": 2016.5,
+        "value": 272.0
+      },
+      {
+        "year": 2016.7,
+        "value": 96.0
+      },
+      {
+        "year": 2017.5,
+        "value": 64.0
+      },
+      {
+        "year": 2017.6,
+        "value": 44.0
+      },
+      {
+        "year": 2017.6,
+        "value": 56.0
+      },
+      {
+        "year": 2018.4,
+        "value": 88.0
+      },
+      {
+        "year": 2018.5,
+        "value": 80.0
+      },
+      {
+        "year": 2019.3,
+        "value": 56.0
+      },
+      {
+        "year": 2019.8,
+        "value": 128.0
+      },
+      {
+        "year": 2020.1,
+        "value": 128.0
+      },
+      {
+        "year": 2020.2,
+        "value": 56.0
+      },
+      {
+        "year": 2020.9,
+        "value": 8.0
+      },
+      {
+        "year": 2021.3,
+        "value": 80.0
+      },
+      {
+        "year": 2021.8,
+        "value": 10.0
+      },
+      {
+        "year": 2021.9,
+        "value": 208.0
+      },
+      {
+        "year": 2021.9,
+        "value": 64.0
+      }
+    ],
+    "tdp_watts": []
+  },
+  "summary": {
+    "total_data_points": 99,
+    "earliest": {
+      "year": 1971.9,
+      "transistor_count": 2.30824152676,
+      "transistor_count_log10": 0.36
+    },
+    "latest": {
+      "year": 2021.9,
+      "transistor_count": 55000000.0,
+      "transistor_count_log10": 7.74
+    },
+    "year_range": "1971.9-2021.9",
+    "total_increase_factor": 23827662.0
+  }
+}

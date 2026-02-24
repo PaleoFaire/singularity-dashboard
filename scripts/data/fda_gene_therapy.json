@@ -1,0 +1,424 @@
+{
+  "source": "FDA / openFDA / Curated data",
+  "fetched_at": "2026-02-24T08:14:54.629423Z",
+  "curated": {
+    "therapies": [
+      {
+        "name": "Kymriah (tisagenlecleucel)",
+        "company": "Novartis",
+        "approval_date": "2017-08-30",
+        "year": 2017,
+        "type": "CAR-T cell therapy",
+        "indication": "B-cell ALL"
+      },
+      {
+        "name": "Yescarta (axicabtagene ciloleucel)",
+        "company": "Kite/Gilead",
+        "approval_date": "2017-10-18",
+        "year": 2017,
+        "type": "CAR-T cell therapy",
+        "indication": "Large B-cell lymphoma"
+      },
+      {
+        "name": "Luxturna (voretigene neparvovec)",
+        "company": "Spark Therapeutics",
+        "approval_date": "2017-12-19",
+        "year": 2017,
+        "type": "AAV gene therapy",
+        "indication": "Inherited retinal dystrophy"
+      },
+      {
+        "name": "Tecartus (brexucabtagene autoleucel)",
+        "company": "Kite/Gilead",
+        "approval_date": "2020-07-24",
+        "year": 2020,
+        "type": "CAR-T cell therapy",
+        "indication": "Mantle cell lymphoma"
+      },
+      {
+        "name": "Breyanzi (lisocabtagene maraleucel)",
+        "company": "Bristol Myers Squibb",
+        "approval_date": "2021-02-05",
+        "year": 2021,
+        "type": "CAR-T cell therapy",
+        "indication": "Large B-cell lymphoma"
+      },
+      {
+        "name": "Abecma (idecabtagene vicleucel)",
+        "company": "Bristol Myers Squibb",
+        "approval_date": "2021-03-26",
+        "year": 2021,
+        "type": "CAR-T cell therapy",
+        "indication": "Multiple myeloma"
+      },
+      {
+        "name": "Carvykti (ciltacabtagene autoleucel)",
+        "company": "Janssen/Legend Biotech",
+        "approval_date": "2022-02-28",
+        "year": 2022,
+        "type": "CAR-T cell therapy",
+        "indication": "Multiple myeloma"
+      },
+      {
+        "name": "Zynteglo (betibeglogene autotemcel)",
+        "company": "bluebird bio",
+        "approval_date": "2022-08-17",
+        "year": 2022,
+        "type": "Gene therapy (lentiviral)",
+        "indication": "Beta-thalassemia"
+      },
+      {
+        "name": "Skysona (elivaldogene autotemcel)",
+        "company": "bluebird bio",
+        "approval_date": "2022-09-16",
+        "year": 2022,
+        "type": "Gene therapy (lentiviral)",
+        "indication": "Cerebral adrenoleukodystrophy"
+      },
+      {
+        "name": "Hemgenix (etranacogene dezaparvovec)",
+        "company": "CSL Behring",
+        "approval_date": "2022-11-22",
+        "year": 2022,
+        "type": "AAV gene therapy",
+        "indication": "Hemophilia B"
+      },
+      {
+        "name": "Adstiladrin (nadofaragene firadenovec)",
+        "company": "Ferring",
+        "approval_date": "2022-12-16",
+        "year": 2022,
+        "type": "Gene therapy (adenoviral)",
+        "indication": "Bladder cancer"
+      },
+      {
+        "name": "Omisirge (omidubicel)",
+        "company": "Gamida Cell",
+        "approval_date": "2023-04-17",
+        "year": 2023,
+        "type": "Cell therapy",
+        "indication": "Hematopoietic stem cell transplant"
+      },
+      {
+        "name": "Vyjuvek (beremagene geperpavec)",
+        "company": "Krystal Biotech",
+        "approval_date": "2023-05-19",
+        "year": 2023,
+        "type": "Gene therapy (HSV-1 vector)",
+        "indication": "Dystrophic epidermolysis bullosa"
+      },
+      {
+        "name": "Elevidys (delandistrogene moxeparvovec)",
+        "company": "Sarepta Therapeutics",
+        "approval_date": "2023-06-22",
+        "year": 2023,
+        "type": "AAV gene therapy",
+        "indication": "Duchenne muscular dystrophy"
+      },
+      {
+        "name": "Lantidra (donislecel)",
+        "company": "CellTrans",
+        "approval_date": "2023-06-28",
+        "year": 2023,
+        "type": "Allogeneic cell therapy",
+        "indication": "Type 1 diabetes"
+      },
+      {
+        "name": "Roctavian (valoctocogene roxaparvovec)",
+        "company": "BioMarin",
+        "approval_date": "2023-06-29",
+        "year": 2023,
+        "type": "AAV gene therapy",
+        "indication": "Hemophilia A"
+      },
+      {
+        "name": "Casgevy (exagamglogene autotemcel)",
+        "company": "Vertex/CRISPR Therapeutics",
+        "approval_date": "2023-12-08",
+        "year": 2023,
+        "type": "CRISPR gene-edited cell therapy",
+        "indication": "Sickle cell disease"
+      },
+      {
+        "name": "Lyfgenia (lovotibeglogene autotemcel)",
+        "company": "bluebird bio",
+        "approval_date": "2023-12-08",
+        "year": 2023,
+        "type": "Gene therapy (lentiviral)",
+        "indication": "Sickle cell disease"
+      },
+      {
+        "name": "Amtagvi (lifileucel)",
+        "company": "Iovance",
+        "approval_date": "2024-02-16",
+        "year": 2024,
+        "type": "TIL cell therapy",
+        "indication": "Melanoma"
+      },
+      {
+        "name": "Tecelra (afamitresgene autoleucel)",
+        "company": "Adaptimmune",
+        "approval_date": "2024-08-02",
+        "year": 2024,
+        "type": "TCR-T cell therapy",
+        "indication": "Synovial sarcoma"
+      }
+    ],
+    "by_year": [
+      {
+        "year": 2017,
+        "new_approvals": 3,
+        "cumulative": 3
+      },
+      {
+        "year": 2020,
+        "new_approvals": 1,
+        "cumulative": 4
+      },
+      {
+        "year": 2021,
+        "new_approvals": 2,
+        "cumulative": 6
+      },
+      {
+        "year": 2022,
+        "new_approvals": 5,
+        "cumulative": 11
+      },
+      {
+        "year": 2023,
+        "new_approvals": 7,
+        "cumulative": 18
+      },
+      {
+        "year": 2024,
+        "new_approvals": 2,
+        "cumulative": 20
+      }
+    ],
+    "by_type": {
+      "CAR-T cell therapy": 6,
+      "AAV gene therapy": 4,
+      "Gene therapy (lentiviral)": 3,
+      "Gene therapy (adenoviral)": 1,
+      "CRISPR gene-edited cell therapy": 1,
+      "Allogeneic cell therapy": 1,
+      "Cell therapy": 1,
+      "Gene therapy (HSV-1 vector)": 1,
+      "TIL cell therapy": 1,
+      "TCR-T cell therapy": 1
+    },
+    "total_approved": 20
+  },
+  "openfda_results": [
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "ORIG",
+      "approval_date": "19730228"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "20030813"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19950315"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19850219"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19911009"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19891024"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19800630"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19850729"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19751001"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "20000411"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19840509"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19930317"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19820111"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "20100117"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19900228"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19860305"
+    },
+    {
+      "application_number": "NDA016931",
+      "brand_names": [
+        "R-GENE 10"
+      ],
+      "sponsor": "PHARMACIA AND UPJOHN",
+      "submission_type": "SUPPL",
+      "approval_date": "19750825"
+    }
+  ],
+  "summary": {
+    "total_curated_approvals": 20,
+    "approvals_by_year": [
+      {
+        "year": 2017,
+        "new_approvals": 3,
+        "cumulative": 3
+      },
+      {
+        "year": 2020,
+        "new_approvals": 1,
+        "cumulative": 4
+      },
+      {
+        "year": 2021,
+        "new_approvals": 2,
+        "cumulative": 6
+      },
+      {
+        "year": 2022,
+        "new_approvals": 5,
+        "cumulative": 11
+      },
+      {
+        "year": 2023,
+        "new_approvals": 7,
+        "cumulative": 18
+      },
+      {
+        "year": 2024,
+        "new_approvals": 2,
+        "cumulative": 20
+      }
+    ],
+    "approvals_by_type": {
+      "CAR-T cell therapy": 6,
+      "AAV gene therapy": 4,
+      "Gene therapy (lentiviral)": 3,
+      "Gene therapy (adenoviral)": 1,
+      "CRISPR gene-edited cell therapy": 1,
+      "Allogeneic cell therapy": 1,
+      "Cell therapy": 1,
+      "Gene therapy (HSV-1 vector)": 1,
+      "TIL cell therapy": 1,
+      "TCR-T cell therapy": 1
+    },
+    "latest_approval": {
+      "name": "Tecelra (afamitresgene autoleucel)",
+      "company": "Adaptimmune",
+      "approval_date": "2024-08-02",
+      "year": 2024,
+      "type": "TCR-T cell therapy",
+      "indication": "Synovial sarcoma"
+    },
+    "openfda_results_count": 17
+  }
+}
