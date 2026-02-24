@@ -11,8 +11,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <meta name="theme-color" content="#030014">
-    <link rel="stylesheet" href="styles.css?v=20260224b">
+    <meta name="theme-color" content="#FAFAF8">
+    <link rel="stylesheet" href="styles.css?v=20260224c">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@2.0.1/dist/chartjs-plugin-zoom.min.js"></script>
 </head>
@@ -69,17 +69,31 @@
             </div>
         </div>
         <div class="hero-actions">
-            <a href="#scoreboard" class="hero-btn primary">↓ View the Scoreboard</a>
+            <a href="#scoreboard" class="hero-btn primary">View the Scoreboard</a>
             <a href="#methodology" class="hero-btn secondary">How We Track This</a>
         </div>
     </div>
 </header>
 
+<!-- Rotating Insights Bar -->
+<div class="insights-bar" id="insights-bar">
+    <div class="insights-inner">
+        <span class="insights-label">LIVE DATA</span>
+        <div class="insights-text-wrap">
+            <!-- Injected by JS -->
+        </div>
+        <div class="insights-nav">
+            <button class="insights-prev" aria-label="Previous insight">&larr;</button>
+            <button class="insights-next" aria-label="Next insight">&rarr;</button>
+        </div>
+    </div>
+</div>
+
 <!-- The Big Thesis -->
 <section class="thesis-section">
     <div class="container">
         <div class="thesis-card">
-            <div class="thesis-icon">⚡</div>
+            <div class="thesis-icon">&#9889;</div>
             <h2>The Great Stagnation Is Over</h2>
             <p>Tyler Cowen pinpoints 2020 — the year of mRNA vaccines — as the end of the technological plateau. Since then: GLP-1 drugs rewriting obesity medicine, large language models rewriting knowledge work, fusion experiments hitting ignition, and nuclear energy making its comeback. The charts below don't just show progress. They show <strong>exponential</strong> progress. Technologies that took decades to improve by 2x are now improving by 10x in years. We're not approaching the singularity. We're in it.</p>
         </div>
@@ -134,7 +148,7 @@
         <!-- Comparison Chart (hidden by default) -->
         <div class="compare-panel" id="compare-panel" style="display:none;">
             <div class="compare-header">
-                <h3>📊 Comparison Chart</h3>
+                <h3>Comparison Chart</h3>
                 <div class="compare-controls">
                     <button class="chart-toggle" id="compare-log-toggle" title="Toggle logarithmic scale">Log Scale</button>
                     <button class="chart-toggle" id="compare-clear" title="Clear comparison">Clear All</button>
@@ -169,7 +183,7 @@
     <div class="container">
         <div class="abundance-card">
             <div class="abundance-header">
-                <div class="abundance-icon">☀️</div>
+                <div class="abundance-icon">&#9728;&#65039;</div>
                 <h2>The Abundance Clock</h2>
                 <p class="abundance-subtitle">A counter to the Doomsday Clock</p>
             </div>
@@ -180,8 +194,8 @@
                     <div class="meter-track">
                         <div class="meter-fill" id="abundance-fill"></div>
                         <div class="meter-labels">
-                            <span>🌑 Midnight</span>
-                            <span>☀️ Abundance</span>
+                            <span>&#127761; Midnight</span>
+                            <span>&#9728;&#65039; Abundance</span>
                         </div>
                     </div>
                     <div class="meter-value" id="abundance-value">Loading...</div>
@@ -200,22 +214,22 @@
         </div>
         <div class="method-grid">
             <div class="method-card">
-                <div class="method-icon">📊</div>
+                <div class="method-icon">&#128202;</div>
                 <h3>Real Data, Not Hype</h3>
                 <p>Every metric on this dashboard is backed by a measurable time series — costs, deployments, performance benchmarks, or production volumes. We track what can be plotted on a log scale.</p>
             </div>
             <div class="method-card">
-                <div class="method-icon">🎯</div>
+                <div class="method-icon">&#127919;</div>
                 <h3>Tipping Points</h3>
                 <p>For each technology, we define a "tipping point" — the threshold where adoption goes from linear to exponential. Progress bars show how far each technology has traveled toward this threshold.</p>
             </div>
             <div class="method-card">
-                <div class="method-icon">🚀</div>
+                <div class="method-icon">&#128640;</div>
                 <h3>Acceleration Score</h3>
                 <p>A 1-5 score measuring whether progress is decelerating, steady, or accelerating. Based on the rate of change of the rate of change — the second derivative. A score of 5 means the curve is bending vertical.</p>
             </div>
             <div class="method-card">
-                <div class="method-icon">🔗</div>
+                <div class="method-icon">&#128279;</div>
                 <h3>Compound Effects</h3>
                 <p>Technologies don't exist in isolation. Cheaper AI makes drug discovery faster. Cheaper energy makes compute cheaper. Cheaper compute makes AI better. We track these compounding loops.</p>
             </div>
@@ -230,7 +244,7 @@
             <h2>The question isn't whether this is happening.<br>It's: what are you going to do about it?</h2>
             <p>Join 24,000+ rational optimists tracking the most consequential transformation in human history.</p>
             <div class="cta-actions">
-                <a href="https://rationaloptimistsociety.substack.com" target="_blank" rel="noopener" class="hero-btn primary">Subscribe Free →</a>
+                <a href="https://rationaloptimistsociety.substack.com" target="_blank" rel="noopener" class="hero-btn primary">Subscribe Free &rarr;</a>
                 <a href="https://www.rationaloptimistsociety.com" target="_blank" rel="noopener" class="hero-btn secondary">Join the Society</a>
             </div>
         </div>
@@ -243,12 +257,12 @@
         <div class="footer-content">
             <div class="footer-brand">
                 <div class="nav-logo">ROS</div>
-                <span>Rational Optimist Society © 2026</span>
+                <span>Rational Optimist Society &copy; 2026</span>
             </div>
             <div class="footer-links">
                 <a href="https://www.rationaloptimistsociety.com" target="_blank">Home</a>
                 <a href="https://rationaloptimistsociety.substack.com" target="_blank">Substack</a>
-                <a href="https://x.com/disruptionhedge" target="_blank">𝕏</a>
+                <a href="https://x.com/disruptionhedge" target="_blank">&#120143;</a>
             </div>
         </div>
     </div>
@@ -262,7 +276,7 @@
     </div>
 </div>
 
-<script src="data.js?v=20260224b"></script>
-<script src="app.js?v=20260224b"></script>
+<script src="data.js?v=20260224c"></script>
+<script src="app.js?v=20260224c"></script>
 </body>
 </html>
