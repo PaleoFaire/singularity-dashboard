@@ -72,7 +72,7 @@ const TECHNOLOGIES = [
 
   innovators: [
     { name: "Anthropic", desc: "Claude Opus 4.6 — the current frontier. 14.5-hour task horizon.", tag: "$14B run-rate" },
-    { name: "OpenAI", desc: "GPT-5 and o-series reasoning models pushing agent capabilities.", tag: "AGI by 2027?" },
+    { name: "OpenAI", desc: "GPT-5 and o-series reasoning models pushing agent capabilities. $20B+ ARR.", tag: "$20B+ ARR" },
     { name: "Google DeepMind", desc: "Gemini Ultra + Project Astra building always-on AI assistants.", tag: "$Trillion lab" },
     { name: "xAI", desc: "Grok trained on the world's largest GPU cluster (Memphis).", tag: "100K H100s" },
   ],
@@ -93,19 +93,19 @@ const TECHNOLOGIES = [
   name: "AI Inference Cost",
   icon: "💰",
   category: "ai",
-  tagline: "The cost to run AI has collapsed 1,000x in three years — and it's still falling.",
+  tagline: "The cost to run AI has collapsed 400x in four years — and it's still falling.",
   accentColor: "#60a5fa",
 
   metric: "Cost per Million Tokens (Frontier)",
   startValue: "$60",
-  startYear: 2022,
-  currentValue: "$0.07",
+  startYear: 2020,
+  currentValue: "$0.15",
   currentYear: 2026,
   targetValue: "$0.001",
   targetLabel: "Effectively Free Intelligence",
   progressPercent: 68,
 
-  keyMetric: { label: "Cost/1M tokens", value: "$0.07", change: "30x cheaper since 2020" },
+  keyMetric: { label: "Cost/1M tokens", value: "$0.15", change: "~400x cheaper since 2020" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
   sparkline: [0.0, 66.8, 96.8, 97.6, 99.3, 99.7, 99.9, 100.0],
@@ -120,7 +120,7 @@ const TECHNOLOGIES = [
     lastPull: "2026-02-24"
   },
 
-  whatItIs: "Inference cost measures how much it costs to generate AI responses. In March 2022, frontier-quality inference cost ~$60 per million tokens. By February 2026, equivalent capability costs $0.15/M tokens — a 400x decline. Budget models run at fractions of a penny. This is arguably the most important price curve in the global economy right now.",
+  whatItIs: "Inference cost measures how much it costs to generate AI responses. In 2020, frontier-quality inference cost ~$60 per million tokens (GPT-3 Davinci). By February 2026, equivalent capability costs $0.15/M tokens — a 400x decline. Budget models run at fractions of a penny. This is arguably the most important price curve in the global economy right now.",
 
   whyItMatters: "When something drops 1,000x in price, everything built on top of it transforms. Electricity dropping in cost gave us modern civilization. AI inference dropping in cost is giving us machine intelligence as a utility. At current trajectories, by 2028, running a PhD-level AI assistant for a full year will cost less than a Netflix subscription.",
 
@@ -133,9 +133,9 @@ const TECHNOLOGIES = [
   ],
 
   milestones: [
-    { year: "2022", text: "$60/M tokens — GPT-3.5 Davinci", past: true },
+    { year: "2020", text: "$60/M tokens — GPT-3 Davinci (launch pricing)", past: true },
     { year: "2023", text: "$30/M — GPT-4 launch pricing", past: true },
-    { year: "Jun 2024", text: "$0.75/M — Claude 3.5 Sonnet", past: true },
+    { year: "Jun 2024", text: "$3/M input — Claude 3.5 Sonnet", past: true },
     { year: "Dec 2024", text: "$0.40/M — Multi-provider competition", past: true },
     { year: "Feb 2026", text: "$0.15/M — Frontier models", past: true },
     { year: "2028", text: "Target: $0.001/M — effectively free", past: false },
@@ -149,9 +149,9 @@ const TECHNOLOGIES = [
   ],
 
   dataTable: [
-    { period: "Mar 2022", value: "$60.00", context: "GPT-3.5 Davinci" },
+    { period: "2020", value: "$60.00", context: "GPT-3 Davinci (launch)" },
     { period: "Mar 2023", value: "$30.00", context: "GPT-4 launch" },
-    { period: "Jun 2024", value: "$0.75", context: "Claude 3.5 Sonnet" },
+    { period: "Jun 2024", value: "$3.00", context: "Claude 3.5 Sonnet (input)" },
     { period: "Dec 2024", value: "$0.40", context: "Competition drives down" },
     { period: "Feb 2026", value: "$0.15", context: "Current frontier" },
   ]
@@ -167,7 +167,7 @@ const TECHNOLOGIES = [
   accentColor: "#f472b6",
 
   metric: "Training FLOP (Frontier Models)",
-  startValue: "10^17",
+  startValue: "10^18",
   startYear: 2012,
   currentValue: "5e+26 FLOP",
   currentYear: 2025,
@@ -190,7 +190,7 @@ const TECHNOLOGIES = [
     lastPull: "2026-02-24"
   },
 
-  whatItIs: "Training compute measures the total number of floating-point operations (FLOP) used to train a frontier AI model. Epoch AI tracks this rigorously across 3,000+ models. AlexNet (2012) used ~10^17 FLOP. GPT-4 (2023) used an estimated ~10^25 FLOP. Current frontier models are approaching 10^27 FLOP. The compute used for frontier training has been doubling approximately every 5-6 months since 2010 — far faster than Moore's Law.",
+  whatItIs: "Training compute measures the total number of floating-point operations (FLOP) used to train a frontier AI model. Epoch AI tracks this rigorously across 3,000+ models. AlexNet (2012) used ~10^18 FLOP. GPT-4 (2023) used an estimated ~10^25 FLOP. Current frontier models are approaching 10^27 FLOP. The compute used for frontier training has been doubling approximately every 5-6 months since 2010 — far faster than Moore's Law.",
 
   whyItMatters: "Training compute is the raw fuel of AI capability. More compute → more capable models. The scaling laws discovered by OpenAI and others show that model capability improves predictably with more compute, data, and parameters. As long as this scaling continues — and the $325B/year datacenter buildout ensures it will — AI will keep getting dramatically more capable. This is the physical substrate of the singularity.",
 
@@ -203,7 +203,7 @@ const TECHNOLOGIES = [
   ],
 
   milestones: [
-    { year: "2012", text: "AlexNet: ~10^17 FLOP — deep learning begins", past: true },
+    { year: "2012", text: "AlexNet: ~10^18 FLOP — deep learning begins", past: true },
     { year: "2017", text: "Transformer / AlphaGo: ~10^20 FLOP", past: true },
     { year: "2020", text: "GPT-3: ~10^23 FLOP", past: true },
     { year: "2023", text: "GPT-4: ~10^25 FLOP (estimated)", past: true },
@@ -220,7 +220,7 @@ const TECHNOLOGIES = [
   ],
 
   dataTable: [
-    { period: "2012", value: "~10^17", context: "AlexNet" },
+    { period: "2012", value: "~10^18", context: "AlexNet" },
     { period: "2017", value: "~10^20", context: "Transformer paper" },
     { period: "2020", value: "~10^23", context: "GPT-3" },
     { period: "2023", value: "~10^25", context: "GPT-4 (estimated)" },
@@ -350,13 +350,13 @@ const TECHNOLOGIES = [
     { year: "2020", text: "Zoom (COVID boost): ~18 months", past: true },
     { year: "2023", text: "ChatGPT: ~11 months to $100M ARR", past: true },
     { year: "2025", text: "Anthropic: ~$10B ARR in ~2.5 years", past: true },
-    { year: "2026", text: "Anthropic: $14B ARR. OpenAI: $15B+ ARR.", past: true },
+    { year: "2026", text: "Anthropic: $14B ARR. OpenAI: $20B+ ARR.", past: true },
   ],
 
   innovators: [
     { name: "Anthropic", desc: "From zero to $14B ARR in ~3 years. Fastest enterprise software ramp ever.", tag: "$14B ARR" },
-    { name: "OpenAI", desc: "ChatGPT + API. Estimated $15B+ ARR. 200M+ weekly active users.", tag: "$15B+ ARR" },
-    { name: "NVIDIA", desc: "The 'picks and shovels.' $130B+ revenue in FY2026 from AI GPU demand.", tag: "$3T+ market cap" },
+    { name: "OpenAI", desc: "ChatGPT + API. $20B+ ARR. 800M+ weekly active users.", tag: "$20B+ ARR" },
+    { name: "NVIDIA", desc: "The 'picks and shovels.' $130.5B revenue in FY2025, on pace for $200B+ in FY2026.", tag: "$3T+ market cap" },
     { name: "Cursor", desc: "AI code editor: $100M+ ARR in roughly 18 months. AI-native from day one.", tag: "AI-native" },
   ],
 
@@ -379,16 +379,16 @@ const TECHNOLOGIES = [
   tagline: "Individual AI datacenter campuses now draw more power than entire cities.",
   accentColor: "#f59e0b",
 
-  metric: "Largest Single DC Campus (MW)",
-  startValue: "~50 MW",
+  metric: "Annual Hyperscaler AI CapEx",
+  startValue: "~$15B",
   startYear: 2015,
-  currentValue: "$226B/yr",
+  currentValue: "~$450B/yr",
   currentYear: 2025,
   targetValue: "5+ GW",
   targetLabel: "Gigawatt-Scale AI Campuses",
   progressPercent: 50,
 
-  keyMetric: { label: "Hyperscaler CapEx", value: "$226B/yr", change: "Microsoft: $49B, Alphabet: $64B, Amazon: $7B, Meta: $48B" },
+  keyMetric: { label: "Hyperscaler CapEx", value: "~$450B/yr", change: "Amazon: $125B, Alphabet: $91B, Meta: $66B, Microsoft: $80B+" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
   sparkline: [6.7, 0.9, 0.0, 11.5, 12.4, 12.5, 18.1, 29.7, 30.1, 53.7, 100.0],
@@ -403,9 +403,9 @@ const TECHNOLOGIES = [
     lastPull: "2026-02-24"
   },
 
-  whatItIs: "The physical scale of AI infrastructure is unprecedented. The largest datacenter campuses under construction now draw 500-700+ MW of power — enough to power a city of 400,000+ people. Microsoft, Google, Amazon, and Meta are each spending $50-80 billion per year on AI infrastructure. xAI's Memphis Supercluster houses 100,000+ H100 GPUs. Plans for gigawatt-scale (1,000+ MW) campuses are actively being developed, requiring dedicated power plants — often nuclear.",
+  whatItIs: "The physical scale of AI infrastructure is unprecedented. The largest datacenter campuses under construction now draw 500-700+ MW of power — enough to power a city of 400,000+ people. Amazon ($125B), Alphabet ($91B), Meta ($66-72B), and Microsoft ($80B+) are each spending massive sums on AI infrastructure in 2025. xAI's Memphis Supercluster houses 100,000+ H100 GPUs. Plans for gigawatt-scale (1,000+ MW) campuses are actively being developed, requiring dedicated power plants — often nuclear.",
 
-  whyItMatters: "This spending is the physical proof that AI is real. Companies don't invest $325 billion/year in science experiments. The scale creates a self-reinforcing cycle: more compute enables more capable models, which drives more demand. It's reshaping energy markets (nuclear PPAs), real estate, and geopolitics. Whoever controls compute infrastructure controls AI supremacy.",
+  whyItMatters: "This spending is the physical proof that AI is real. Companies don't invest $450 billion/year in science experiments. The scale creates a self-reinforcing cycle: more compute enables more capable models, which drives more demand. It's reshaping energy markets (nuclear PPAs), real estate, and geopolitics. Whoever controls compute infrastructure controls AI supremacy.",
 
   whatItUnlocks: [
     "AI models 100-1,000x more capable than today's frontier systems",
@@ -420,12 +420,12 @@ const TECHNOLOGIES = [
     { year: "2020", text: "Hyperscaler campuses: ~100-200 MW", past: true },
     { year: "2023", text: "AI boom begins; 300+ MW campuses planned", past: true },
     { year: "2024", text: "xAI Memphis: 150 MW; Stargate announced at 500 MW+", past: true },
-    { year: "2026", text: "Multiple 500-700 MW campuses; $325B annual capex", past: true },
+    { year: "2026", text: "Multiple 500-700 MW campuses; $450B+ annual capex", past: true },
     { year: "2030", text: "Target: 5+ GW single campuses with dedicated nuclear", past: false },
   ],
 
   innovators: [
-    { name: "Microsoft", desc: "Spending $80B+ on AI infrastructure in 2026. Stargate partnership with OpenAI.", tag: "$80B capex" },
+    { name: "Microsoft", desc: "Spending $80B+ on AI infrastructure in 2025-2026. Stargate partnership with OpenAI.", tag: "$80B+ capex" },
     { name: "Amazon (AWS)", desc: "Project Rainier + Trainium custom chips. Massive campus builds.", tag: "Custom silicon" },
     { name: "Google", desc: "TPU v6 custom silicon. Nuclear PPAs signed for DC power.", tag: "Nuclear-powered AI" },
     { name: "xAI", desc: "Memphis Supercluster: 100K+ H100s. One of the world's largest GPU clusters.", tag: "100K GPUs" },
@@ -459,7 +459,7 @@ const TECHNOLOGIES = [
   targetLabel: "Trillion-Transistor Chips",
   progressPercent: 75,
 
-  keyMetric: { label: "Transistors/chip", value: "55M", change: "~23827662x since 1971" },
+  keyMetric: { label: "Transistors/chip", value: "200B+", change: "~87 million x since 1971" },
   acceleration: 3,
   accelerationLabel: "Steady",
   sparkline: [0.0, 44.2, 0.0, 48.8, 0.0, 81.4, 67.4, 34.9, 100.0, 100.0, 97.7],
@@ -562,14 +562,14 @@ const TECHNOLOGIES = [
     { year: "Feb 2024", text: "OpenAI: ~133B tokens/day (100B words)", past: true },
     { year: "Mid 2024", text: "ChatGPT: 400M weekly active users", past: true },
     { year: "Oct 2025", text: "OpenAI API: 6B tokens/minute (~8.6T/day)", past: true },
-    { year: "Dec 2025", text: "ChatGPT: 900M weekly users; Azure: 100T tokens/quarter", past: true },
+    { year: "Dec 2025", text: "ChatGPT: 800M+ weekly users; Azure: 100T tokens/quarter", past: true },
     { year: "2027", text: "Projected: 1 quadrillion tokens/day (ambient AI)", past: false },
   ],
 
   innovators: [
-    { name: "OpenAI", desc: "ChatGPT: 900M weekly users, 6B tokens/min. 81% consumer AI market share.", tag: "$10B+ ARR" },
+    { name: "OpenAI", desc: "ChatGPT: 800M+ weekly users, 6B tokens/min. 81% consumer AI market share.", tag: "$20B+ ARR" },
     { name: "Google DeepMind", desc: "Gemini across Search (2B+ MAU), Workspace, Cloud. Processes more tokens than anyone.", tag: "2B+ AI users" },
-    { name: "Anthropic", desc: "Claude reached $5B ARR in July 2025 — 5x in 7 months. 300K+ business customers.", tag: "$5B ARR" },
+    { name: "Anthropic", desc: "Claude hit $14B ARR in Feb 2026. 500+ customers paying $1M+/year.", tag: "$14B ARR" },
     { name: "Microsoft/Azure", desc: "100T tokens/quarter. AI infused into every Microsoft product for 400M+ users.", tag: "100T/quarter" },
   ],
 
@@ -1307,19 +1307,19 @@ const TECHNOLOGIES = [
   name: "Robotaxi Rides",
   icon: "🚗",
   category: "space",
-  tagline: "Robotaxis went from zero to 150,000+ paid rides per week in 3 years.",
+  tagline: "Robotaxis went from zero to 400,000+ paid rides per week in 4 years.",
   accentColor: "#fb923c",
 
   metric: "Robotaxi Rides per Week (US)",
   startValue: "~0",
   startYear: 2022,
-  currentValue: "150,000+",
+  currentValue: "400,000+",
   currentYear: 2026,
   targetValue: "10M+",
   targetLabel: "Majority of Urban Rides",
-  progressPercent: 38,
+  progressPercent: 52,
 
-  keyMetric: { label: "Rides/week", value: "150K+", change: "From zero in 2022" },
+  keyMetric: { label: "Rides/week", value: "400K+", change: "From zero in 2022" },
   acceleration: 4,
   accelerationLabel: "Accelerating",
   sparkline: [0, 0, 1, 3, 8, 15, 28, 42, 60, 80, 100],
@@ -1333,7 +1333,7 @@ const TECHNOLOGIES = [
     lastPull: "2026-02-24"
   },
 
-  whatItIs: "Autonomous vehicles went from perpetual vaporware to real commercial service. Waymo operates fully driverless robotaxis in San Francisco, Phoenix, Los Angeles, Austin, and more — completing 150,000+ paid rides per week. No safety driver. Tesla FSD has accumulated billions of supervised miles.",
+  whatItIs: "Autonomous vehicles went from perpetual vaporware to real commercial service. Waymo operates fully driverless robotaxis in San Francisco, Phoenix, Los Angeles, Austin, Atlanta, and Miami — completing 400,000+ paid rides per week across 6 cities. No safety driver. Waymo delivered 15 million rides in 2025 alone, quadrupling 2024 volume.",
 
   whyItMatters: "Road accidents kill 1.35 million people annually. Human error causes 94% of crashes. AVs even 2x safer save 600,000+ lives per year. Economics: robotaxis cost ~$0.25-0.50/mile vs ~$2-3/mile for Uber. This makes car ownership optional for urban residents.",
 
@@ -1349,13 +1349,13 @@ const TECHNOLOGIES = [
     { year: "2020", text: "Waymo begins limited driverless rides in Phoenix", past: true },
     { year: "2023", text: "Waymo opens SF to public; 50K rides/week", past: true },
     { year: "2024", text: "100K+ rides/week; expands to LA and Austin", past: true },
-    { year: "2025", text: "Tesla FSD reaches billions of miles", past: true },
-    { year: "2026", text: "150K+ rides/week across 8+ cities", past: true },
+    { year: "2025", text: "15M rides in 2025; expands to Atlanta, Miami", past: true },
+    { year: "2026", text: "400K+ rides/week across 6 cities; targeting 1M/week", past: true },
     { year: "2030", text: "Target: Robotaxis in most major US cities", past: false },
   ],
 
   innovators: [
-    { name: "Waymo", desc: "Clear leader. 150K+ weekly rides. Jaguar I-PACE fleet.", tag: "Market leader" },
+    { name: "Waymo", desc: "Clear leader. 400K+ weekly rides across 6 cities. Targeting 1M/week in 2026.", tag: "Market leader" },
     { name: "Tesla", desc: "FSD in millions of cars. Unmatched data moat.", tag: "Billions of miles" },
     { name: "Zoox (Amazon)", desc: "Purpose-built robotaxi — no steering wheel.", tag: "Amazon-backed" },
     { name: "Aurora Innovation", desc: "Aurora Driver for robotrucking.", tag: "Trucking focus" },
@@ -1366,8 +1366,8 @@ const TECHNOLOGIES = [
     { period: "2022", value: "~5,000/wk", context: "Limited commercial" },
     { period: "2023", value: "~50,000/wk", context: "SF opens" },
     { period: "2024", value: "~100,000/wk", context: "Multi-city" },
-    { period: "2025", value: "~130,000/wk", context: "More cities added" },
-    { period: "2026", value: "150,000+/wk", context: "Still accelerating" },
+    { period: "2025", value: "~250,000/wk", context: "15M rides total in 2025" },
+    { period: "2026", value: "400,000+/wk", context: "6 cities, targeting 1M/wk" },
   ]
 },
 
