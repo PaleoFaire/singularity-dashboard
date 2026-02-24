@@ -19,17 +19,23 @@
   let compareLogScale = false;
   let deepDiveCharts = {}; // id -> Chart instance
 
-  // ─── HERO PARTICLES ───
+  // ─── HERO PARTICLES — Convergence toward singularity ───
   function initParticles() {
     const container = document.getElementById('hero-particles');
     if (!container) return;
-    for (let i = 0; i < 30; i++) {
+    const colors = ['#00f0ff', '#8b5cf6', '#a78bfa', '#00f0ff', '#ec4899'];
+    for (let i = 0; i < 50; i++) {
       const p = document.createElement('div');
       p.className = 'hero-particle';
       p.style.left = Math.random() * 100 + '%';
-      p.style.animationDelay = Math.random() * 8 + 's';
-      p.style.animationDuration = (6 + Math.random() * 6) + 's';
-      p.style.width = p.style.height = (1 + Math.random() * 3) + 'px';
+      p.style.top = (60 + Math.random() * 40) + '%';
+      p.style.animationDelay = Math.random() * 10 + 's';
+      p.style.animationDuration = (8 + Math.random() * 8) + 's';
+      const size = (1 + Math.random() * 2.5);
+      p.style.width = size + 'px';
+      p.style.height = size + 'px';
+      p.style.background = colors[Math.floor(Math.random() * colors.length)];
+      p.style.boxShadow = `0 0 ${4 + Math.random() * 6}px ${p.style.background}`;
       container.appendChild(p);
     }
   }
@@ -475,7 +481,7 @@
           pointRadius: 5,
           pointHoverRadius: 8,
           pointBackgroundColor: tech.accentColor,
-          pointBorderColor: '#000',
+          pointBorderColor: '#030014',
           pointBorderWidth: 2,
           fill: true,
           tension: 0.3,
@@ -491,9 +497,9 @@
         plugins: {
           legend: { display: false },
           tooltip: {
-            backgroundColor: '#1a1a1a',
-            titleColor: '#f0f0fa',
-            bodyColor: '#f0f0fa',
+            backgroundColor: 'rgba(10, 8, 40, 0.95)',
+            titleColor: '#eef2ff',
+            bodyColor: '#eef2ff',
             borderColor: tech.accentColor,
             borderWidth: 1,
             padding: 12,
@@ -512,17 +518,17 @@
         },
         scales: {
           x: {
-            ticks: { color: 'rgba(240,240,250,0.5)', font: { family: 'Inter', size: 11 } },
-            grid: { color: 'rgba(255,255,255,0.05)' },
+            ticks: { color: 'rgba(238,242,255,0.4)', font: { family: 'Inter', size: 11 } },
+            grid: { color: 'rgba(139,92,246,0.06)' },
           },
           y: {
             type: logScale ? 'logarithmic' : 'linear',
             ticks: {
-              color: 'rgba(240,240,250,0.5)',
+              color: 'rgba(238,242,255,0.4)',
               font: { family: 'JetBrains Mono', size: 11 },
               callback: (v) => formatChartValue(v),
             },
-            grid: { color: 'rgba(255,255,255,0.05)' },
+            grid: { color: 'rgba(139,92,246,0.06)' },
           }
         }
       }
@@ -698,7 +704,7 @@
             display: true,
             position: 'top',
             labels: {
-              color: 'rgba(240,240,250,0.7)',
+              color: 'rgba(238,242,255,0.7)',
               font: { family: 'Inter', size: 12 },
               usePointStyle: true,
               pointStyle: 'circle',
@@ -706,30 +712,30 @@
             }
           },
           tooltip: {
-            backgroundColor: '#1a1a1a',
-            titleColor: '#f0f0fa',
-            bodyColor: '#f0f0fa',
-            borderColor: 'rgba(255,255,255,0.1)',
+            backgroundColor: 'rgba(10, 8, 40, 0.95)',
+            titleColor: '#eef2ff',
+            bodyColor: '#eef2ff',
+            borderColor: 'rgba(139,92,246,0.2)',
             borderWidth: 1,
             padding: 12,
           }
         },
         scales: {
           x: {
-            ticks: { color: 'rgba(240,240,250,0.4)', font: { family: 'Inter', size: 11 } },
-            grid: { color: 'rgba(255,255,255,0.04)' },
+            ticks: { color: 'rgba(238,242,255,0.35)', font: { family: 'Inter', size: 11 } },
+            grid: { color: 'rgba(139,92,246,0.06)' },
           },
           y: {
             type: compareLogScale ? 'logarithmic' : 'linear',
             ticks: {
-              color: 'rgba(240,240,250,0.4)',
+              color: 'rgba(238,242,255,0.35)',
               font: { family: 'JetBrains Mono', size: 11 },
             },
-            grid: { color: 'rgba(255,255,255,0.04)' },
+            grid: { color: 'rgba(139,92,246,0.06)' },
             title: {
               display: true,
               text: 'Normalized Progress (0-100)',
-              color: 'rgba(240,240,250,0.4)',
+              color: 'rgba(238,242,255,0.35)',
               font: { family: 'Inter', size: 11 },
             }
           }
