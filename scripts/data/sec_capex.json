@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-02-27T08:00:54.090870Z",
+  "fetched_at": "2026-02-28T07:06:10.282555Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -2185,7 +2185,7 @@
     },
     "Amazon": {
       "cik": "0001018724",
-      "entity_name": "AMAZON.COM, INC.",
+      "entity_name": "AMAZON COM INC",
       "all_filings": [
         {
           "end_date": "2007-12-31",
