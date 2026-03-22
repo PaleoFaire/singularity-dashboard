@@ -1242,13 +1242,13 @@ const TECHNOLOGIES = [
   metric: "Active Satellites in Orbit",
   startValue: "2,200",
   startYear: 2019,
-  currentValue: "15,223",
+  currentValue: "15,222",
   currentYear: 2026,
   targetValue: "100,000+",
   targetLabel: "Orbital Infrastructure Era",
   progressPercent: 48,
 
-  keyMetric: { label: "Active Satellites", value: "15,223", change: "68,151 total objects tracked" },
+  keyMetric: { label: "Active Satellites", value: "15,222", change: "68,151 total objects tracked" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
   sparkline: [0.0, 1.0, 2.6, 3.6, 7.3, 14.9, 27.8, 44.4, 62.8, 94.0, 100.0],
@@ -1714,31 +1714,31 @@ const LIVE_DATA = {
     },
     {
       "year": 2020,
-      "cumulative_active": 2052
+      "cumulative_active": 2051
     },
     {
       "year": 2021,
-      "cumulative_active": 3131
+      "cumulative_active": 3130
     },
     {
       "year": 2022,
-      "cumulative_active": 4967
+      "cumulative_active": 4966
     },
     {
       "year": 2023,
-      "cumulative_active": 7321
+      "cumulative_active": 7320
     },
     {
       "year": 2024,
-      "cumulative_active": 9930
+      "cumulative_active": 9929
     },
     {
       "year": 2025,
-      "cumulative_active": 14370
+      "cumulative_active": 14369
     },
     {
       "year": 2026,
-      "cumulative_active": 15223
+      "cumulative_active": 15222
     }
   ],
   "satelliteLaunches": [
