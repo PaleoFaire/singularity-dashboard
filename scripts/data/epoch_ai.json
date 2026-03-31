@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-03-30T07:49:48.364438Z",
+  "fetched_at": "2026-03-31T07:23:15.680758Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3901,7 +3901,7 @@
       "date": "2025-11-20",
       "training_flop": 1.1e+24,
       "training_flop_log10": 24.04,
-      "organization": "Allen Institute for AI (Ai2)"
+      "organization": "Allen Institute for AI"
     },
     {
       "name": "EXAONE Deep 32B",
