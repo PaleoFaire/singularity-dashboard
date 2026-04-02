@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-01T07:41:28.301975Z",
+  "fetched_at": "2026-04-02T07:20:03.615136Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
-    "total_objects": 68328,
-    "active_satellites": 15360,
+    "total_objects": 68330,
+    "active_satellites": 15357,
     "launches_by_year": [
       {
         "year": 1957,
@@ -283,7 +283,7 @@
       },
       {
         "year": 2026,
-        "count": 1068
+        "count": 1070
       }
     ],
     "active_by_launch_year": [
@@ -465,7 +465,7 @@
       },
       {
         "year": 2019,
-        "count": 154
+        "count": 153
       },
       {
         "year": 2020,
@@ -477,7 +477,7 @@
       },
       {
         "year": 2022,
-        "count": 1833
+        "count": 1832
       },
       {
         "year": 2023,
@@ -489,18 +489,18 @@
       },
       {
         "year": 2025,
-        "count": 4439
+        "count": 4436
       },
       {
         "year": 2026,
-        "count": 1022
+        "count": 1024
       }
     ],
     "by_object_type": {
-      "R/B": 6826,
-      "PAY": 25586,
+      "R/B": 6828,
+      "PAY": 25588,
       "DEB": 35750,
-      "UNK": 166
+      "UNK": 164
     }
   },
   "ucs": {},
@@ -683,35 +683,35 @@
     },
     {
       "year": 2019,
-      "cumulative_active": 1527
+      "cumulative_active": 1526
     },
     {
       "year": 2020,
-      "cumulative_active": 2041
+      "cumulative_active": 2040
     },
     {
       "year": 2021,
-      "cumulative_active": 3113
+      "cumulative_active": 3112
     },
     {
       "year": 2022,
-      "cumulative_active": 4946
+      "cumulative_active": 4944
     },
     {
       "year": 2023,
-      "cumulative_active": 7293
+      "cumulative_active": 7291
     },
     {
       "year": 2024,
-      "cumulative_active": 9899
+      "cumulative_active": 9897
     },
     {
       "year": 2025,
-      "cumulative_active": 14338
+      "cumulative_active": 14333
     },
     {
       "year": 2026,
-      "cumulative_active": 15360
+      "cumulative_active": 15357
     }
   ]
 }
