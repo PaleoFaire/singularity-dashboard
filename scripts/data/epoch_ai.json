@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-04-07T07:25:06.116355Z",
+  "fetched_at": "2026-04-08T07:41:48.792733Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3880,6 +3880,14 @@
       "organization": "NVIDIA,Nanjing University,Tsinghua University,Hong Kong Polytechnic University,Johns Hopkins University,New York University (NYU)"
     },
     {
+      "name": "Nemotron 3-Nano-30B-A3B",
+      "year": 2025,
+      "date": "2025-12-15",
+      "training_flop": 4.8e+23,
+      "training_flop_log10": 23.68,
+      "organization": "NVIDIA"
+    },
+    {
       "name": "gpt-oss-20b",
       "year": 2025,
       "date": "2025-08-05",
@@ -4150,12 +4158,28 @@
       "training_flop": 5.0000000000001e+26,
       "training_flop_log10": 26.7,
       "organization": "xAI"
+    },
+    {
+      "name": "Kimi K2.5",
+      "year": 2026,
+      "date": "2026-02-02",
+      "training_flop": 5.8e+24,
+      "training_flop_log10": 24.76,
+      "organization": "Moonshot"
+    },
+    {
+      "name": "GLM-5",
+      "year": 2026,
+      "date": "2026-02-17",
+      "training_flop": 6.84e+24,
+      "training_flop_log10": 24.84,
+      "organization": "Z.ai (Zhipu AI)"
     }
   ],
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 518,
+    "total_notable_models": 521,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
@@ -4407,6 +4431,11 @@
         "year": 2025,
         "max_flop": 5.0000000000001e+26,
         "max_flop_log10": 26.7
+      },
+      {
+        "year": 2026,
+        "max_flop": 6.84e+24,
+        "max_flop_log10": 24.84
       }
     ]
   }
