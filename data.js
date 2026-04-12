@@ -1242,16 +1242,16 @@ const TECHNOLOGIES = [
   metric: "Active Satellites in Orbit",
   startValue: "2,200",
   startYear: 2019,
-  currentValue: "15,448",
+  currentValue: "15,450",
   currentYear: 2026,
   targetValue: "100,000+",
   targetLabel: "Orbital Infrastructure Era",
   progressPercent: 48,
 
-  keyMetric: { label: "Active Satellites", value: "15,448", change: "68,466 total objects tracked" },
+  keyMetric: { label: "Active Satellites", value: "15,450", change: "68,470 total objects tracked" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
-  sparkline: [0.0, 1.0, 2.5, 3.6, 7.1, 14.5, 27.1, 43.3, 61.4, 92.1, 100.0],
+  sparkline: [0.0, 1.0, 2.5, 3.6, 7.1, 14.5, 27.1, 43.3, 61.4, 92.0, 100.0],
 
   dataSource: {
     name: "UCS Satellite Database + CelesTrak",
@@ -1743,7 +1743,7 @@ const LIVE_DATA = {
     },
     {
       "year": 2026,
-      "cumulative_active": 15448
+      "cumulative_active": 15450
     }
   ],
   "satelliteLaunches": [
@@ -1853,7 +1853,7 @@ const LIVE_DATA = {
     },
     {
       "year": 2026,
-      "count": 1205
+      "count": 1209
     }
   ],
   "solarElectricityTWh": [
