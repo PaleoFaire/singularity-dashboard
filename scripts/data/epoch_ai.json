@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-04-14T07:54:45.420484Z",
+  "fetched_at": "2026-04-15T07:55:11.920440Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -269,7 +269,7 @@
       "date": "1994-01-07",
       "training_flop": 4531200000.0,
       "training_flop_log10": 9.66,
-      "organization": "Sapienza Universit\u00e0 di Roma"
+      "organization": "Sapienza Universit\u00c3\u00a0 di Roma"
     },
     {
       "name": "Mixture of linear models",
@@ -373,7 +373,7 @@
       "date": "2000-11-28",
       "training_flop": 6339000000000000.0,
       "training_flop_log10": 15.8,
-      "organization": "University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "Decision tree (classification)",
@@ -389,7 +389,7 @@
       "date": "2003-03-15",
       "training_flop": 132076260000000.0,
       "training_flop_log10": 14.12,
-      "organization": "University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "NPLM (AP News)",
@@ -397,7 +397,7 @@
       "date": "2003-03-15",
       "training_flop": 1666869200000000.0,
       "training_flop_log10": 15.22,
-      "organization": "University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "Invariant CNN",
@@ -509,7 +509,7 @@
       "date": "2010-05-13",
       "training_flop": 350000000000000.0,
       "training_flop_log10": 14.54,
-      "organization": "University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "iCCCP",
@@ -717,7 +717,7 @@
       "date": "2013-12-05",
       "training_flop": 1.340928e+18,
       "training_flop_log10": 18.13,
-      "organization": "Universite de Technologie de Compi\u00e8gne \u2013 CNRS,Google"
+      "organization": "Universite de Technologie de Compi\u00c3\u00a8gne \u00e2\u0080\u0093 CNRS,Google"
     },
     {
       "name": "DistBelief NNLM",
@@ -781,7 +781,7 @@
       "date": "2014-06-10",
       "training_flop": 5.184e+17,
       "training_flop_log10": 17.71,
-      "organization": "University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "GoogLeNet / InceptionV1",
@@ -797,7 +797,7 @@
       "date": "2014-09-01",
       "training_flop": 1.5552e+18,
       "training_flop_log10": 18.19,
-      "organization": "Jacobs University Bremen,University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "Jacobs University Bremen,University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "SPPNet",
@@ -805,7 +805,7 @@
       "date": "2014-06-18",
       "training_flop": 3.411072e+18,
       "training_flop_log10": 18.53,
-      "organization": "Microsoft,Xi\u2019an Jiaotong University,University of Science and Technology of China (USTC)"
+      "organization": "Microsoft,Xi\u00e2\u0080\u0099an Jiaotong University,University of Science and Technology of China (USTC)"
     },
     {
       "name": "VGG19",
@@ -1000,7 +1000,7 @@
       "organization": "Carnegie Mellon University (CMU)"
     },
     {
-      "name": "ResNeXt-101 (64\u00d74d)",
+      "name": "ResNeXt-101 (64\u00c3\u00974d)",
       "year": 2016,
       "date": "2016-11-16",
       "training_flop": 1.2e+19,
@@ -1101,7 +1101,7 @@
       "date": "2017-10-31",
       "training_flop": 3.06e+17,
       "training_flop_log10": 17.49,
-      "organization": "Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "Jagiellonian University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2)",
@@ -1296,7 +1296,7 @@
       "organization": "Salesforce Research"
     },
     {
-      "name": "(ensemble): AWD-LSTM-DOC (fin) \u00d7 5 (WT2)",
+      "name": "(ensemble): AWD-LSTM-DOC (fin) \u00c3\u0097 5 (WT2)",
       "year": 2018,
       "date": "2018-08-30",
       "training_flop": 6.66e+17,
@@ -1440,7 +1440,7 @@
       "organization": "University of Texas at Austin"
     },
     {
-      "name": "AWD-LSTM-DRILL + dynamic evaluation\u2020 (WT2)",
+      "name": "AWD-LSTM-DRILL + dynamic evaluation\u00e2\u0080\u00a0 (WT2)",
       "year": 2019,
       "date": "2019-05-14",
       "training_flop": 4.08e+17,
@@ -1861,7 +1861,7 @@
       "date": "2020-11-23",
       "training_flop": 1.66e+21,
       "training_flop_log10": 21.22,
-      "organization": "Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "Tsinghua University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),HEC,CIFAR AI Research,Princeton University,University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "ALBERT-xxlarge",
@@ -2093,7 +2093,7 @@
       "date": "2021-12-16",
       "training_flop": 1.57e+20,
       "training_flop_log10": 20.2,
-      "organization": "Meta AI,University College London (UCL),PSL University,Universit\u00e9 Grenoble Alpes"
+      "organization": "Meta AI,University College London (UCL),PSL University,Universit\u00c3\u00a9 Grenoble Alpes"
     },
     {
       "name": "Masked Autoencoders ViT-H",
@@ -2200,7 +2200,7 @@
       "organization": "OpenAI"
     },
     {
-      "name": "N\u00dcWA",
+      "name": "N\u00c3\u009cWA",
       "year": 2021,
       "date": "2021-11-24",
       "training_flop": 7.24598784e+21,
@@ -2848,7 +2848,7 @@
       "organization": "Meta AI"
     },
     {
-      "name": "DALL\u00b7E 2",
+      "name": "DALL\u00c2\u00b7E 2",
       "year": 2022,
       "date": "2022-04-06",
       "training_flop": 3.3695784e+23,
@@ -3069,7 +3069,7 @@
       "date": "2023-06-27",
       "training_flop": 1.811e+21,
       "training_flop_log10": 21.26,
-      "organization": "Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Universit\u00e9 de Montr\u00e9al"
+      "organization": "Stanford University,Harvard University,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),University of Montreal / Universit\u00c3\u00a9 de Montr\u00c3\u00a9al"
     },
     {
       "name": "VILA-13B",
@@ -3328,7 +3328,7 @@
       "organization": "Google DeepMind"
     },
     {
-      "name": "PanGu-\u03a3",
+      "name": "PanGu-\u00ce\u00a3",
       "year": 2023,
       "date": "2023-03-20",
       "training_flop": 4.67e+23,
@@ -3560,7 +3560,7 @@
       "organization": "Meta AI"
     },
     {
-      "name": "ALLaM\u00a0adapted 70B",
+      "name": "ALLaM\u00c2\u00a0adapted 70B",
       "year": 2024,
       "date": "2024-05-21",
       "training_flop": 1.062e+24,
