@@ -3,11 +3,11 @@
    20 Technologies Bending Toward Vertical
    Rational Optimist Society © 2026
 
-   LAST UPDATED: 2026-04-21 (manual baseline)
+   LAST UPDATED: 2026-04-22 (manual baseline)
    AUTO-UPDATE: scripts/update_data.py refreshes automatable fields
    ═══════════════════════════════════════════════════════════ */
 
-const LAST_UPDATED = "2026-04-21";
+const LAST_UPDATED = "2026-04-22";
 
 const TECHNOLOGIES = [
 
@@ -117,7 +117,7 @@ const TECHNOLOGIES = [
     frequency: "Monthly",
     automated: true,
     script: "fetch_ai_pricing.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "Inference cost measures how much it costs to generate AI responses. In 2020, frontier-quality inference cost ~$60 per million tokens (GPT-3 Davinci). By February 2026, equivalent capability costs $0.15/M tokens — a 400x decline. Budget models run at fractions of a penny. This is arguably the most important price curve in the global economy right now.",
@@ -400,7 +400,7 @@ const TECHNOLOGIES = [
     frequency: "Quarterly",
     automated: true,
     script: "fetch_sec_capex.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "The physical scale of AI infrastructure is unprecedented. The largest datacenter campuses under construction now draw 500-700+ MW of power — enough to power a city of 400,000+ people. Amazon ($125B), Alphabet ($91B), Meta ($66-72B), and Microsoft ($80B+) are each spending massive sums on AI infrastructure in 2025. xAI's Memphis Supercluster houses 100,000+ H100 GPUs. Plans for gigawatt-scale (1,000+ MW) campuses are actively being developed, requiring dedicated power plants — often nuclear.",
@@ -471,7 +471,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_transistors.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "Intel's 4004 (1971) had 2,300 transistors. Apple's M4 Ultra (2025) has over 100 billion. That's a 43-million-fold increase. The cost per transistor has fallen from ~$1 to less than a billionth of a cent. This is the most sustained exponential in human history — 50+ years of Moore's Law and its successors. Even as traditional transistor scaling slows, 3D chip stacking (TSMC's SoIC), chiplets, and advanced packaging keep the trajectory going.",
@@ -617,7 +617,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_solar_energy.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "Solar PV module costs have fallen from $76/watt in 1977 to ~$0.14/watt in 2026 — a decline of more than 99.8%. This follows Swanson's Law: every doubling of cumulative production reduces price by ~20-25%. Global solar installations hit over 500 GW in 2024 alone — more than all nuclear power ever built, in a single year.",
@@ -688,7 +688,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_solar_energy.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "Annual solar PV installations have gone from 0.3 GW in 2000 to over 500 GW in 2024 — a 1,600x increase. China alone added 278 GW in 2024. Total global cumulative solar capacity now exceeds 1,866 GW, representing 42% of all renewable energy capacity. The deployment curve is classic S-curve acceleration — the steep part of the S is happening right now.",
@@ -973,7 +973,7 @@ const TECHNOLOGIES = [
     type: "excel",
     frequency: "Historical (stale since 2022)",
     automated: false,
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "The cost to sequence a complete human genome dropped from $100 million (Human Genome Project, 2001) to $100 in February 2026. This decline — the Carlson Curve — outpaced Moore's Law by 10x. The first genome took 13 years and $3 billion. Today: hours and less than a nice dinner.",
@@ -1242,13 +1242,13 @@ const TECHNOLOGIES = [
   metric: "Active Satellites in Orbit",
   startValue: "2,200",
   startYear: 2019,
-  currentValue: "15,586",
+  currentValue: "15,578",
   currentYear: 2026,
   targetValue: "100,000+",
   targetLabel: "Orbital Infrastructure Era",
   progressPercent: 48,
 
-  keyMetric: { label: "Active Satellites", value: "15,586", change: "68,625 total objects tracked" },
+  keyMetric: { label: "Active Satellites", value: "15,578", change: "68,626 total objects tracked" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
   sparkline: [0.0, 1.0, 2.5, 3.5, 7.0, 14.3, 26.8, 42.8, 60.7, 91.1, 100.0],
@@ -1260,7 +1260,7 @@ const TECHNOLOGIES = [
     frequency: "Daily (CelesTrak) / Quarterly (UCS)",
     automated: true,
     script: "fetch_satellites.py",
-    lastPull: "2026-04-21"
+    lastPull: "2026-04-22"
   },
 
   whatItIs: "Active satellites in orbit exploded from ~2,200 (2019) to 13,000+ (2026). In 2024 alone, 2,800+ satellites were launched — more than the entire 20th century. Starlink dominates with 7,000+ satellites. This is the early phase of building an orbital infrastructure layer around Earth.",
@@ -1445,7 +1445,7 @@ const TECHNOLOGIES = [
 
 
 // ═══════════════════════════════════════════════════════════
-// LIVE_DATA — Raw API data for charts (auto-generated 2026-04-21)
+// LIVE_DATA — Raw API data for charts (auto-generated 2026-04-22)
 // Do not edit manually — regenerated by update_data.py
 // ═══════════════════════════════════════════════════════════
 const LIVE_DATA = {
@@ -1631,119 +1631,119 @@ const LIVE_DATA = {
     },
     {
       "year": 1998,
-      "cumulative_active": 87
+      "cumulative_active": 86
     },
     {
       "year": 1999,
-      "cumulative_active": 95
+      "cumulative_active": 94
     },
     {
       "year": 2000,
-      "cumulative_active": 108
+      "cumulative_active": 107
     },
     {
       "year": 2001,
-      "cumulative_active": 122
+      "cumulative_active": 121
     },
     {
       "year": 2002,
-      "cumulative_active": 135
+      "cumulative_active": 134
     },
     {
       "year": 2003,
-      "cumulative_active": 163
+      "cumulative_active": 161
     },
     {
       "year": 2004,
-      "cumulative_active": 189
+      "cumulative_active": 187
     },
     {
       "year": 2005,
-      "cumulative_active": 212
+      "cumulative_active": 210
     },
     {
       "year": 2006,
-      "cumulative_active": 236
+      "cumulative_active": 234
     },
     {
       "year": 2007,
-      "cumulative_active": 278
+      "cumulative_active": 276
     },
     {
       "year": 2008,
-      "cumulative_active": 323
+      "cumulative_active": 321
     },
     {
       "year": 2009,
-      "cumulative_active": 381
+      "cumulative_active": 379
     },
     {
       "year": 2010,
-      "cumulative_active": 445
+      "cumulative_active": 443
     },
     {
       "year": 2011,
-      "cumulative_active": 516
+      "cumulative_active": 514
     },
     {
       "year": 2012,
-      "cumulative_active": 585
+      "cumulative_active": 583
     },
     {
       "year": 2013,
-      "cumulative_active": 687
+      "cumulative_active": 685
     },
     {
       "year": 2014,
-      "cumulative_active": 807
+      "cumulative_active": 805
     },
     {
       "year": 2015,
-      "cumulative_active": 917
+      "cumulative_active": 915
     },
     {
       "year": 2016,
-      "cumulative_active": 1006
+      "cumulative_active": 1005
     },
     {
       "year": 2017,
-      "cumulative_active": 1152
+      "cumulative_active": 1151
     },
     {
       "year": 2018,
-      "cumulative_active": 1369
+      "cumulative_active": 1368
     },
     {
       "year": 2019,
-      "cumulative_active": 1521
+      "cumulative_active": 1520
     },
     {
       "year": 2020,
-      "cumulative_active": 2023
+      "cumulative_active": 2021
     },
     {
       "year": 2021,
-      "cumulative_active": 3091
+      "cumulative_active": 3087
     },
     {
       "year": 2022,
-      "cumulative_active": 4913
+      "cumulative_active": 4907
     },
     {
       "year": 2023,
-      "cumulative_active": 7253
+      "cumulative_active": 7246
     },
     {
       "year": 2024,
-      "cumulative_active": 9853
+      "cumulative_active": 9846
     },
     {
       "year": 2025,
-      "cumulative_active": 14284
+      "cumulative_active": 14276
     },
     {
       "year": 2026,
-      "cumulative_active": 15586
+      "cumulative_active": 15578
     }
   ],
   "satelliteLaunches": [
@@ -1853,7 +1853,7 @@ const LIVE_DATA = {
     },
     {
       "year": 2026,
-      "count": 1364
+      "count": 1365
     }
   ],
   "solarElectricityTWh": [
