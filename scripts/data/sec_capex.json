@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-04-24T08:11:21.013280Z",
+  "fetched_at": "2026-04-25T07:24:50.255308Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -1311,7 +1311,7 @@
     },
     "Alphabet": {
       "cik": "0001652044",
-      "entity_name": "ALPHABET INC.",
+      "entity_name": "Alphabet Inc.",
       "all_filings": [
         {
           "end_date": "2013-12-31",
