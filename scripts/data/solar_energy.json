@@ -3,7 +3,7 @@
   "urls": [
     "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv"
   ],
-  "fetched_at": "2026-04-27T08:32:59.286692Z",
+  "fetched_at": "2026-04-28T08:31:07.898337Z",
   "solar_capacity_gw": [],
   "solar_share_energy": [
     {
@@ -390,19 +390,19 @@
     },
     {
       "year": 2000,
-      "solar_electricity_twh": 1.03
+      "solar_electricity_twh": 1.02
     },
     {
       "year": 2001,
-      "solar_electricity_twh": 1.37
+      "solar_electricity_twh": 1.36
     },
     {
       "year": 2002,
-      "solar_electricity_twh": 1.71
+      "solar_electricity_twh": 1.72
     },
     {
       "year": 2003,
-      "solar_electricity_twh": 2.1
+      "solar_electricity_twh": 2.11
     },
     {
       "year": 2004,
@@ -410,23 +410,23 @@
     },
     {
       "year": 2005,
-      "solar_electricity_twh": 3.94
+      "solar_electricity_twh": 3.95
     },
     {
       "year": 2006,
-      "solar_electricity_twh": 5.41
+      "solar_electricity_twh": 5.42
     },
     {
       "year": 2007,
-      "solar_electricity_twh": 7.28
+      "solar_electricity_twh": 7.29
     },
     {
       "year": 2008,
-      "solar_electricity_twh": 11.84
+      "solar_electricity_twh": 11.85
     },
     {
       "year": 2009,
-      "solar_electricity_twh": 19.81
+      "solar_electricity_twh": 19.82
     },
     {
       "year": 2010,
@@ -434,59 +434,63 @@
     },
     {
       "year": 2011,
-      "solar_electricity_twh": 63.61
+      "solar_electricity_twh": 63.56
     },
     {
       "year": 2012,
-      "solar_electricity_twh": 96.98
+      "solar_electricity_twh": 96.92
     },
     {
       "year": 2013,
-      "solar_electricity_twh": 131.95
+      "solar_electricity_twh": 131.75
     },
     {
       "year": 2014,
-      "solar_electricity_twh": 197.75
+      "solar_electricity_twh": 197.74
     },
     {
       "year": 2015,
-      "solar_electricity_twh": 256.39
+      "solar_electricity_twh": 256.01
     },
     {
       "year": 2016,
-      "solar_electricity_twh": 327.76
+      "solar_electricity_twh": 327.47
     },
     {
       "year": 2017,
-      "solar_electricity_twh": 445.0
+      "solar_electricity_twh": 444.65
     },
     {
       "year": 2018,
-      "solar_electricity_twh": 575.18
+      "solar_electricity_twh": 575.16
     },
     {
       "year": 2019,
-      "solar_electricity_twh": 705.3
+      "solar_electricity_twh": 697.94
     },
     {
       "year": 2020,
-      "solar_electricity_twh": 857.41
+      "solar_electricity_twh": 853.39
     },
     {
       "year": 2021,
-      "solar_electricity_twh": 1054.39
+      "solar_electricity_twh": 1053.99
     },
     {
       "year": 2022,
-      "solar_electricity_twh": 1330.01
+      "solar_electricity_twh": 1333.12
     },
     {
       "year": 2023,
-      "solar_electricity_twh": 1661.36
+      "solar_electricity_twh": 1664.14
     },
     {
       "year": 2024,
-      "solar_electricity_twh": 2128.37
+      "solar_electricity_twh": 2142.65
+    },
+    {
+      "year": 2025,
+      "solar_electricity_twh": 2778.64
     }
   ],
   "solar_consumption_twh": [
@@ -803,8 +807,8 @@
   ],
   "summary": {
     "latest_electricity_twh": {
-      "year": 2024,
-      "solar_electricity_twh": 2128.37
+      "year": 2025,
+      "solar_electricity_twh": 2778.64
     },
     "latest_module_cost": {
       "year": 2024,

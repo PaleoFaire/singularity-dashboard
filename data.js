@@ -3,11 +3,11 @@
    20 Technologies Bending Toward Vertical
    Rational Optimist Society © 2026
 
-   LAST UPDATED: 2026-04-27 (manual baseline)
+   LAST UPDATED: 2026-04-28 (manual baseline)
    AUTO-UPDATE: scripts/update_data.py refreshes automatable fields
    ═══════════════════════════════════════════════════════════ */
 
-const LAST_UPDATED = "2026-04-27";
+const LAST_UPDATED = "2026-04-28";
 
 const TECHNOLOGIES = [
 
@@ -117,7 +117,7 @@ const TECHNOLOGIES = [
     frequency: "Monthly",
     automated: true,
     script: "fetch_ai_pricing.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "Inference cost measures how much it costs to generate AI responses. In 2020, frontier-quality inference cost ~$60 per million tokens (GPT-3 Davinci). By February 2026, equivalent capability costs $0.15/M tokens — a 400x decline. Budget models run at fractions of a penny. This is arguably the most important price curve in the global economy right now.",
@@ -400,7 +400,7 @@ const TECHNOLOGIES = [
     frequency: "Quarterly",
     automated: true,
     script: "fetch_sec_capex.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "The physical scale of AI infrastructure is unprecedented. The largest datacenter campuses under construction now draw 500-700+ MW of power — enough to power a city of 400,000+ people. Amazon ($125B), Alphabet ($91B), Meta ($66-72B), and Microsoft ($80B+) are each spending massive sums on AI infrastructure in 2025. xAI's Memphis Supercluster houses 100,000+ H100 GPUs. Plans for gigawatt-scale (1,000+ MW) campuses are actively being developed, requiring dedicated power plants — often nuclear.",
@@ -471,7 +471,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_transistors.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "Intel's 4004 (1971) had 2,300 transistors. Apple's M4 Ultra (2025) has over 100 billion. That's a 43-million-fold increase. The cost per transistor has fallen from ~$1 to less than a billionth of a cent. This is the most sustained exponential in human history — 50+ years of Moore's Law and its successors. Even as traditional transistor scaling slows, 3D chip stacking (TSMC's SoIC), chiplets, and advanced packaging keep the trajectory going.",
@@ -617,7 +617,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_solar_energy.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "Solar PV module costs have fallen from $76/watt in 1977 to ~$0.14/watt in 2026 — a decline of more than 99.8%. This follows Swanson's Law: every doubling of cumulative production reduces price by ~20-25%. Global solar installations hit over 500 GW in 2024 alone — more than all nuclear power ever built, in a single year.",
@@ -670,16 +670,16 @@ const TECHNOLOGIES = [
   metric: "Annual Solar GW Installed",
   startValue: "~0.3 GW",
   startYear: 2000,
-  currentValue: "2,128 TWh",
+  currentValue: "2,779 TWh",
   currentYear: 2024,
   targetValue: "2,000+ GW",
   targetLabel: "Terawatt-Scale Solar",
   progressPercent: 55,
 
-  keyMetric: { label: "Solar Generation", value: "2,128 TWh", change: "+28% YoY" },
+  keyMetric: { label: "Solar Generation", value: "2,779 TWh", change: "+30% YoY" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
-  sparkline: [0.0, 3.0, 6.7, 12.8, 19.5, 26.3, 34.2, 44.4, 58.6, 75.8, 100.0],
+  sparkline: [0.0, 2.8, 7.5, 12.7, 17.5, 23.7, 31.6, 42.7, 55.8, 74.8, 100.0],
 
   dataSource: {
     name: "Our World in Data / IRENA",
@@ -688,7 +688,7 @@ const TECHNOLOGIES = [
     frequency: "Annual",
     automated: true,
     script: "fetch_solar_energy.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "Annual solar PV installations have gone from 0.3 GW in 2000 to over 500 GW in 2024 — a 1,600x increase. China alone added 278 GW in 2024. Total global cumulative solar capacity now exceeds 1,866 GW, representing 42% of all renewable energy capacity. The deployment curve is classic S-curve acceleration — the steep part of the S is happening right now.",
@@ -973,7 +973,7 @@ const TECHNOLOGIES = [
     type: "excel",
     frequency: "Historical (stale since 2022)",
     automated: false,
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "The cost to sequence a complete human genome dropped from $100 million (Human Genome Project, 2001) to $100 in February 2026. This decline — the Carlson Curve — outpaced Moore's Law by 10x. The first genome took 13 years and $3 billion. Today: hours and less than a nice dinner.",
@@ -1260,7 +1260,7 @@ const TECHNOLOGIES = [
     frequency: "Daily (CelesTrak) / Quarterly (UCS)",
     automated: true,
     script: "fetch_satellites.py",
-    lastPull: "2026-04-27"
+    lastPull: "2026-04-28"
   },
 
   whatItIs: "Active satellites in orbit exploded from ~2,200 (2019) to 13,000+ (2026). In 2024 alone, 2,800+ satellites were launched — more than the entire 20th century. Starlink dominates with 7,000+ satellites. This is the early phase of building an orbital infrastructure layer around Earth.",
@@ -1445,7 +1445,7 @@ const TECHNOLOGIES = [
 
 
 // ═══════════════════════════════════════════════════════════
-// LIVE_DATA — Raw API data for charts (auto-generated 2026-04-27)
+// LIVE_DATA — Raw API data for charts (auto-generated 2026-04-28)
 // Do not edit manually — regenerated by update_data.py
 // ═══════════════════════════════════════════════════════════
 const LIVE_DATA = {
@@ -1859,19 +1859,19 @@ const LIVE_DATA = {
   "solarElectricityTWh": [
     {
       "year": 2000,
-      "solar_electricity_twh": 1.03
+      "solar_electricity_twh": 1.02
     },
     {
       "year": 2001,
-      "solar_electricity_twh": 1.37
+      "solar_electricity_twh": 1.36
     },
     {
       "year": 2002,
-      "solar_electricity_twh": 1.71
+      "solar_electricity_twh": 1.72
     },
     {
       "year": 2003,
-      "solar_electricity_twh": 2.1
+      "solar_electricity_twh": 2.11
     },
     {
       "year": 2004,
@@ -1879,23 +1879,23 @@ const LIVE_DATA = {
     },
     {
       "year": 2005,
-      "solar_electricity_twh": 3.94
+      "solar_electricity_twh": 3.95
     },
     {
       "year": 2006,
-      "solar_electricity_twh": 5.41
+      "solar_electricity_twh": 5.42
     },
     {
       "year": 2007,
-      "solar_electricity_twh": 7.28
+      "solar_electricity_twh": 7.29
     },
     {
       "year": 2008,
-      "solar_electricity_twh": 11.84
+      "solar_electricity_twh": 11.85
     },
     {
       "year": 2009,
-      "solar_electricity_twh": 19.81
+      "solar_electricity_twh": 19.82
     },
     {
       "year": 2010,
@@ -1903,59 +1903,63 @@ const LIVE_DATA = {
     },
     {
       "year": 2011,
-      "solar_electricity_twh": 63.61
+      "solar_electricity_twh": 63.56
     },
     {
       "year": 2012,
-      "solar_electricity_twh": 96.98
+      "solar_electricity_twh": 96.92
     },
     {
       "year": 2013,
-      "solar_electricity_twh": 131.95
+      "solar_electricity_twh": 131.75
     },
     {
       "year": 2014,
-      "solar_electricity_twh": 197.75
+      "solar_electricity_twh": 197.74
     },
     {
       "year": 2015,
-      "solar_electricity_twh": 256.39
+      "solar_electricity_twh": 256.01
     },
     {
       "year": 2016,
-      "solar_electricity_twh": 327.76
+      "solar_electricity_twh": 327.47
     },
     {
       "year": 2017,
-      "solar_electricity_twh": 445.0
+      "solar_electricity_twh": 444.65
     },
     {
       "year": 2018,
-      "solar_electricity_twh": 575.18
+      "solar_electricity_twh": 575.16
     },
     {
       "year": 2019,
-      "solar_electricity_twh": 705.3
+      "solar_electricity_twh": 697.94
     },
     {
       "year": 2020,
-      "solar_electricity_twh": 857.41
+      "solar_electricity_twh": 853.39
     },
     {
       "year": 2021,
-      "solar_electricity_twh": 1054.39
+      "solar_electricity_twh": 1053.99
     },
     {
       "year": 2022,
-      "solar_electricity_twh": 1330.01
+      "solar_electricity_twh": 1333.12
     },
     {
       "year": 2023,
-      "solar_electricity_twh": 1661.36
+      "solar_electricity_twh": 1664.14
     },
     {
       "year": 2024,
-      "solar_electricity_twh": 2128.37
+      "solar_electricity_twh": 2142.65
+    },
+    {
+      "year": 2025,
+      "solar_electricity_twh": 2778.64
     }
   ],
   "solarModuleCost": [
