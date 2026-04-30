@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-04-29T08:24:57.978723Z",
+  "fetched_at": "2026-04-30T08:27:46.851448Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -645,6 +645,15 @@
           "capex_usd": 49270000000,
           "capex_usd_billions": 49.27,
           "frame": ""
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 80146000000,
+          "capex_usd_billions": 80.15,
+          "frame": ""
         }
       ],
       "quarterly": [
@@ -1124,6 +1133,15 @@
           "capex_usd": 49270000000,
           "capex_usd_billions": 49.27,
           "frame": ""
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q3",
+          "form": "10-Q",
+          "capex_usd": 80146000000,
+          "capex_usd_billions": 80.15,
+          "frame": ""
         }
       ],
       "annual": [
@@ -1291,12 +1309,12 @@
         }
       ],
       "latest_quarterly": {
-        "end_date": "2025-12-31",
+        "end_date": "2026-03-31",
         "fiscal_year": 2026,
-        "fiscal_period": "Q2",
+        "fiscal_period": "Q3",
         "form": "10-Q",
-        "capex_usd": 49270000000,
-        "capex_usd_billions": 49.27,
+        "capex_usd": 80146000000,
+        "capex_usd_billions": 80.15,
         "frame": ""
       },
       "latest_annual": {
@@ -4076,8 +4094,8 @@
     ],
     "latest_quarterly_by_company": {
       "Microsoft": {
-        "period": "2026 Q2",
-        "capex_usd_billions": 49.27
+        "period": "2026 Q3",
+        "capex_usd_billions": 80.15
       },
       "Alphabet": {
         "period": "2025 Q3",
