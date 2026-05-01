@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-04-30T08:27:46.851448Z",
+  "fetched_at": "2026-05-01T08:18:59.758253Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -1725,7 +1725,7 @@
           "form": "10-Q",
           "capex_usd": 17197000000,
           "capex_usd_billions": 17.2,
-          "frame": "CY2025Q1"
+          "frame": ""
         },
         {
           "end_date": "2025-06-30",
@@ -1753,6 +1753,15 @@
           "capex_usd": 91447000000,
           "capex_usd_billions": 91.45,
           "frame": "CY2025"
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 35674000000,
+          "capex_usd_billions": 35.67,
+          "frame": "CY2026Q1"
         }
       ],
       "quarterly": [
@@ -2042,7 +2051,7 @@
           "form": "10-Q",
           "capex_usd": 17197000000,
           "capex_usd_billions": 17.2,
-          "frame": "CY2025Q1"
+          "frame": ""
         },
         {
           "end_date": "2025-06-30",
@@ -2061,6 +2070,15 @@
           "capex_usd": 63596000000,
           "capex_usd_billions": 63.6,
           "frame": ""
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 35674000000,
+          "capex_usd_billions": 35.67,
+          "frame": "CY2026Q1"
         }
       ],
       "annual": [
@@ -2183,13 +2201,13 @@
         }
       ],
       "latest_quarterly": {
-        "end_date": "2025-09-30",
-        "fiscal_year": 2025,
-        "fiscal_period": "Q3",
+        "end_date": "2026-03-31",
+        "fiscal_year": 2026,
+        "fiscal_period": "Q1",
         "form": "10-Q",
-        "capex_usd": 63596000000,
-        "capex_usd_billions": 63.6,
-        "frame": ""
+        "capex_usd": 35674000000,
+        "capex_usd_billions": 35.67,
+        "frame": "CY2026Q1"
       },
       "latest_annual": {
         "end_date": "2025-12-31",
@@ -2203,7 +2221,7 @@
     },
     "Amazon": {
       "cik": "0001018724",
-      "entity_name": "AMAZON COM INC",
+      "entity_name": "AMAZON.COM, INC.",
       "all_filings": [
         {
           "end_date": "2007-12-31",
@@ -3410,7 +3428,7 @@
           "form": "10-Q",
           "capex_usd": 12941000000,
           "capex_usd_billions": 12.94,
-          "frame": "CY2025Q1"
+          "frame": ""
         },
         {
           "end_date": "2025-06-30",
@@ -3438,6 +3456,15 @@
           "capex_usd": 69691000000,
           "capex_usd_billions": 69.69,
           "frame": "CY2025"
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 18997000000,
+          "capex_usd_billions": 19.0,
+          "frame": "CY2026Q1"
         }
       ],
       "quarterly": [
@@ -3817,7 +3844,7 @@
           "form": "10-Q",
           "capex_usd": 12941000000,
           "capex_usd_billions": 12.94,
-          "frame": "CY2025Q1"
+          "frame": ""
         },
         {
           "end_date": "2025-06-30",
@@ -3836,6 +3863,15 @@
           "capex_usd": 48308000000,
           "capex_usd_billions": 48.31,
           "frame": ""
+        },
+        {
+          "end_date": "2026-03-31",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q1",
+          "form": "10-Q",
+          "capex_usd": 18997000000,
+          "capex_usd_billions": 19.0,
+          "frame": "CY2026Q1"
         }
       ],
       "annual": [
@@ -3985,13 +4021,13 @@
         }
       ],
       "latest_quarterly": {
-        "end_date": "2025-09-30",
-        "fiscal_year": 2025,
-        "fiscal_period": "Q3",
+        "end_date": "2026-03-31",
+        "fiscal_year": 2026,
+        "fiscal_period": "Q1",
         "form": "10-Q",
-        "capex_usd": 48308000000,
-        "capex_usd_billions": 48.31,
-        "frame": ""
+        "capex_usd": 18997000000,
+        "capex_usd_billions": 19.0,
+        "frame": "CY2026Q1"
       },
       "latest_annual": {
         "end_date": "2025-12-31",
@@ -4098,16 +4134,16 @@
         "capex_usd_billions": 80.15
       },
       "Alphabet": {
-        "period": "2025 Q3",
-        "capex_usd_billions": 63.6
+        "period": "2026 Q1",
+        "capex_usd_billions": 35.67
       },
       "Amazon": {
         "period": "2017 Q1",
         "capex_usd_billions": 7.42
       },
       "Meta": {
-        "period": "2025 Q3",
-        "capex_usd_billions": 48.31
+        "period": "2026 Q1",
+        "capex_usd_billions": 19.0
       }
     }
   }
