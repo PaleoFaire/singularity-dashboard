@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-05-05T08:17:29.042642Z",
+  "fetched_at": "2026-05-07T08:40:12.834583Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4160,6 +4160,14 @@
       "organization": "xAI"
     },
     {
+      "name": "DeepSeek-V4-Flash",
+      "year": 2026,
+      "date": "2026-04-24",
+      "training_flop": 2.496e+24,
+      "training_flop_log10": 24.4,
+      "organization": "DeepSeek"
+    },
+    {
       "name": "Kimi K2.5",
       "year": 2026,
       "date": "2026-02-02",
@@ -4174,12 +4182,20 @@
       "training_flop": 6.84e+24,
       "training_flop_log10": 24.84,
       "organization": "Z.ai (Zhipu AI)"
+    },
+    {
+      "name": "DeepSeek-V4-Pro",
+      "year": 2026,
+      "date": "2026-04-24",
+      "training_flop": 9.702e+24,
+      "training_flop_log10": 24.99,
+      "organization": "DeepSeek"
     }
   ],
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 521,
+    "total_notable_models": 523,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
@@ -4434,8 +4450,8 @@
       },
       {
         "year": 2026,
-        "max_flop": 6.84e+24,
-        "max_flop_log10": 24.84
+        "max_flop": 9.702e+24,
+        "max_flop_log10": 24.99
       }
     ]
   }
