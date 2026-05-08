@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-07T08:40:13.436607Z",
+  "fetched_at": "2026-05-08T07:47:22.330774Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
     "total_objects": 68888,
-    "active_satellites": 15796,
+    "active_satellites": 15793,
     "launches_by_year": [
       {
         "year": 1957,
@@ -461,7 +461,7 @@
       },
       {
         "year": 2018,
-        "count": 217
+        "count": 216
       },
       {
         "year": 2019,
@@ -469,7 +469,7 @@
       },
       {
         "year": 2020,
-        "count": 490
+        "count": 489
       },
       {
         "year": 2021,
@@ -485,7 +485,7 @@
       },
       {
         "year": 2024,
-        "count": 2597
+        "count": 2596
       },
       {
         "year": 2025,
@@ -679,39 +679,39 @@
     },
     {
       "year": 2018,
-      "cumulative_active": 1366
+      "cumulative_active": 1365
     },
     {
       "year": 2019,
-      "cumulative_active": 1518
+      "cumulative_active": 1517
     },
     {
       "year": 2020,
-      "cumulative_active": 2008
+      "cumulative_active": 2006
     },
     {
       "year": 2021,
-      "cumulative_active": 3068
+      "cumulative_active": 3066
     },
     {
       "year": 2022,
-      "cumulative_active": 4876
+      "cumulative_active": 4874
     },
     {
       "year": 2023,
-      "cumulative_active": 7209
+      "cumulative_active": 7207
     },
     {
       "year": 2024,
-      "cumulative_active": 9806
+      "cumulative_active": 9803
     },
     {
       "year": 2025,
-      "cumulative_active": 14230
+      "cumulative_active": 14227
     },
     {
       "year": 2026,
-      "cumulative_active": 15796
+      "cumulative_active": 15793
     }
   ]
 }
