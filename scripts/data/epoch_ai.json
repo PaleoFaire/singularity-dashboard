@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-05-13T08:49:24.886968Z",
+  "fetched_at": "2026-05-14T08:43:16.115969Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4190,12 +4190,20 @@
       "training_flop": 9.702e+24,
       "training_flop_log10": 24.99,
       "organization": "DeepSeek"
+    },
+    {
+      "name": "Composer 2",
+      "year": 2026,
+      "date": "2026-03-19",
+      "training_flop": 2.32e+25,
+      "training_flop_log10": 25.37,
+      "organization": "Cursor"
     }
   ],
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 523,
+    "total_notable_models": 524,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
@@ -4450,8 +4458,8 @@
       },
       {
         "year": 2026,
-        "max_flop": 9.702e+24,
-        "max_flop_log10": 24.99
+        "max_flop": 2.32e+25,
+        "max_flop_log10": 25.37
       }
     ]
   }
