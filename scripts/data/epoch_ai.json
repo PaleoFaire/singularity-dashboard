@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-05-26T10:03:21.129002Z",
+  "fetched_at": "2026-05-27T10:01:31.727726Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4176,6 +4176,14 @@
       "organization": "Moonshot"
     },
     {
+      "name": "MiMo-V2.5-Pro",
+      "year": 2026,
+      "date": "2026-04-27",
+      "training_flop": 6.804e+24,
+      "training_flop_log10": 24.83,
+      "organization": "Xiaomi Corp"
+    },
+    {
       "name": "GLM-5",
       "year": 2026,
       "date": "2026-02-17",
@@ -4211,7 +4219,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 525,
+    "total_notable_models": 526,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
