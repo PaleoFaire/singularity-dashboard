@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-05-29T10:00:48.518227Z",
+  "fetched_at": "2026-05-30T08:32:28.479093Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -1608,6 +1608,14 @@
       "organization": "Facebook,INRIA,Sorbonne University"
     },
     {
+      "name": "Megatron-LM (1.2B)",
+      "year": 2019,
+      "date": "2019-09-17",
+      "training_flop": 1.1304e+21,
+      "training_flop_log10": 21.05,
+      "organization": "NVIDIA"
+    },
+    {
       "name": "GPT-2 (1.5B)",
       "year": 2019,
       "date": "2019-02-14",
@@ -1645,14 +1653,6 @@
       "date": "2019-09-17",
       "training_flop": 9.1e+21,
       "training_flop_log10": 21.96,
-      "organization": "NVIDIA"
-    },
-    {
-      "name": "Megatron-LM (1.2B)",
-      "year": 2019,
-      "date": "2019-09-17",
-      "training_flop": 1.13e+22,
-      "training_flop_log10": 22.05,
       "organization": "NVIDIA"
     },
     {
