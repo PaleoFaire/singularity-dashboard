@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-01T11:43:42.280822Z",
+  "fetched_at": "2026-06-02T10:43:55.788230Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
-    "total_objects": 69124,
-    "active_satellites": 15977,
+    "total_objects": 69214,
+    "active_satellites": 16061,
     "launches_by_year": [
       {
         "year": 1957,
@@ -171,7 +171,7 @@
       },
       {
         "year": 1998,
-        "count": 893
+        "count": 894
       },
       {
         "year": 1999,
@@ -283,7 +283,7 @@
       },
       {
         "year": 2026,
-        "count": 1859
+        "count": 1948
       }
     ],
     "active_by_launch_year": [
@@ -465,7 +465,7 @@
       },
       {
         "year": 2020,
-        "count": 477
+        "count": 475
       },
       {
         "year": 2021,
@@ -477,11 +477,11 @@
       },
       {
         "year": 2023,
-        "count": 2328
+        "count": 2327
       },
       {
         "year": 2024,
-        "count": 2590
+        "count": 2589
       },
       {
         "year": 2025,
@@ -489,13 +489,13 @@
       },
       {
         "year": 2026,
-        "count": 1789
+        "count": 1877
       }
     ],
     "by_object_type": {
-      "R/B": 6848,
-      "PAY": 26363,
-      "DEB": 35756,
+      "R/B": 6849,
+      "PAY": 26451,
+      "DEB": 35757,
       "UNK": 157
     }
   },
@@ -679,31 +679,31 @@
     },
     {
       "year": 2020,
-      "cumulative_active": 1989
+      "cumulative_active": 1987
     },
     {
       "year": 2021,
-      "cumulative_active": 3048
+      "cumulative_active": 3046
     },
     {
       "year": 2022,
-      "cumulative_active": 4853
+      "cumulative_active": 4851
     },
     {
       "year": 2023,
-      "cumulative_active": 7181
+      "cumulative_active": 7178
     },
     {
       "year": 2024,
-      "cumulative_active": 9771
+      "cumulative_active": 9767
     },
     {
       "year": 2025,
-      "cumulative_active": 14188
+      "cumulative_active": 14184
     },
     {
       "year": 2026,
-      "cumulative_active": 15977
+      "cumulative_active": 16061
     }
   ]
 }
