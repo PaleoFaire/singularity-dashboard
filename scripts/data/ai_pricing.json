@@ -1,6 +1,6 @@
 {
   "source": "Hardcoded historical data + public pricing pages",
-  "fetched_at": "2026-06-03T11:08:02.872614Z",
+  "fetched_at": "2026-06-04T10:02:08.249463Z",
   "pricing_history": [
     {
       "date": "2020-06-11",
@@ -587,8 +587,8 @@
   "summary": {
     "total_data_points": 32,
     "providers": [
-      "OpenAI",
       "Anthropic",
+      "OpenAI",
       "Google"
     ],
     "date_range": "2020-06-11 to 2025-04-16",
