@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-06-08T11:04:42.449143Z",
+  "fetched_at": "2026-06-09T09:53:18.809792Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4176,6 +4176,14 @@
       "organization": "Moonshot"
     },
     {
+      "name": "Nemotron 3 Ultra",
+      "year": 2026,
+      "date": "2026-06-04",
+      "training_flop": 6.6e+24,
+      "training_flop_log10": 24.82,
+      "organization": "NVIDIA"
+    },
+    {
       "name": "MiMo-V2.5-Pro",
       "year": 2026,
       "date": "2026-04-27",
@@ -4219,7 +4227,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 526,
+    "total_notable_models": 527,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
