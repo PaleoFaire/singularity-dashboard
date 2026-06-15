@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-14T10:42:43.790557Z",
+  "fetched_at": "2026-06-15T12:24:37.905693Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
     "total_objects": 69352,
-    "active_satellites": 16170,
+    "active_satellites": 16163,
     "launches_by_year": [
       {
         "year": 1957,
@@ -445,7 +445,7 @@
       },
       {
         "year": 2015,
-        "count": 113
+        "count": 112
       },
       {
         "year": 2016,
@@ -465,11 +465,11 @@
       },
       {
         "year": 2020,
-        "count": 473
+        "count": 472
       },
       {
         "year": 2021,
-        "count": 1055
+        "count": 1054
       },
       {
         "year": 2022,
@@ -477,11 +477,11 @@
       },
       {
         "year": 2023,
-        "count": 2322
+        "count": 2320
       },
       {
         "year": 2024,
-        "count": 2588
+        "count": 2586
       },
       {
         "year": 2025,
@@ -659,51 +659,51 @@
     },
     {
       "year": 2015,
-      "cumulative_active": 908
+      "cumulative_active": 907
     },
     {
       "year": 2016,
-      "cumulative_active": 998
+      "cumulative_active": 997
     },
     {
       "year": 2017,
-      "cumulative_active": 1144
+      "cumulative_active": 1143
     },
     {
       "year": 2018,
-      "cumulative_active": 1357
+      "cumulative_active": 1356
     },
     {
       "year": 2019,
-      "cumulative_active": 1508
+      "cumulative_active": 1507
     },
     {
       "year": 2020,
-      "cumulative_active": 1981
+      "cumulative_active": 1979
     },
     {
       "year": 2021,
-      "cumulative_active": 3036
+      "cumulative_active": 3033
     },
     {
       "year": 2022,
-      "cumulative_active": 4836
+      "cumulative_active": 4833
     },
     {
       "year": 2023,
-      "cumulative_active": 7158
+      "cumulative_active": 7153
     },
     {
       "year": 2024,
-      "cumulative_active": 9746
+      "cumulative_active": 9739
     },
     {
       "year": 2025,
-      "cumulative_active": 14161
+      "cumulative_active": 14154
     },
     {
       "year": 2026,
-      "cumulative_active": 16170
+      "cumulative_active": 16163
     }
   ]
 }
