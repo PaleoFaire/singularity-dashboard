@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-06-19T10:43:54.968969Z",
+  "fetched_at": "2026-06-20T09:23:59.428309Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4186,7 +4186,7 @@
     {
       "name": "MiMo-V2.5-Pro",
       "year": 2026,
-      "date": "2026-04-27",
+      "date": "2026-04-23",
       "training_flop": 6.804e+24,
       "training_flop_log10": 24.83,
       "organization": "Xiaomi Corp"
