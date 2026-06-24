@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-23T09:50:20.122532Z",
+  "fetched_at": "2026-06-24T09:37:55.632114Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
-    "total_objects": 69521,
-    "active_satellites": 16294,
+    "total_objects": 69523,
+    "active_satellites": 16293,
     "launches_by_year": [
       {
         "year": 1957,
@@ -283,7 +283,7 @@
       },
       {
         "year": 2026,
-        "count": 2252
+        "count": 2254
       }
     ],
     "active_by_launch_year": [
@@ -373,7 +373,7 @@
       },
       {
         "year": 1997,
-        "count": 8
+        "count": 7
       },
       {
         "year": 1998,
@@ -465,7 +465,7 @@
       },
       {
         "year": 2020,
-        "count": 466
+        "count": 465
       },
       {
         "year": 2021,
@@ -489,12 +489,12 @@
       },
       {
         "year": 2026,
-        "count": 2162
+        "count": 2163
       }
     ],
     "by_object_type": {
-      "R/B": 6859,
-      "PAY": 26739,
+      "R/B": 6860,
+      "PAY": 26740,
       "DEB": 35765,
       "UNK": 158
     }
@@ -587,123 +587,123 @@
     },
     {
       "year": 1997,
-      "cumulative_active": 57
+      "cumulative_active": 56
     },
     {
       "year": 1998,
-      "cumulative_active": 78
+      "cumulative_active": 77
     },
     {
       "year": 1999,
-      "cumulative_active": 86
+      "cumulative_active": 85
     },
     {
       "year": 2000,
-      "cumulative_active": 99
+      "cumulative_active": 98
     },
     {
       "year": 2001,
-      "cumulative_active": 112
+      "cumulative_active": 111
     },
     {
       "year": 2002,
-      "cumulative_active": 125
+      "cumulative_active": 124
     },
     {
       "year": 2003,
-      "cumulative_active": 152
+      "cumulative_active": 151
     },
     {
       "year": 2004,
-      "cumulative_active": 176
+      "cumulative_active": 175
     },
     {
       "year": 2005,
-      "cumulative_active": 199
+      "cumulative_active": 198
     },
     {
       "year": 2006,
-      "cumulative_active": 222
+      "cumulative_active": 221
     },
     {
       "year": 2007,
-      "cumulative_active": 264
+      "cumulative_active": 263
     },
     {
       "year": 2008,
-      "cumulative_active": 308
+      "cumulative_active": 307
     },
     {
       "year": 2009,
-      "cumulative_active": 366
+      "cumulative_active": 365
     },
     {
       "year": 2010,
-      "cumulative_active": 432
+      "cumulative_active": 431
     },
     {
       "year": 2011,
-      "cumulative_active": 503
+      "cumulative_active": 502
     },
     {
       "year": 2012,
-      "cumulative_active": 572
+      "cumulative_active": 571
     },
     {
       "year": 2013,
-      "cumulative_active": 673
+      "cumulative_active": 672
     },
     {
       "year": 2014,
-      "cumulative_active": 793
+      "cumulative_active": 792
     },
     {
       "year": 2015,
-      "cumulative_active": 905
+      "cumulative_active": 904
     },
     {
       "year": 2016,
-      "cumulative_active": 995
+      "cumulative_active": 994
     },
     {
       "year": 2017,
-      "cumulative_active": 1141
+      "cumulative_active": 1140
     },
     {
       "year": 2018,
-      "cumulative_active": 1354
+      "cumulative_active": 1353
     },
     {
       "year": 2019,
-      "cumulative_active": 1505
+      "cumulative_active": 1504
     },
     {
       "year": 2020,
-      "cumulative_active": 1971
+      "cumulative_active": 1969
     },
     {
       "year": 2021,
-      "cumulative_active": 3023
+      "cumulative_active": 3021
     },
     {
       "year": 2022,
-      "cumulative_active": 4819
+      "cumulative_active": 4817
     },
     {
       "year": 2023,
-      "cumulative_active": 7134
+      "cumulative_active": 7132
     },
     {
       "year": 2024,
-      "cumulative_active": 9717
+      "cumulative_active": 9715
     },
     {
       "year": 2025,
-      "cumulative_active": 14132
+      "cumulative_active": 14130
     },
     {
       "year": 2026,
-      "cumulative_active": 16294
+      "cumulative_active": 16293
     }
   ]
 }
