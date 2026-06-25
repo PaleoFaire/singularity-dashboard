@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-06-24T09:37:55.149071Z",
+  "fetched_at": "2026-06-25T09:29:33.172963Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3448,15 +3448,15 @@
       "organization": "Inflection AI"
     },
     {
-      "name": "GPT-4 (Mar 2023)",
+      "name": "GPT-4 (Jun 2023)",
       "year": 2023,
-      "date": "2023-03-15",
+      "date": "2023-06-13",
       "training_flop": 2.1e+25,
       "training_flop_log10": 25.32,
       "organization": "OpenAI"
     },
     {
-      "name": "GPT-4 (Jun 2023)",
+      "name": "GPT-4 (Mar 2023)",
       "year": 2023,
       "date": "2023-03-15",
       "training_flop": 2.1e+25,
@@ -4168,6 +4168,14 @@
       "organization": "DeepSeek"
     },
     {
+      "name": "EXAONE 4.5",
+      "year": 2026,
+      "date": "2026-04-09",
+      "training_flop": 3.85e+24,
+      "training_flop_log10": 24.59,
+      "organization": "LG AI Research"
+    },
+    {
       "name": "Kimi K2.5",
       "year": 2026,
       "date": "2026-02-02",
@@ -4227,7 +4235,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 527,
+    "total_notable_models": 528,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
