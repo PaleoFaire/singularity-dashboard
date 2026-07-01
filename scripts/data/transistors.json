@@ -3,7 +3,7 @@
   "urls": [
     "https://raw.githubusercontent.com/karlrupp/microprocessor-trend-data/master/50yrs/transistors.dat"
   ],
-  "fetched_at": "2026-06-30T09:46:45.592320Z",
+  "fetched_at": "2026-07-01T09:56:38.796510Z",
   "transistors": [
     {
       "year": 1971.9,
