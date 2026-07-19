@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-07-18T07:57:49.304584Z",
+  "fetched_at": "2026-07-19T08:24:35.510810Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4160,6 +4160,14 @@
       "organization": "xAI"
     },
     {
+      "name": "Inkling",
+      "year": 2026,
+      "date": "2026-07-15",
+      "training_flop": 1.845e+24,
+      "training_flop_log10": 24.27,
+      "organization": "Thinking Machines"
+    },
+    {
       "name": "DeepSeek-V4-Flash",
       "year": 2026,
       "date": "2026-04-24",
@@ -4235,7 +4243,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 528,
+    "total_notable_models": 529,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
