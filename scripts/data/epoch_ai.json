@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-07-21T08:34:29.778262Z",
+  "fetched_at": "2026-07-22T08:34:20.645969Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3800,28 +3800,12 @@
       "organization": "Saudi Aramco"
     },
     {
-      "name": "Mistral Large",
-      "year": 2024,
-      "date": "2024-02-26",
-      "training_flop": 1.12e+25,
-      "training_flop_log10": 25.05,
-      "organization": "Mistral AI"
-    },
-    {
       "name": "Nemotron-4 340B",
       "year": 2024,
       "date": "2024-06-14",
       "training_flop": 1.8e+25,
       "training_flop_log10": 25.26,
       "organization": "NVIDIA"
-    },
-    {
-      "name": "Mistral Large 2",
-      "year": 2024,
-      "date": "2024-07-24",
-      "training_flop": 2.13e+25,
-      "training_flop_log10": 25.33,
-      "organization": "Mistral AI"
     },
     {
       "name": "Doubao-pro",
@@ -4243,7 +4227,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 529,
+    "total_notable_models": 527,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
