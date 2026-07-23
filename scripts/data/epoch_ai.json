@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-07-22T08:34:20.645969Z",
+  "fetched_at": "2026-07-23T08:35:42.890453Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3912,6 +3912,14 @@
       "organization": "ByteDance"
     },
     {
+      "name": "Solar Open 100B",
+      "year": 2025,
+      "date": "2025-12-31",
+      "training_flop": 1.4e+24,
+      "training_flop_log10": 24.15,
+      "organization": "Upstage"
+    },
+    {
       "name": "K-EXAONE",
       "year": 2025,
       "date": "2025-12-31",
@@ -4144,6 +4152,14 @@
       "organization": "xAI"
     },
     {
+      "name": "Solar Open2 250B",
+      "year": 2026,
+      "date": "2026-06-28",
+      "training_flop": 1.05e+24,
+      "training_flop_log10": 24.02,
+      "organization": "Upstage"
+    },
+    {
       "name": "Inkling",
       "year": 2026,
       "date": "2026-07-15",
@@ -4227,7 +4243,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 527,
+    "total_notable_models": 529,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
