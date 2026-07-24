@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-07-23T08:35:50.580463Z",
+  "fetched_at": "2026-07-24T08:32:22.961649Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -1329,7 +1329,7 @@
     },
     "Alphabet": {
       "cik": "0001652044",
-      "entity_name": "ALPHABET INC.",
+      "entity_name": "Alphabet Inc.",
       "all_filings": [
         {
           "end_date": "2013-12-31",
@@ -1762,6 +1762,15 @@
           "capex_usd": 35674000000,
           "capex_usd_billions": 35.67,
           "frame": "CY2026Q1"
+        },
+        {
+          "end_date": "2026-06-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 80598000000,
+          "capex_usd_billions": 80.6,
+          "frame": ""
         }
       ],
       "quarterly": [
@@ -2079,6 +2088,15 @@
           "capex_usd": 35674000000,
           "capex_usd_billions": 35.67,
           "frame": "CY2026Q1"
+        },
+        {
+          "end_date": "2026-06-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "Q2",
+          "form": "10-Q",
+          "capex_usd": 80598000000,
+          "capex_usd_billions": 80.6,
+          "frame": ""
         }
       ],
       "annual": [
@@ -2201,13 +2219,13 @@
         }
       ],
       "latest_quarterly": {
-        "end_date": "2026-03-31",
+        "end_date": "2026-06-30",
         "fiscal_year": 2026,
-        "fiscal_period": "Q1",
+        "fiscal_period": "Q2",
         "form": "10-Q",
-        "capex_usd": 35674000000,
-        "capex_usd_billions": 35.67,
-        "frame": "CY2026Q1"
+        "capex_usd": 80598000000,
+        "capex_usd_billions": 80.6,
+        "frame": ""
       },
       "latest_annual": {
         "end_date": "2025-12-31",
@@ -4134,8 +4152,8 @@
         "capex_usd_billions": 80.15
       },
       "Alphabet": {
-        "period": "2026 Q1",
-        "capex_usd_billions": 35.67
+        "period": "2026 Q2",
+        "capex_usd_billions": 80.6
       },
       "Amazon": {
         "period": "2017 Q1",
