@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-07-27T09:58:05.885195Z",
+  "fetched_at": "2026-07-28T08:40:13.141761Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4224,6 +4224,14 @@
       "organization": "DeepSeek"
     },
     {
+      "name": "Kimi K3",
+      "year": 2026,
+      "date": "2026-07-16",
+      "training_flop": 2.0001e+25,
+      "training_flop_log10": 25.3,
+      "organization": "Moonshot"
+    },
+    {
       "name": "Composer 2",
       "year": 2026,
       "date": "2026-03-19",
@@ -4243,7 +4251,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 529,
+    "total_notable_models": 530,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
