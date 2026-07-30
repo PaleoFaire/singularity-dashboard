@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-07-29T08:46:10.151887Z",
+  "fetched_at": "2026-07-30T08:33:00.552022Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
@@ -626,7 +626,7 @@
           "form": "10-K",
           "capex_usd": 64551000000,
           "capex_usd_billions": 64.55,
-          "frame": "CY2025"
+          "frame": ""
         },
         {
           "end_date": "2025-09-30",
@@ -654,6 +654,15 @@
           "capex_usd": 80146000000,
           "capex_usd_billions": 80.15,
           "frame": ""
+        },
+        {
+          "end_date": "2026-06-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 115948000000,
+          "capex_usd_billions": 115.95,
+          "frame": "CY2026"
         }
       ],
       "quarterly": [
@@ -1305,7 +1314,16 @@
           "form": "10-K",
           "capex_usd": 64551000000,
           "capex_usd_billions": 64.55,
-          "frame": "CY2025"
+          "frame": ""
+        },
+        {
+          "end_date": "2026-06-30",
+          "fiscal_year": 2026,
+          "fiscal_period": "FY",
+          "form": "10-K",
+          "capex_usd": 115948000000,
+          "capex_usd_billions": 115.95,
+          "frame": "CY2026"
         }
       ],
       "latest_quarterly": {
@@ -1318,13 +1336,13 @@
         "frame": ""
       },
       "latest_annual": {
-        "end_date": "2025-06-30",
-        "fiscal_year": 2025,
+        "end_date": "2026-06-30",
+        "fiscal_year": 2026,
         "fiscal_period": "FY",
         "form": "10-K",
-        "capex_usd": 64551000000,
-        "capex_usd_billions": 64.55,
-        "frame": "CY2025"
+        "capex_usd": 115948000000,
+        "capex_usd_billions": 115.95,
+        "frame": "CY2026"
       }
     },
     "Alphabet": {
@@ -4144,6 +4162,11 @@
         "year": 2025,
         "total_capex_usd": 225689000000,
         "total_capex_usd_billions": 225.69
+      },
+      {
+        "year": 2026,
+        "total_capex_usd": 115948000000,
+        "total_capex_usd_billions": 115.95
       }
     ],
     "latest_quarterly_by_company": {
