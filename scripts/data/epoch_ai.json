@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-07-30T08:32:53.129318Z",
+  "fetched_at": "2026-07-31T08:54:46.309945Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4152,6 +4152,14 @@
       "organization": "xAI"
     },
     {
+      "name": "MolmoAct 2",
+      "year": 2026,
+      "date": "2026-04-05",
+      "training_flop": 1.1e+22,
+      "training_flop_log10": 22.04,
+      "organization": "Allen Institute for AI,University of Washington,National University of Singapore,University of Pennsylvania,Johns Hopkins University,Amazon,Cortex AI"
+    },
+    {
       "name": "Solar Open2 250B",
       "year": 2026,
       "date": "2026-06-28",
@@ -4251,7 +4259,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 530,
+    "total_notable_models": 531,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
