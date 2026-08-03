@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T09:55:52.457799+00:00",
-    "sources": {
-      "epoch_ai.json": {
-        "name": "Epoch AI",
-        "status": "ok"
-      },
-      "satellites.json": {
-        "name": "Satellites",
-        "status": "ok"
-      },
-      "solar_energy.json": {
-        "name": "Solar Energy",
-        "status": "ok"
-      },
-      "sec_capex.json": {
-        "name": "SEC CapEx",
-        "status": "ok"
-      },
-      "transistors.json": {
-        "name": "Transistors",
-        "status": "ok"
-      },
-      "fda_gene_therapy.json": {
-        "name": "FDA Gene Therapy",
-        "status": "ok"
-      },
-      "ai_pricing.json": {
-        "name": "AI Pricing",
-        "status": "ok"
-      }
-    }
-  },
-  {
     "timestamp": "2026-06-21T10:57:37.386960+00:00",
     "sources": {
       "epoch_ai.json": {
@@ -1618,6 +1585,39 @@
   },
   {
     "timestamp": "2026-08-02T09:46:48.523812+00:00",
+    "sources": {
+      "epoch_ai.json": {
+        "name": "Epoch AI",
+        "status": "ok"
+      },
+      "satellites.json": {
+        "name": "Satellites",
+        "status": "ok"
+      },
+      "solar_energy.json": {
+        "name": "Solar Energy",
+        "status": "ok"
+      },
+      "sec_capex.json": {
+        "name": "SEC CapEx",
+        "status": "ok"
+      },
+      "transistors.json": {
+        "name": "Transistors",
+        "status": "ok"
+      },
+      "fda_gene_therapy.json": {
+        "name": "FDA Gene Therapy",
+        "status": "ok"
+      },
+      "ai_pricing.json": {
+        "name": "AI Pricing",
+        "status": "ok"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-08-03T09:53:07.789475+00:00",
     "sources": {
       "epoch_ai.json": {
         "name": "Epoch AI",
