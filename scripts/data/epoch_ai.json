@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-08-04T08:43:31.700172Z",
+  "fetched_at": "2026-08-05T08:41:10.633339Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3770,7 +3770,7 @@
     {
       "name": "Llama-3.1-Nemotron-70B-Instruct",
       "year": 2024,
-      "date": "2024-06-12",
+      "date": "2024-10-12",
       "training_flop": 7.929e+24,
       "training_flop_log10": 24.9,
       "organization": "NVIDIA,Meta AI"
@@ -3838,6 +3838,14 @@
       "training_flop": 3.8e+25,
       "training_flop_log10": 25.58,
       "organization": "Meta AI"
+    },
+    {
+      "name": "Eurus-2-7B-PRIME",
+      "year": 2025,
+      "date": "2025-02-03",
+      "training_flop": 4.01915904e+20,
+      "training_flop_log10": 20.6,
+      "organization": "Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute"
     },
     {
       "name": "FGN",
@@ -4192,6 +4200,14 @@
       "organization": "DeepSeek"
     },
     {
+      "name": "K-EXAONE 2.0",
+      "year": 2026,
+      "date": "2026-07-31",
+      "training_flop": 3.55e+24,
+      "training_flop_log10": 24.55,
+      "organization": "LG AI Research"
+    },
+    {
       "name": "EXAONE 4.5",
       "year": 2026,
       "date": "2026-04-09",
@@ -4267,7 +4283,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 532,
+    "total_notable_models": 534,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
