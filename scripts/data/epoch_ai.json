@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-08-10T07:47:57.691567Z",
+  "fetched_at": "2026-08-11T07:13:20.594146Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4176,6 +4176,14 @@
       "organization": "Upstage"
     },
     {
+      "name": "Motif-3",
+      "year": 2026,
+      "date": "2026-08-07",
+      "training_flop": 1.1e+24,
+      "training_flop_log10": 24.04,
+      "organization": "Motif Technologies"
+    },
+    {
       "name": "A.X K2",
       "year": 2026,
       "date": "2026-07-29",
@@ -4283,7 +4291,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 534,
+    "total_notable_models": 535,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
