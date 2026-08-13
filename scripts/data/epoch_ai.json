@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-08-12T07:37:57.630046Z",
+  "fetched_at": "2026-08-13T07:39:26.630422Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4250,7 +4250,7 @@
     {
       "name": "GLM-5",
       "year": 2026,
-      "date": "2026-02-17",
+      "date": "2026-02-11",
       "training_flop": 6.84e+24,
       "training_flop_log10": 24.84,
       "organization": "Z.ai (Zhipu AI)"
