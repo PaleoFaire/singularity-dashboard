@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-08-24T07:04:59.925261Z",
+  "fetched_at": "2026-08-25T06:53:48.988387Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4264,6 +4264,14 @@
       "organization": "DeepSeek"
     },
     {
+      "name": "LongCat-2.0",
+      "year": 2026,
+      "date": "2026-06-29",
+      "training_flop": 1.008e+25,
+      "training_flop_log10": 25.0,
+      "organization": "Meituan Inc"
+    },
+    {
       "name": "Kimi K3",
       "year": 2026,
       "date": "2026-07-16",
@@ -4291,7 +4299,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 535,
+    "total_notable_models": 536,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
