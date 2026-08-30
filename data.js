@@ -1242,13 +1242,13 @@ const TECHNOLOGIES = [
   metric: "Active Satellites in Orbit",
   startValue: "2,200",
   startYear: 2019,
-  currentValue: "16,981",
+  currentValue: "16,980",
   currentYear: 2026,
   targetValue: "100,000+",
   targetLabel: "Orbital Infrastructure Era",
   progressPercent: 48,
 
-  keyMetric: { label: "Active Satellites", value: "16,981", change: "70,472 total objects tracked" },
+  keyMetric: { label: "Active Satellites", value: "16,980", change: "70,474 total objects tracked" },
   acceleration: 5,
   accelerationLabel: "Going Vertical",
   sparkline: [0.0, 0.9, 2.2, 3.2, 5.8, 12.2, 23.3, 37.6, 53.7, 81.3, 100.0],
@@ -1260,7 +1260,7 @@ const TECHNOLOGIES = [
     frequency: "Daily (CelesTrak) / Quarterly (UCS)",
     automated: true,
     script: "fetch_satellites.py",
-    lastPull: "2026-08-29"
+    lastPull: "2026-08-30"
   },
 
   whatItIs: "Active satellites in orbit exploded from ~2,200 (2019) to 13,000+ (2026). In 2024 alone, 2,800+ satellites were launched — more than the entire 20th century. Starlink dominates with 7,000+ satellites. This is the early phase of building an orbital infrastructure layer around Earth.",
@@ -1534,6 +1534,322 @@ const LIVE_DATA = {
       "year": 2026,
       "max_flop": 3.87e+25,
       "max_flop_log10": 25.59
+    }
+  ],
+  "activeSatellites": [
+    {
+      "year": 1964,
+      "cumulative_active": 2
+    },
+    {
+      "year": 1965,
+      "cumulative_active": 5
+    },
+    {
+      "year": 1967,
+      "cumulative_active": 9
+    },
+    {
+      "year": 1971,
+      "cumulative_active": 10
+    },
+    {
+      "year": 1974,
+      "cumulative_active": 11
+    },
+    {
+      "year": 1975,
+      "cumulative_active": 12
+    },
+    {
+      "year": 1976,
+      "cumulative_active": 13
+    },
+    {
+      "year": 1977,
+      "cumulative_active": 15
+    },
+    {
+      "year": 1978,
+      "cumulative_active": 16
+    },
+    {
+      "year": 1983,
+      "cumulative_active": 17
+    },
+    {
+      "year": 1984,
+      "cumulative_active": 18
+    },
+    {
+      "year": 1986,
+      "cumulative_active": 19
+    },
+    {
+      "year": 1988,
+      "cumulative_active": 20
+    },
+    {
+      "year": 1989,
+      "cumulative_active": 23
+    },
+    {
+      "year": 1990,
+      "cumulative_active": 25
+    },
+    {
+      "year": 1991,
+      "cumulative_active": 26
+    },
+    {
+      "year": 1992,
+      "cumulative_active": 27
+    },
+    {
+      "year": 1993,
+      "cumulative_active": 33
+    },
+    {
+      "year": 1994,
+      "cumulative_active": 36
+    },
+    {
+      "year": 1995,
+      "cumulative_active": 40
+    },
+    {
+      "year": 1996,
+      "cumulative_active": 47
+    },
+    {
+      "year": 1997,
+      "cumulative_active": 54
+    },
+    {
+      "year": 1998,
+      "cumulative_active": 80
+    },
+    {
+      "year": 1999,
+      "cumulative_active": 88
+    },
+    {
+      "year": 2000,
+      "cumulative_active": 101
+    },
+    {
+      "year": 2001,
+      "cumulative_active": 113
+    },
+    {
+      "year": 2002,
+      "cumulative_active": 126
+    },
+    {
+      "year": 2003,
+      "cumulative_active": 153
+    },
+    {
+      "year": 2004,
+      "cumulative_active": 177
+    },
+    {
+      "year": 2005,
+      "cumulative_active": 200
+    },
+    {
+      "year": 2006,
+      "cumulative_active": 223
+    },
+    {
+      "year": 2007,
+      "cumulative_active": 265
+    },
+    {
+      "year": 2008,
+      "cumulative_active": 309
+    },
+    {
+      "year": 2009,
+      "cumulative_active": 367
+    },
+    {
+      "year": 2010,
+      "cumulative_active": 433
+    },
+    {
+      "year": 2011,
+      "cumulative_active": 502
+    },
+    {
+      "year": 2012,
+      "cumulative_active": 570
+    },
+    {
+      "year": 2013,
+      "cumulative_active": 671
+    },
+    {
+      "year": 2014,
+      "cumulative_active": 791
+    },
+    {
+      "year": 2015,
+      "cumulative_active": 903
+    },
+    {
+      "year": 2016,
+      "cumulative_active": 992
+    },
+    {
+      "year": 2017,
+      "cumulative_active": 1138
+    },
+    {
+      "year": 2018,
+      "cumulative_active": 1349
+    },
+    {
+      "year": 2019,
+      "cumulative_active": 1499
+    },
+    {
+      "year": 2020,
+      "cumulative_active": 1919
+    },
+    {
+      "year": 2021,
+      "cumulative_active": 2940
+    },
+    {
+      "year": 2022,
+      "cumulative_active": 4711
+    },
+    {
+      "year": 2023,
+      "cumulative_active": 7006
+    },
+    {
+      "year": 2024,
+      "cumulative_active": 9580
+    },
+    {
+      "year": 2025,
+      "cumulative_active": 13983
+    },
+    {
+      "year": 2026,
+      "cumulative_active": 16980
+    }
+  ],
+  "satelliteLaunches": [
+    {
+      "year": 2000,
+      "count": 730
+    },
+    {
+      "year": 2001,
+      "count": 582
+    },
+    {
+      "year": 2002,
+      "count": 395
+    },
+    {
+      "year": 2003,
+      "count": 243
+    },
+    {
+      "year": 2004,
+      "count": 216
+    },
+    {
+      "year": 2005,
+      "count": 195
+    },
+    {
+      "year": 2006,
+      "count": 1168
+    },
+    {
+      "year": 2007,
+      "count": 360
+    },
+    {
+      "year": 2008,
+      "count": 419
+    },
+    {
+      "year": 2009,
+      "count": 388
+    },
+    {
+      "year": 2010,
+      "count": 413
+    },
+    {
+      "year": 2011,
+      "count": 665
+    },
+    {
+      "year": 2012,
+      "count": 474
+    },
+    {
+      "year": 2013,
+      "count": 432
+    },
+    {
+      "year": 2014,
+      "count": 545
+    },
+    {
+      "year": 2015,
+      "count": 338
+    },
+    {
+      "year": 2016,
+      "count": 355
+    },
+    {
+      "year": 2017,
+      "count": 524
+    },
+    {
+      "year": 2018,
+      "count": 963
+    },
+    {
+      "year": 2019,
+      "count": 783
+    },
+    {
+      "year": 2020,
+      "count": 1437
+    },
+    {
+      "year": 2021,
+      "count": 2006
+    },
+    {
+      "year": 2022,
+      "count": 3541
+    },
+    {
+      "year": 2023,
+      "count": 3151
+    },
+    {
+      "year": 2024,
+      "count": 3680
+    },
+    {
+      "year": 2025,
+      "count": 4668
+    },
+    {
+      "year": 2026,
+      "count": 3127
     }
   ],
   "solarElectricityTWh": [
