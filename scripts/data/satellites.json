@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-01T11:22:12.521732Z",
+  "fetched_at": "2026-09-02T10:56:13.875130Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
     "total_objects": 70532,
-    "active_satellites": 17028,
+    "active_satellites": 17026,
     "launches_by_year": [
       {
         "year": 1957,
@@ -385,7 +385,7 @@
       },
       {
         "year": 2000,
-        "count": 13
+        "count": 12
       },
       {
         "year": 2001,
@@ -469,7 +469,7 @@
       },
       {
         "year": 2021,
-        "count": 1019
+        "count": 1018
       },
       {
         "year": 2022,
@@ -599,111 +599,111 @@
     },
     {
       "year": 2000,
-      "cumulative_active": 101
+      "cumulative_active": 100
     },
     {
       "year": 2001,
-      "cumulative_active": 113
+      "cumulative_active": 112
     },
     {
       "year": 2002,
-      "cumulative_active": 126
+      "cumulative_active": 125
     },
     {
       "year": 2003,
-      "cumulative_active": 153
+      "cumulative_active": 152
     },
     {
       "year": 2004,
-      "cumulative_active": 177
+      "cumulative_active": 176
     },
     {
       "year": 2005,
-      "cumulative_active": 200
+      "cumulative_active": 199
     },
     {
       "year": 2006,
-      "cumulative_active": 223
+      "cumulative_active": 222
     },
     {
       "year": 2007,
-      "cumulative_active": 265
+      "cumulative_active": 264
     },
     {
       "year": 2008,
-      "cumulative_active": 309
+      "cumulative_active": 308
     },
     {
       "year": 2009,
-      "cumulative_active": 367
+      "cumulative_active": 366
     },
     {
       "year": 2010,
-      "cumulative_active": 433
+      "cumulative_active": 432
     },
     {
       "year": 2011,
-      "cumulative_active": 502
+      "cumulative_active": 501
     },
     {
       "year": 2012,
-      "cumulative_active": 570
+      "cumulative_active": 569
     },
     {
       "year": 2013,
-      "cumulative_active": 671
+      "cumulative_active": 670
     },
     {
       "year": 2014,
-      "cumulative_active": 791
+      "cumulative_active": 790
     },
     {
       "year": 2015,
-      "cumulative_active": 903
+      "cumulative_active": 902
     },
     {
       "year": 2016,
-      "cumulative_active": 992
+      "cumulative_active": 991
     },
     {
       "year": 2017,
-      "cumulative_active": 1138
+      "cumulative_active": 1137
     },
     {
       "year": 2018,
-      "cumulative_active": 1349
+      "cumulative_active": 1348
     },
     {
       "year": 2019,
-      "cumulative_active": 1499
+      "cumulative_active": 1498
     },
     {
       "year": 2020,
-      "cumulative_active": 1916
+      "cumulative_active": 1915
     },
     {
       "year": 2021,
-      "cumulative_active": 2935
+      "cumulative_active": 2933
     },
     {
       "year": 2022,
-      "cumulative_active": 4705
+      "cumulative_active": 4703
     },
     {
       "year": 2023,
-      "cumulative_active": 6999
+      "cumulative_active": 6997
     },
     {
       "year": 2024,
-      "cumulative_active": 9571
+      "cumulative_active": 9569
     },
     {
       "year": 2025,
-      "cumulative_active": 13974
+      "cumulative_active": 13972
     },
     {
       "year": 2026,
-      "cumulative_active": 17028
+      "cumulative_active": 17026
     }
   ]
 }
