@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-09-02T10:56:13.277917Z",
+  "fetched_at": "2026-09-03T10:55:05.223196Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3602,7 +3602,7 @@
     {
       "name": "Yi-Lightning",
       "year": 2024,
-      "date": "2024-10-18",
+      "date": "2024-10-16",
       "training_flop": 1.5e+24,
       "training_flop_log10": 24.18,
       "organization": "01.AI"
@@ -3842,7 +3842,7 @@
     {
       "name": "Eurus-2-7B-PRIME",
       "year": 2025,
-      "date": "2025-02-03",
+      "date": "2025-01-02",
       "training_flop": 4.01915904e+20,
       "training_flop_log10": 20.6,
       "organization": "Tsinghua University,University of Illinois Urbana-Champaign (UIUC),Shanghai AI Lab,Peking University,Shanghai Jiao Tong University,CUHK Shenzhen Research Institute"
@@ -4042,7 +4042,7 @@
     {
       "name": "GLM-4.5",
       "year": 2025,
-      "date": "2025-08-05",
+      "date": "2025-07-28",
       "training_flop": 4.42e+24,
       "training_flop_log10": 24.65,
       "organization": "Z.ai (Zhipu AI),Tsinghua University"
@@ -4250,7 +4250,7 @@
     {
       "name": "GLM-5",
       "year": 2026,
-      "date": "2026-02-11",
+      "date": "2026-02-12",
       "training_flop": 6.84e+24,
       "training_flop_log10": 24.84,
       "organization": "Z.ai (Zhipu AI)"
