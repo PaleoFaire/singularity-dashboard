@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-06T11:47:29.907704Z",
+  "fetched_at": "2026-09-07T12:00:32.467877Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
-    "total_objects": 70580,
-    "active_satellites": 17018,
+    "total_objects": 70586,
+    "active_satellites": 17017,
     "launches_by_year": [
       {
         "year": 1957,
@@ -283,7 +283,7 @@
       },
       {
         "year": 2026,
-        "count": 3233
+        "count": 3239
       }
     ],
     "active_by_launch_year": [
@@ -465,15 +465,15 @@
       },
       {
         "year": 2020,
-        "count": 414
+        "count": 411
       },
       {
         "year": 2021,
-        "count": 1018
+        "count": 1016
       },
       {
         "year": 2022,
-        "count": 1767
+        "count": 1766
       },
       {
         "year": 2023,
@@ -481,7 +481,7 @@
       },
       {
         "year": 2024,
-        "count": 2572
+        "count": 2571
       },
       {
         "year": 2025,
@@ -489,12 +489,12 @@
       },
       {
         "year": 2026,
-        "count": 3056
+        "count": 3062
       }
     ],
     "by_object_type": {
       "R/B": 6891,
-      "PAY": 27643,
+      "PAY": 27649,
       "DEB": 35881,
       "UNK": 165
     }
@@ -679,31 +679,31 @@
     },
     {
       "year": 2020,
-      "cumulative_active": 1910
+      "cumulative_active": 1907
     },
     {
       "year": 2021,
-      "cumulative_active": 2928
+      "cumulative_active": 2923
     },
     {
       "year": 2022,
-      "cumulative_active": 4695
+      "cumulative_active": 4689
     },
     {
       "year": 2023,
-      "cumulative_active": 6988
+      "cumulative_active": 6982
     },
     {
       "year": 2024,
-      "cumulative_active": 9560
+      "cumulative_active": 9553
     },
     {
       "year": 2025,
-      "cumulative_active": 13962
+      "cumulative_active": 13955
     },
     {
       "year": 2026,
-      "cumulative_active": 17018
+      "cumulative_active": 17017
     }
   ]
 }
