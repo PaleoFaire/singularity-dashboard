@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-09-16T11:09:38.579254Z",
+  "fetched_at": "2026-09-17T11:17:52.912258Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4168,6 +4168,14 @@
       "organization": "Allen Institute for AI,University of Washington,National University of Singapore,University of Pennsylvania,Johns Hopkins University,Amazon,Cortex AI"
     },
     {
+      "name": "WeatherNext 3",
+      "year": 2026,
+      "date": "2026-09-03",
+      "training_flop": 2.0725198384e+23,
+      "training_flop_log10": 23.32,
+      "organization": "Google DeepMind,Google Research"
+    },
+    {
       "name": "Solar Open2 250B",
       "year": 2026,
       "date": "2026-06-28",
@@ -4230,6 +4238,14 @@
       "training_flop": 3.85e+24,
       "training_flop_log10": 24.59,
       "organization": "LG AI Research"
+    },
+    {
+      "name": "DeepSeek V4.1 Flash",
+      "year": 2026,
+      "date": "2026-09-09",
+      "training_flop": 4.32e+24,
+      "training_flop_log10": 24.64,
+      "organization": "DeepSeek"
     },
     {
       "name": "Kimi K2.5",
@@ -4307,7 +4323,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 537,
+    "total_notable_models": 539,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
