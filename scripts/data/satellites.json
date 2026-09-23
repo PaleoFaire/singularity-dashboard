@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T11:14:26.111722Z",
+  "fetched_at": "2026-09-23T11:06:52.982655Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
     "total_objects": 70744,
@@ -271,7 +271,7 @@
       },
       {
         "year": 2023,
-        "count": 3152
+        "count": 3151
       },
       {
         "year": 2024,
@@ -283,7 +283,7 @@
       },
       {
         "year": 2026,
-        "count": 3388
+        "count": 3389
       }
     ],
     "active_by_launch_year": [
@@ -477,7 +477,7 @@
       },
       {
         "year": 2023,
-        "count": 2292
+        "count": 2291
       },
       {
         "year": 2024,
@@ -489,7 +489,7 @@
       },
       {
         "year": 2026,
-        "count": 3198
+        "count": 3199
       }
     ],
     "by_object_type": {
@@ -691,15 +691,15 @@
     },
     {
       "year": 2023,
-      "cumulative_active": 6950
+      "cumulative_active": 6949
     },
     {
       "year": 2024,
-      "cumulative_active": 9519
+      "cumulative_active": 9518
     },
     {
       "year": 2025,
-      "cumulative_active": 13919
+      "cumulative_active": 13918
     },
     {
       "year": 2026,
