@@ -1,7 +1,7 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-09-30T12:11:58.819141Z",
+  "fetched_at": "2026-10-01T12:46:01.917767Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
