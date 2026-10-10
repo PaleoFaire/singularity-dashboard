@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T12:51:56.118150Z",
+  "fetched_at": "2026-10-10T12:09:53.148693Z",
   "celestrak": {
     "source": "CelesTrak SATCAT",
     "total_objects": 70970,
@@ -493,8 +493,8 @@
       }
     ],
     "by_object_type": {
-      "R/B": 6910,
-      "PAY": 27984,
+      "R/B": 6911,
+      "PAY": 27983,
       "DEB": 35911,
       "UNK": 165
     }
