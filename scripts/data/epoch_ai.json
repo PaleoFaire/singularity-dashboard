@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-10-14T11:29:00.227617Z",
+  "fetched_at": "2026-10-15T11:05:57.345642Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4323,8 +4323,8 @@
       "name": "GPT-6 Astra",
       "year": 2026,
       "date": "2026-09-03",
-      "training_flop": 1.0001e+27,
-      "training_flop_log10": 27.0,
+      "training_flop": 9.4e+26,
+      "training_flop_log10": 26.97,
       "organization": "OpenAI"
     }
   ],
@@ -4586,8 +4586,8 @@
       },
       {
         "year": 2026,
-        "max_flop": 1.0001e+27,
-        "max_flop_log10": 27.0
+        "max_flop": 9.4e+26,
+        "max_flop_log10": 26.97
       }
     ]
   }
