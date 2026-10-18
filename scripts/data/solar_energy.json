@@ -3,7 +3,7 @@
   "urls": [
     "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv"
   ],
-  "fetched_at": "2026-10-18T10:39:38.434832Z",
+  "fetched_at": "2026-10-18T12:13:48.339938Z",
   "solar_capacity_gw": [],
   "solar_share_energy": [
     {
