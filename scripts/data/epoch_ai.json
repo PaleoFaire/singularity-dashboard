@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-10-28T12:24:56.174006Z",
+  "fetched_at": "2026-10-29T12:34:32.690883Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4312,6 +4312,14 @@
       "organization": "Cursor"
     },
     {
+      "name": "MAI-Base-2",
+      "year": 2026,
+      "date": "2026-10-15",
+      "training_flop": 2.4e+25,
+      "training_flop_log10": 25.38,
+      "organization": "Microsoft"
+    },
+    {
       "name": "Composer 2.5",
       "year": 2026,
       "date": "2026-05-18",
@@ -4331,7 +4339,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 540,
+    "total_notable_models": 541,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
