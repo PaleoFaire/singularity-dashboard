@@ -1,11 +1,11 @@
 {
   "source": "SEC EDGAR XBRL API",
   "concept": "PaymentsToAcquirePropertyPlantAndEquipment",
-  "fetched_at": "2026-11-01T14:34:56.368176Z",
+  "fetched_at": "2026-11-02T15:10:47.837721Z",
   "companies": {
     "Microsoft": {
       "cik": "0000789019",
-      "entity_name": "MICROSOFT CORPORATION",
+      "entity_name": "MICROSOFT CORP",
       "all_filings": [
         {
           "end_date": "2008-06-30",
