@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-11-02T15:10:43.827792Z",
+  "fetched_at": "2026-11-03T13:52:19.775166Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4304,6 +4304,14 @@
       "organization": "Thinking Machines"
     },
     {
+      "name": "Mistral Large 4",
+      "year": 2026,
+      "date": "2026-10-06",
+      "training_flop": 1.24e+25,
+      "training_flop_log10": 25.09,
+      "organization": "Mistral AI"
+    },
+    {
       "name": "Kimi K3",
       "year": 2026,
       "date": "2026-07-16",
@@ -4347,7 +4355,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 542,
+    "total_notable_models": 543,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
