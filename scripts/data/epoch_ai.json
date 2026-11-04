@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-11-03T13:52:19.775166Z",
+  "fetched_at": "2026-11-04T14:00:17.718496Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -3968,6 +3968,14 @@
       "organization": "Moonshot"
     },
     {
+      "name": "DeepSeek-R1 (May 2025)",
+      "year": 2025,
+      "date": "2025-05-28",
+      "training_flop": 3.3e+24,
+      "training_flop_log10": 24.52,
+      "organization": "DeepSeek"
+    },
+    {
       "name": "DeepSeek-V3 (Mar 2025)",
       "year": 2025,
       "date": "2025-03-24",
@@ -3979,8 +3987,8 @@
       "name": "DeepSeek-R1",
       "year": 2025,
       "date": "2025-01-20",
-      "training_flop": 3.5e+24,
-      "training_flop_log10": 24.54,
+      "training_flop": 3.3e+24,
+      "training_flop_log10": 24.52,
       "organization": "DeepSeek"
     },
     {
@@ -3998,14 +4006,6 @@
       "training_flop": 3.726e+24,
       "training_flop_log10": 24.57,
       "organization": "Meituan Inc"
-    },
-    {
-      "name": "DeepSeek-R1 (May 2025)",
-      "year": 2025,
-      "date": "2025-05-28",
-      "training_flop": 4.020010000000001e+24,
-      "training_flop_log10": 24.6,
-      "organization": "DeepSeek"
     },
     {
       "name": "Llama 4 Scout",
