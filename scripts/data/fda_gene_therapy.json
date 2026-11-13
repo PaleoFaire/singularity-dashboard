@@ -1,6 +1,6 @@
 {
   "source": "FDA / openFDA / Curated data",
-  "fetched_at": "2026-11-12T14:52:44.246908Z",
+  "fetched_at": "2026-11-13T14:16:33.049748Z",
   "curated": {
     "therapies": [
       {
@@ -210,161 +210,7 @@
     },
     "total_approved": 20
   },
-  "openfda_results": [
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "ORIG",
-      "approval_date": "19730228"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "20030813"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19950315"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19850219"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19911009"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19891024"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19800630"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19850729"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19751001"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "20000411"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19840509"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19930317"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19820111"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "20100117"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19900228"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19860305"
-    },
-    {
-      "application_number": "NDA016931",
-      "brand_names": [
-        "R-GENE 10"
-      ],
-      "sponsor": "PHARMACIA AND UPJOHN",
-      "submission_type": "SUPPL",
-      "approval_date": "19750825"
-    }
-  ],
+  "openfda_results": [],
   "summary": {
     "total_curated_approvals": 20,
     "approvals_by_year": [
@@ -419,6 +265,6 @@
       "type": "TCR-T cell therapy",
       "indication": "Synovial sarcoma"
     },
-    "openfda_results_count": 17
+    "openfda_results_count": 0
   }
 }
