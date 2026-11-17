@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-11-16T15:15:32.375294Z",
+  "fetched_at": "2026-11-17T15:42:42.055160Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4248,6 +4248,14 @@
       "organization": "DeepSeek"
     },
     {
+      "name": "MiMo-V2.5",
+      "year": 2026,
+      "date": "2026-04-22",
+      "training_flop": 4.32e+24,
+      "training_flop_log10": 24.64,
+      "organization": "Xiaomi Corp"
+    },
+    {
       "name": "Kimi K2.5",
       "year": 2026,
       "date": "2026-02-02",
@@ -4355,7 +4363,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 543,
+    "total_notable_models": 544,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
