@@ -5,7 +5,7 @@
     "https://epoch.ai/data/generated/frontier_ai_models.csv",
     "https://epoch.ai/data/ai_companies_revenue_reports.csv"
   ],
-  "fetched_at": "2026-11-17T15:42:42.055160Z",
+  "fetched_at": "2026-11-18T15:22:22.953238Z",
   "notable_models": [
     {
       "name": "Theseus",
@@ -4184,6 +4184,14 @@
       "organization": "Google DeepMind,Google Research"
     },
     {
+      "name": "Inkling 2 Small",
+      "year": 2026,
+      "date": "2026-11-05",
+      "training_flop": 2.13418e+23,
+      "training_flop_log10": 23.33,
+      "organization": "Thinking Machines"
+    },
+    {
       "name": "Solar Open2 250B",
       "year": 2026,
       "date": "2026-06-28",
@@ -4254,6 +4262,14 @@
       "training_flop": 4.32e+24,
       "training_flop_log10": 24.64,
       "organization": "Xiaomi Corp"
+    },
+    {
+      "name": "Ripple-65B Preview",
+      "year": 2026,
+      "date": "2026-11-04",
+      "training_flop": 4.83717e+24,
+      "training_flop_log10": 24.68,
+      "organization": "Ricursive Intelligence"
     },
     {
       "name": "Kimi K2.5",
@@ -4363,7 +4379,7 @@
   "frontier_models": [],
   "revenue": [],
   "summary": {
-    "total_notable_models": 544,
+    "total_notable_models": 546,
     "total_frontier_models": 0,
     "frontier_compute_by_year": [
       {
